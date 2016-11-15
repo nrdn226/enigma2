@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1,####ULUSAL####
+http://miraclaiptv.ddns.net:8000/live/mara/123456/2.ts
+#EXTINF:-1,(TR) TRT 1 FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/3.ts
+#EXTINF:-1,(TR) STAR TV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/7.ts
+#EXTINF:-1,TR:STAR TV YEDEK
+http://miraclaiptv.ddns.net:8000/live/mara/123456/9.ts
+#EXTINF:-1,TR:STAR TV
+http://miraclaiptv.ddns.net:8000/live/mara/123456/8.ts
+#EXTINF:-1,(TR) SHOW TV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/4.ts
+#EXTINF:-1,TR:SHOW TV HD (2)
+http://miraclaiptv.ddns.net:8000/live/mara/123456/6.ts
+#EXTINF:-1,TR:SHOW TV HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/5.ts
+#EXTINF:-1,(TR) KANAL D FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/10.ts
+#EXTINF:-1,TR: KANAL D (2)
+http://miraclaiptv.ddns.net:8000/live/mara/123456/12.ts
+#EXTINF:-1,TR:KANAL D
+http://miraclaiptv.ddns.net:8000/live/mara/123456/11.ts
+#EXTINF:-1,(TR) ATV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/14.ts
+#EXTINF:-1,TR:ATV YEDEK
+http://miraclaiptv.ddns.net:8000/live/mara/123456/16.ts
+#EXTINF:-1,TR:ATV
+http://miraclaiptv.ddns.net:8000/live/mara/123456/15.ts
+#EXTINF:-1,TR:FOX TV YEDEK
+http://miraclaiptv.ddns.net:8000/live/mara/123456/45.ts
+#EXTINF:-1,TR:FOX TV
+http://miraclaiptv.ddns.net:8000/live/mara/123456/44.ts
+#EXTINF:-1,(TR) FOX TV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/43.ts
+#EXTINF:-1,(TR) TV8 FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/17.ts
+#EXTINF:-1,TR:TV 8
+http://miraclaiptv.ddns.net:8000/live/mara/123456/18.ts
+#EXTINF:-1,TR: TV 8 YEDEK
+http://miraclaiptv.ddns.net:8000/live/mara/123456/19.ts
+#EXTINF:-1,(TR) TV8.5 SPOR HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/524.ts
+#EXTINF:-1,(TR) FIGHT NETWORK HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/525.ts
+#EXTINF:-1,(TR) BOOMERANG HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/526.ts
+#EXTINF:-1,(TR) SHOWMAX FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/26.ts
+#EXTINF:-1,(TR) TV 2 FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/21.ts
+#EXTINF:-1,(TR) KANAL 7 FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/39.ts
+#EXTINF:-1,(TR) NTV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/34.ts
+#EXTINF:-1,(TR) TRT HABER FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/23.ts
+#EXTINF:-1,(TR) A HABER FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/53.ts
+#EXTINF:-1,(TR) HABER TURK FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/42.ts
+#EXTINF:-1,(TR) CNN TURK FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/47.ts
+#EXTINF:-1,(TR) ULKE TV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/13.ts
+#EXTINF:-1,(TR) TVNET FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/20.ts
+#EXTINF:-1,(TR) 24 HABER FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/55.ts
+#EXTINF:-1,(TR) TRT SPOR FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/22.ts
+#EXTINF:-1,(TR) A SPOR FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/52.ts
+#EXTINF:-1,(TR) TRT COCUK  FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/24.ts
+#EXTINF:-1,(TR) TRT BELGESEL FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/25.ts
+#EXTINF:-1,(TR) PLANET ÇOCUK FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/28.ts
+#EXTINF:-1,(TR) NICKELODEON HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/32.ts
+#EXTINF:-1,(TR) NICK JR
+http://miraclaiptv.ddns.net:8000/live/mara/123456/33.ts
+#EXTINF:-1,(TR) MOVIE SMART COCUK FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/35.ts
+#EXTINF:-1,(TR) MINIKA GO FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/36.ts
+#EXTINF:-1,(TR) DISNEY XD HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/29.ts
+#EXTINF:-1,(TR) DISNEY JR HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/30.ts
+#EXTINF:-1,(TR) DISNEY CHANNEL FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/46.ts
+#EXTINF:-1,(TR) CARTOON NETWORK FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/48.ts
+#EXTINF:-1,(TR) BABY TV HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/31.ts
+#EXTINF:-1,(TR) POWER TÜRK FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/27.ts
+#EXTINF:-1,(TR) KRAL TV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/37.ts
+#EXTINF:-1,(TR) KRAL POP FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/38.ts
+#EXTINF:-1,(TR) KABE TV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/40.ts
+#EXTINF:-1,(TR) BLOOMBERG HT FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/49.ts
+#EXTINF:-1,(TR) BEYAZ TV FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/50.ts
+#EXTINF:-1,(TR) BENGU TURK FULL HD
+http://miraclaiptv.ddns.net:8000/live/mara/123456/51.ts
+#EXTINF:-1,(TR) 360 TV
+http://miraclaiptv.ddns.net:8000/live/mara/123456/54.ts
+#EXTINF:-1,TR:YABAN TV
+http://miraclaiptv.ddns.net:8000/live/mara/123456/57.ts
+#EXTINF:-1,TR:UçanKuş
+http://miraclaiptv.ddns.net:8000/live/mara/123456/58.ts
+#EXTINF:-1,TR:Kanal 3
+http://miraclaiptv.ddns.net:8000/live/mara/123456/60.ts
+#EXTINF:-1,TR:KANAL 26
+http://miraclaiptv.ddns.net:8000/live/mara/123456/59.ts
+#EXTINF:-1,TR:EGE TV
+http://miraclaiptv.ddns.net:8000/live/mara/123456/56.ts
