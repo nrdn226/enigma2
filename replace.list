@@ -1,0 +1,20 @@
+replace.list
+# replace old with new {{ sid } { caid } { provid } { ecmpid } { newcaid } { newprovid } { newecmpid }}
+# replace old caid > newcaid example
+X: {{ 603 } { 626 }}
+
+R: {{ 20F5 } { 0603 } { 000000 } { 14C2 } { 0626 } { 000000 } { 1509 }} #Al Jazeera Sports +1
+R: {{ 20F6 } { 0603 } { 000000 } { 1652 } { 0626 } { 000000 } { 1699 }} #Al Jazeera Sports +2
+R: {{ 20F7 } { 0603 } { 000000 } { 171A } { 0626 } { 000000 } { 1761 }} #Al Jazeera Sports +3
+R: {{ 20F8 } { 0603 } { 000000 } { 17E2 } { 0626 } { 000000 } { 1829 }} #Al Jazeera Sports +4
+R: {{ 20F9 } { 0603 } { 000000 } { 1846 } { 0626 } { 000000 } { 188D }} #Al Jazeera Sports +5
+R: {{ 20FA } { 0603 } { 000000 } { 18AA } { 0626 } { 000000 } { 18F1 }} #Al Jazeera Sports +6
+R: {{ 20FB } { 0603 } { 000000 } { 190E } { 0626 } { 000000 } { 1955 }} #Al Jazeera Sports +7
+R: {{ 20FC } { 0603 } { 000000 } { 1972 } { 0626 } { 000000 } { 19B9 }} #Al Jazeera Sports +8
+R: {{ 20FD } { 0603 } { 000000 } { 19D6 } { 0626 } { 000000 } { 1A1D }} #Al Jazeera Sports +9
+R: {{ 20FE } { 0603 } { 000000 } { 1A3A } { 0626 } { 000000 } { 1A81 }} #Al Jazeera Sports +10
+R: {{ 452F } { 0603 } { 000000 } { 00C8 } { 0626 } { 000000 } { 00FA }} #Al Jazeera Sports HD 1
+R: {{ 4530 } { 0603 } { 000000 } { 00C9 } { 0626 } { 000000 } { 00FB }} #Al Jazeera Sports HD 2
+R: {{ 4531 } { 0603 } { 000000 } { 1E46 } { 0626 } { 000000 } { 1E46 }} #Al Jazeera Sports News
+R: {{ 4532 } { 0603 } { 000000 } { 00CA } { 0626 } { 000000 } { 00CA }} #BeIN Sport 1 HD
+R: {{ 4533 } { 0603 } { 000000 } { 00CB } { 0626 } { 000000 } { 00CB }} #BeIN Sport 2 HD

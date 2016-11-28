@@ -1,0 +1,22 @@
+
+<script type="text/javascript">window.location = 'http://www.dvbsat.org/forum/index.php';</script># SoftCam & DVBSaT & SkyStar Team SoftCam.Key
+# Created Time: 17/Nov/2016 18:47
+# This nagra key file for gbox
+# Php&Sql writen & web Designed by @tonytr
+# IRD -> Boxkey -> RSA4N2camcrypt (only if required, 64 bytes) ->>
+# B: { A0 E0 00 0F { 92 14 23 B5 D8 5D 30 AF }} Boxkey Card1
+# B: { A0 E0 00 0F { 92 14 23 B5 D8 5D 30 AF }} Boxkey Card2
+# Nagra2 EMM Keys
+# SysID IDEA EMM Key 16 bytes -> RSA EMM Key 96 bytes ->>
+# Nagra2 ECM Keys
+# SysID RSA ECM Key 64 bytes ->>
+R: { C1 01 { 33 69 91 F2 DD 42 C0 EC 25 59 7B 75 DB DD F7 51 CF 06 9C F3 2D DD BC 30 84 53 F4 B6 05 06 A5 9D 65 2F AC 9B AD FE 16 8C A7 5E DB 18 AF CA C0 E9 82 7D 7A 44 47 AA E1 FC 00 EA BD 02 13 CA AE 87 }} ; Globecast
+# METER AQUI AS KEYS KAKA E DIGITAL+
+# Nagra2 IDEA Keys
+# SysID KS IDEA ECM Key 16 bytes ->
+I: { 21 11 01 { 10 F5 DB 01 64 6F D8 85 2C 0B CC A1 60 F0 B3 37 }}   Digi TV romania cabel
+I: { 21 11 00 { 70 13 9b a3 2f a2 53 37 59 94 19 9b b5 06 57 ff }}   Digi TV romania cabel
+I: { 73 01 01 { 5F D2 84 AA 40 E9 A4 A3 54 84 30 5C 41 A3 C3 F5 }}   Cablecom Swiss cable
+I: { 73 01 00 { 8F 60 3B 75 D8 56 29 56 DC 6E 3A 0F ED DD BD 1A }}   Cablecom Swiss cable
+I: { 11 01 00 { 9A F1 1C E0 87 1C 97 91 1F FF 40 99 85 1B 86 7D }}   Kabel Deutschland (23.5°E)
+; SoftCam & DVBSaT Team Members: @admin @tonytr @alimansur @coscos1222 @asus @kimcam @Sam007 @dzhack @SEVMEK46 
