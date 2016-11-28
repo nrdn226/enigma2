@@ -1,0 +1,401 @@
+#NAME ReMy_MUSIC_LIVE
+#SERVICE 1:64:C4:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
+#DESCRIPTION E N I G M A__T U R K__T E A M
+#SERVICE 1:64:C5:0:0:0:0:0:0:0::ReMy_MuSiC_KiNG
+#DESCRIPTION ReMy_MuSiC_KiNG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.78.6%3a1935/live/muztv.stream/index.m3u8:MUZ TV (AZ)
+#DESCRIPTION MUZ TV (AZ)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8:POWER TURK HD
+#DESCRIPTION POWER TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8:POWER TV HD
+#DESCRIPTION POWER TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8:DREAM
+#DESCRIPTION DREAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8:Dreamtv
+#DESCRIPTION Dreamtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8:Dreamturktv
+#DESCRIPTION Dreamturktv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kraldigital.radyotvonline.com/kraldigital/smil%3aakustiktv.smil/playlist.m3u8?token=28f874b6b348bd9ece56f263d7515b9620e6c9baf355d178:KRAL AKUSTIK TV
+#DESCRIPTION KRAL AKUSTIK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kraldigital.radyotvonline.com/kraldigital/smil%3ademotv.smil/playlist.m3u8?token=39b2321f02a6e1994c32d58a2304c81acd0950b955e04826:KRAL DEMO TV
+#DESCRIPTION KRAL DEMO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kraldigital.radyotvonline.com/kraldigital/smil%3ahomemadetv.smil/playlist.m3u8?token=005a774bb82e8359a7653a97233bbcf92632ab2df8adc73e:KHOME_MADE
+#DESCRIPTION KHOME_MADE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kraldigital.radyotvonline.com/kraldigital/smil%3akonsertv.smil/playlist.m3u8?token=340278454773acfaa15c381f575b0fee30af0daf0fc1bfee:KRAL KONSER TV
+#DESCRIPTION KRAL KONSER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kraldigital.radyotvonline.com/kraldigital/smil%3anonametv.smil/playlist.m3u8?token=5fdd84f3cf8fdf1710227a260f98159830105318abbd4744:KRAL NONAME TV
+#DESCRIPTION KRAL NONAME TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kraldigital.radyotvonline.com/kraldigital/smil%3adoksanlartv.smil/playlist.m3u8?token=2cc37cca7bf72d656d32a6776ccebe8b77c609d10646ff22:KRAL 90 LAR TV
+#DESCRIPTION KRAL 90 LAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8:TRT MUZIK
+#DESCRIPTION TRT MUZIK
+#SERVICE 1:64:C6:0:0:0:0:0:0:0::__M  U  S  i  C _C H A N N E L S__
+#DESCRIPTION __M  U  S  i  C _C H A N N E L S__
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1400:One.by 4K_UHD MUSIC TV
+#DESCRIPTION One.by 4K_UHD MUSIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8:538 TV
+#DESCRIPTION 538 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music Channel Hungary
+#DESCRIPTION 1Music Channel Hungary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8:1Music (Mold)
+#DESCRIPTION 1Music (Mold)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.17.8%3a1935/albuk/albmus.stream/playlist.m3u8:ALB Music
+#DESCRIPTION ALB Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//5.154.185.153/live/live:Atomic
+#DESCRIPTION Atomic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8:Beatz HD
+#DESCRIPTION Beatz HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:Capital TV
+#DESCRIPTION Capital TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital TV
+#DESCRIPTION Capital TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/_definst_/TODAYFM_TEST2/.m3u8:CITY TV
+#DESCRIPTION CITY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/mp4%3aTODAYFM_TEST2/playlist.m3u8:CITY
+#DESCRIPTION CITY
+#SERVICE 4097:0:1:76:0:0:0:0:0:0:http%3a//kurd-live.com%3a1935/live/cihan/playlist.m3u8:Cihan TV
+#DESCRIPTION Cihan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ar.solumedia.com.ar%3a1935/cool/hd/playlist.m3u8:Cool HD BR
+#DESCRIPTION Cool HD BR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.201.78.3%3a1935/live/dancehd:dance hd
+#DESCRIPTION dance hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.djing.com/tv/d-05.m3u8:DJing Ibiza
+#DESCRIPTION DJing Ibiza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.djing.com/tv/u-05.m3u8:DJing Underground
+#DESCRIPTION DJing Underground
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.djing.com/tv/a-05.m3u8:DJing Animation
+#DESCRIPTION DJing Animation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//us.djing.com/tv/i-05.m3u8:DJing Classics
+#DESCRIPTION DJing Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.electrosound.tv%3a1935/public/stream/chunklist.m3u8:ELECTROSOUND TV
+#DESCRIPTION ELECTROSOUND TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8:ELLINIKOS FM WEB TV
+#DESCRIPTION ELLINIKOS FM WEB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.smcloud.net/live/eskatv/playlist.m3u8:ESKA TV
+#DESCRIPTION ESKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.smcloud.net/tv/best/best_720p:ESKA BEST MUSIC TV
+#DESCRIPTION ESKA BEST MUSIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.smcloud.net/live/eskatv:ESKA POP
+#DESCRIPTION ESKA POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.smcloud.net/tv/eska_party/eska_party_720p:ESKA PARTY TV
+#DESCRIPTION ESKA PARTY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.smcloud.net/tv/eska_rock/eska_rock_720p:ESKA ROCK TV
+#DESCRIPTION ESKA ROCK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8:Europa Plus
+#DESCRIPTION Europa Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:First Music Channel
+#DESCRIPTION First Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:First Music Channel HD
+#DESCRIPTION First Music Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:First Music Channel Russia
+#DESCRIPTION First Music Channel Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:First Music Channel Russia HD
+#DESCRIPTION First Music Channel Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_4/index.m3u8:Fresh TV
+#DESCRIPTION Fresh TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8:For Music
+#DESCRIPTION For Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//g12.tv%3a1935/g12tvlive/smil%3ag12live.smil/playlist.m3u8:G12tv
+#DESCRIPTION G12tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs7.cdn.ott.otautv.kz%3a80/dtv/id42_KTR_SG--GakkuTV/03/plst.m3u8:Gakku
+#DESCRIPTION Gakku
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8:Hawacom TV
+#DESCRIPTION Hawacom TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8:Heart
+#DESCRIPTION Heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8:Heart TV
+#DESCRIPTION Heart TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.rmg.cdnvideo.ru/rmg/rmg1.sdp/playlist.m3u8:HITV
+#DESCRIPTION HITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:HIT (Орск)
+#DESCRIPTION HIT (Орск)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:HitMusic
+#DESCRIPTION HitMusic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.smcloud.net/live/hiphoptv/playlist.m3u8:HIPHOPTV
+#DESCRIPTION HIPHOPTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server10.streaming-pro.com%3a1937/live/ibgtvlive/playlist.m3u8:Ibiza Global
+#DESCRIPTION Ibiza Global
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//str81.creacast.com%3a80/iltv/high:IL TV
+#DESCRIPTION IL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr/indies-live/live/playlist.m3u8:INDIES LIVE
+#DESCRIPTION INDIES LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.92.76.135%3a1935/jayzee/livestream/master.m3u8:JAYZEE
+#DESCRIPTION JAYZEE
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//77.92.76.135%3a1935/jayzee/livestream/master.m3u8:JAYZEE
+#DESCRIPTION JAYZEE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8?sd=10&rebase=on&time=1451946826672:JOIZ (720p)
+#DESCRIPTION JOIZ (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8:JuCeTV US
+#DESCRIPTION JuCeTV US
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tst.es.flash.glb.ipercast.net%3a1935/tst.es-live/live/chunklist.m3u8:Kiss Esp
+#DESCRIPTION Kiss Esp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//tst.es.flash.glb.ipercast.net/tst.es-live/live ?:Kiss Tv
+#DESCRIPTION Kiss Tv
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//tst.es.flash.glb.ipercast.net/tst.es-live//live:Kiss TV
+#DESCRIPTION Kiss TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//tst.es.flash.glb.ipercast.net/tst.es-live/live:Kiss Tv Music
+#DESCRIPTION Kiss Tv Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8:Klipkar TV
+#DESCRIPTION Klipkar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash.netcasterusa.com%3a1935/kedutv/kedutv/chunklist_w335078956.m3u8:Kedu TV
+#DESCRIPTION Kedu TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on:M2O Music
+#DESCRIPTION M2O Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8:M6 Music Hits
+#DESCRIPTION M6 Music Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//144.76.2.213%3a1935/live/livestream/playlist.m3u8:MAD
+#DESCRIPTION MAD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//144.76.2.213%3a1935/live/livestream/playlist.m3u8:MAD CY
+#DESCRIPTION MAD CY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/MelodyChannel:Melody Channel
+#DESCRIPTION Melody Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//176.9.123.140%3a1935/messinia/messinia:MESSINIA WEB TV
+#DESCRIPTION MESSINIA WEB TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr/mfmtv/live/playlist.m3u8:MFM TV
+#DESCRIPTION MFM TV
+#SERVICE 4097:0:1:228:0:0:0:0:0:0:http%3a//ec.playmedia.fr/mfmtv/live/playlist.m3u8:MFM TV
+#DESCRIPTION MFM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr/mfmtv/live/playlist.m3u8:MFM TV
+#DESCRIPTION MFM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stmv1.hostgs.net/jtvmilk/jtvmilk/playlist.m3u8:MILK TV
+#DESCRIPTION MILK TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co%3a80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8:MIMUSICA HD
+#DESCRIPTION MIMUSICA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8:MIMUSICA HD
+#DESCRIPTION MIMUSICA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.125.187.18/hlsam/hd/playlist.m3u8:MTV.AM HD
+#DESCRIPTION MTV.AM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fluvod1.giniko.com/all-music/all-music/tracks-1,6/index.m3u8:MUSIC TV
+#DESCRIPTION MUSIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8:Music Box
+#DESCRIPTION Music Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
+#DESCRIPTION Music Box UA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.smcloud.net/live/vox2/stream1:Music Vox TV
+#DESCRIPTION Music Vox TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.smcloud.net/tv/vox/vox_720p/index.m3u8:MUSIC VOX TV Olds cool
+#DESCRIPTION MUSIC VOX TV Olds cool
+#SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//0E9B00ECD326CCAC%3a@t.kraslan.ru/mtvlivehd?krasview.ru:MTV Live HD
+#DESCRIPTION MTV Live HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//www.electrosound.tv%3a1935/public/stream/chunklist.m3u8:Music Elektrosound
+#DESCRIPTION Music Elektrosound
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//hd.worldkast.com%3a1935/8436/8436/playlist.m3u8:Musica SI
+#DESCRIPTION Musica SI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8:MuzZone
+#DESCRIPTION MuzZone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box (Slovakia)
+#DESCRIPTION Music Box (Slovakia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.nebiset.tv/nebiset.m3u8:Nebiset
+#DESCRIPTION Nebiset
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//phone.pik-tv.com/live/piktv2pik2tv/playlist.m3u8:piktv2
+#DESCRIPTION piktv2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.smcloud.net/live/polotv:POLO MUSİC TV
+#DESCRIPTION POLO MUSİC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.promodj.com/hls/live/pdjlive.m3u8:Promo DJ TV
+#DESCRIPTION Promo DJ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_3/playlist.m3u8:Relax.TV
+#DESCRIPTION Relax.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8:Russian Music Box
+#DESCRIPTION Russian Music Box
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/105Test1/playlist.m3u8:Radio 105
+#DESCRIPTION Radio 105
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/105Test1/playlist.m3u8:Radio 105 TV
+#DESCRIPTION Radio 105 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/rmc1/playlist.m3u8:Radio Monte Carlo TV
+#DESCRIPTION Radio Monte Carlo TV
+#SERVICE 4097:0:1:226:0:0:0:0:0:0:rtmp%3a//fms.105.net%3a1935/live/rmc1:RADIO MONTE CARLO TV
+#DESCRIPTION RADIO MONTE CARLO TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//31.186.229.150%3a1935/cplp/live/livestream.m3u8:RADIO POPULAR 97.7 FM
+#DESCRIPTION RADIO POPULAR 97.7 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.46.161.3/hls/sd.m3u8:ROMAN TV
+#DESCRIPTION ROMAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8:RU TV
+#DESCRIPTION RU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//musicbox.cdnvideo.ru/musicbox/musicbox.sdp:Russian Musicbox
+#DESCRIPTION Russian Musicbox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8:SLAM
+#DESCRIPTION SLAM
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co%3a80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8:TIGO MUSIC
+#DESCRIPTION TIGO MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.tvtopsound.com%3a1935/live/ngrp%3ampegts.stream_all/chunklist_w1960175513_b1248000.m3u8:Top Sound
+#DESCRIPTION Top Sound
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co%3a80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8:TRENTY CHANNEL
+#DESCRIPTION TRENTY CHANNEL
+#SERVICE 4097:0:1:234:0:0:0:0:0:0:http%3a//538hls.lswcdn.triple-it.nl/content/538tv/538tv_2.m3u8:TV 538
+#DESCRIPTION TV 538
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.101.21.42%3a8081/live/live2/playlist.m3u8:Vibee TV
+#DESCRIPTION Vibee TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/virgin1/master.m3u8:Virgin Radio
+#DESCRIPTION Virgin Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wow01.105.net/live/virgin1/master.m3u8:Virgin Radio TV
+#DESCRIPTION Virgin Radio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/visualradio/visualradio/chunklist.m3u8:Visual Radio
+#DESCRIPTION Visual Radio
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8:Visual Radio
+#DESCRIPTION Visual Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//r20057.smi.vmf.edge-apps.net/magma-apps/vorterix_video1:Vorterix Rocks
+#DESCRIPTION Vorterix Rocks
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8:ZOUGLA TV
+#DESCRIPTION ZOUGLA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8:Zougla HD
+#DESCRIPTION Zougla HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//live.youiptv.ch%3a1935/8FM/ngrp%3a8FM_all/playlist.m3u8:8 FM
+#DESCRIPTION 8 FM
+#SERVICE 1:64:C7:0:0:0:0:0:0:0::__K R A L_R A D I O__
+#DESCRIPTION __K R A L_R A D I O__
+#SERVICE 4097:0:1:28:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/arabeskstar.stream/playlist.m3u8:KRAL ARABESK STAR
+#DESCRIPTION KRAL ARABESK STAR
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kralpopstar.stream/playlist.m3u8:KRAL POP STAR
+#DESCRIPTION KRAL POP STAR
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kturku.stream/playlist.m3u8:KRAL TURKU
+#DESCRIPTION KRAL TURKU
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kraltsm.stream/playlist.m3u8:KRAL TSM
+#DESCRIPTION KRAL TSM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kral45lik.stream/playlist.m3u8:KRAL 45LIK
+#DESCRIPTION KRAL 45LIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/k90s.stream/playlist.m3u8:KRAL 90LAR
+#DESCRIPTION KRAL 90LAR
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kenstrumantal.stream/playlist.m3u8:KRAL ENSTRUMANTAL
+#DESCRIPTION KRAL ENSTRUMANTAL
+#SERVICE 4097:0:1:42:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kakustik.stream/playlist.m3u8:KRAL AKUSTIK
+#DESCRIPTION KRAL AKUSTIK
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com/dyg/kraldans.stream/playlist.m3u8:KRAL DANCE
+#DESCRIPTION KRAL DANCE
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kralask.stream/playlist.m3u8:KRAL ASK
+#DESCRIPTION KRAL ASK
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kralrock2.stream/playlist.m3u8:KRAL ROCK
+#DESCRIPTION KRAL ROCK
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kkralrap.stream/playlist.m3u8:KRAL RAP
+#DESCRIPTION KRAL RAP
+#SERVICE 4097:0:1:52:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kralnoname.stream/playlist.m3u8:KRAL NO NAME
+#DESCRIPTION KRAL NO NAME
+#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kraloyunhavalari.stream/playlist.m3u8:KRAL OYUN HAVALARI
+#DESCRIPTION KRAL OYUN HAVALARI
+#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kmesk.stream/playlist.m3u8:KRAL MESK
+#DESCRIPTION KRAL MESK
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kralsaklisarkilar.stream/playlist.m3u8:KRAL SAKLI SARKILAR
+#DESCRIPTION KRAL SAKLI SARKILAR
+#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/ksiir.stream/playlist.m3u8:KRAL SIIR
+#DESCRIPTION KRAL SIIR
+#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kralbebek.stream/playlist.m3u8:KRAL BEBEK
+#DESCRIPTION KRAL BEBEK
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kflashback.stream/playlist.m3u8:KRAL FLASHBACK
+#DESCRIPTION KRAL FLASHBACK
+#SERVICE 4097:0:1:66:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/khomemade.stream/playlist.m3u8:KRAL HOME MADE
+#DESCRIPTION KRAL HOME MADE
+#SERVICE 4097:0:1:68:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kdance.stream/playlist.m3u8:KRAL DANCE
+#DESCRIPTION KRAL DANCE
+#SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/klove.stream/playlist.m3u8:KRAL LOVE
+#DESCRIPTION KRAL LOVE
+#SERVICE 4097:0:1:72:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/krock.stream/playlist.m3u8:KRAL ROCK
+#DESCRIPTION KRAL ROCK
+#SERVICE 4097:0:1:74:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/krap.stream/playlist.m3u8:KRAL RAP
+#DESCRIPTION KRAL RAP
+#SERVICE 4097:0:1:76:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kstar.stream/playlist.m3u8:KRAL STAR
+#DESCRIPTION KRAL STAR
+#SERVICE 4097:0:1:78:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/knostalgie.stream/playlist.m3u8:KRAL NOSTALGIE
+#DESCRIPTION KRAL NOSTALGIE
+#SERVICE 4097:0:1:80:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kjazz.stream/playlist.m3u8:KRAL JAZZ
+#DESCRIPTION KRAL JAZZ
+#SERVICE 4097:0:1:82:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/klounge.stream/playlist.m3u8:KRAL LOUNGE
+#DESCRIPTION KRAL LOUNGE
+#SERVICE 4097:0:1:84:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/ksoundtrack.stream/playlist.m3u8:KRAL SOUNDTRACK
+#DESCRIPTION KRAL SOUNDTRACK
+#SERVICE 4097:0:1:86:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/starradio.stream/playlist.m3u8:KRAL STAR RADIO
+#DESCRIPTION KRAL STAR RADIO
+#SERVICE 4097:0:1:88:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/ketnik.stream/playlist.m3u8:KRAL ETHNIC
+#DESCRIPTION KRAL ETHNIC
+#SERVICE 4097:0:1:90:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kclassic.stream/playlist.m3u8:KRAL CLASSIC
+#DESCRIPTION KRAL CLASSIC
+#SERVICE 4097:0:1:92:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/kgreece.stream/playlist.m3u8:KRAL GREECE
+#DESCRIPTION KRAL GREECE
+#SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/krelax.stream/playlist.m3u8:KRAL RELAX
+#DESCRIPTION KRAL RELAX
+#SERVICE 1:64:C8:0:0:0:0:0:0:0::tunein.com/radio
+#DESCRIPTION tunein.com/radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7469.live.streamtheworld.com/JOY_FMAAC_SC:JOY_FM
+#DESCRIPTION JOY_FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7469.live.streamtheworld.com/JOY_TURKAAC_SC:JOY_TURK
+#DESCRIPTION JOY_TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.172.182.14%3a8888:www.isimsizfm.com  - HQ 192 kb/s
+#DESCRIPTION www.isimsizfm.com  - HQ 192 kb/s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.83.133.126%3a9968:Arabesk FM
+#DESCRIPTION Arabesk FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tunein.com/radio/Number-One-FM-1024-s9216/:Number-One-FM
+#DESCRIPTION Number-One-FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.117.155%3a8888:Birfm.com - Turkish WebRadio
+#DESCRIPTION Birfm.com - Turkish WebRadio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.217.63%3a12582:Arabesk fm2
+#DESCRIPTION Arabesk fm2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.4.5%3a6500:Efsane Radyo 96.4 7/24 Arabesk
+#DESCRIPTION Efsane Radyo 96.4 7/24 Arabesk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.93.122%3a9986:Damar Turk Fm
+#DESCRIPTION Damar Turk Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.23.70%3a9916:Damar Fm Turkiye
+#DESCRIPTION Damar Fm Turkiye
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.93.122%3a8010:DamarFmRadyo Studyo
+#DESCRIPTION DamarFmRadyo Studyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.52%3a17732:BesteFM
+#DESCRIPTION BesteFM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.201%3a80:KRAL POP
+#DESCRIPTION KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.35.101%3a9330:MEGA FM 106.5 KOCAELI/TURKEY
+#DESCRIPTION MEGA FM 106.5 KOCAELI/TURKEY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.163.225.185%3a8000:MAMAS FM CANLI YAYIN KANALI
+#DESCRIPTION MAMAS FM CANLI YAYIN KANALI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.163.225.185%3a5000:CD KALITESINDE TURK KLASIK SANAT MUZIGI - WWW.MAMA
+#DESCRIPTION CD KALITESINDE TURK KLASIK SANAT MUZIGI - WWW.MAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.165.233.175%3a4062:OZLEM FM
+#DESCRIPTION OZLEM FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.183%3a10108/stream:S4 Radio | TR
+#DESCRIPTION S4 Radio | TR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.162.32%3a8008:TaksimFM - Arabesk
+#DESCRIPTION TaksimFM - Arabesk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
+#DESCRIPTION TURKUAZ FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.229%3a80:SHOW RADYO
+#DESCRIPTION SHOW RADYO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/ABC-Lounge:ABC-Lounge
+#DESCRIPTION ABC-Lounge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.63.62.145%3a8080/wide01:Wide Radio - wideradio.net
+#DESCRIPTION Wide Radio - wideradio.net
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.dancewave.online%3a8080/dance.mp3:Dance Wave!
+#DESCRIPTION Dance Wave!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//208.53.164.179%3a80:idobi Radio: New. Music. Unfiltered. idobi.com
+#DESCRIPTION idobi Radio: New. Music. Unfiltered. idobi.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.232.200.156%3a8000:Hitradio OE3
+#DESCRIPTION Hitradio OE3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.222.38.225%3a2012:Radio Klass Romania .:: www.RadioKlass.eu ::.
+#DESCRIPTION Radio Klass Romania .:: www.RadioKlass.eu ::.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.104.250%3a80/stream:ANTENA1 - 94 7 FM
+#DESCRIPTION ANTENA1 - 94 7 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.86.106.136%3a80:KissFM Romania - www.kissfm.ro
+#DESCRIPTION KissFM Romania - www.kissfm.ro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.192.137.34%3a9498:Narodni radio
+#DESCRIPTION Narodni radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.jewishmusicstream.com%3a8000/stream:JewishMusic Stream
+#DESCRIPTION JewishMusic Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.71.219%3a7412:Otvoreni radio
+#DESCRIPTION Otvoreni radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.232.100%3a8100:LA MEJOR FM 107.9
+#DESCRIPTION LA MEJOR FM 107.9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.100.128.106%3a8000/fmlive:Classical WETA 90.9 FM - Washington D.C.
+#DESCRIPTION Classical WETA 90.9 FM - Washington D.C.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.232.200.152%3a8000:OE 1
+#DESCRIPTION OE 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//108.61.73.119%3a14000:181.fm - Awesome 80's
+#DESCRIPTION 181.fm - Awesome 80's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3channels.webradio.antenne.de%3a80/antenne:ANTENNE BAYERN
+#DESCRIPTION ANTENNE BAYERN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies Webstream
+#DESCRIPTION Schlagerparadies Webstream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.172.194.189%3a11540/live.mp3:Enjoy Hits!
+#DESCRIPTION Enjoy Hits!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.68.149%3a80:idobi Anthm
+#DESCRIPTION idobi Anthm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ledjamradio.ice.infomaniak.ch/ledjamradio.mp3:Djam Radio
+#DESCRIPTION Djam Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:: Ibiza Global Radio :
+#DESCRIPTION : Ibiza Global Radio :
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//subpsyair.tk%3a9008/stream.mp3:Teleport_Station-psytrance
+#DESCRIPTION Teleport_Station-psytrance
