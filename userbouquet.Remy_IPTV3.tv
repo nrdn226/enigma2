@@ -393,218 +393,6 @@
 #DESCRIPTION TR: Kanal D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.re/live/salah/salah/2461.ts:TR: Fox Sports
 #DESCRIPTION TR: Fox Sports
-#SERVICE 1:64:BE:0:0:0:0:0:0:0::E N I G M A_T U R K_T E A M_C R A C Ky
-#DESCRIPTION E N I G M A_T U R K_T E A M_C R A C Ky
-#SERVICE 1:64:BF:0:0:0:0:0:0:0::__V O D__F I L M__
-#DESCRIPTION __V O D__F I L M__
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sm//dw//smdwuumnoxs_,720,.mp4.urlset//master.m3u8:10. Koy
-#DESCRIPTION 10. Koy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//57//f0//57f0tuagb1c_,720,.mp4.urlset//master.m3u8:AROG
-#DESCRIPTION AROG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdns.web.tv//xa//2c//xa2ci6xfnfm_,720,.mp4.urlset//master.m3u8:Ali Kundulli 2
-#DESCRIPTION Ali Kundulli 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//rc//32//rc32obokxj2_,720,.mp4.urlset//master.m3u8:Anadolu Kartallari
-#DESCRIPTION Anadolu Kartallari
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zc//4t//zc4tebjgmgo_,720,.mp4.urlset//master.m3u8:Arkadasim Max
-#DESCRIPTION Arkadasim Max
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//nn//y9//nny9wtptm56_,720,.mp4.urlset//master.m3u8:Asabiyim Ben
-#DESCRIPTION Asabiyim Ben
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//vg//jk//vgjkrjr5bqp_,720,.mp4.urlset//master.m3u8:Ask Nerede
-#DESCRIPTION Ask Nerede
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//vm//4o//vm4ovqmni3y_,720,.mp4.urlset//master.m3u8:Avanak Uckagitcilar
-#DESCRIPTION Avanak Uckagitcilar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4f//z3//4fz3dtm9ldm_,720,.mp4.urlset//master.m3u8:Bana Bir Soygun Yaz
-#DESCRIPTION Bana Bir Soygun Yaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//a8//xa//a8xa0ax0erm_,720,.mp4.urlset//master.m3u8:Behzat C. Ankara Yaniyor
-#DESCRIPTION Behzat C. Ankara Yaniyor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8v//v7//8vv7skuuwbw_,720,.mp4.urlset//master.m3u8:BICKIN
-#DESCRIPTION BICKIN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//hl//tx//hltxuugrfhw_,720,.mp4.urlset//master.m3u8:Battal Gazinin OGlu
-#DESCRIPTION Battal Gazinin OGlu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8u//4l//8u4lqtg6gya_,360,.mp4.urlset//master.m3u8:Bizans Oyunlari
-#DESCRIPTION Bizans Oyunlari
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ik//at//ikat24qsabq_,720,.mp4.urlset//master.m3u8:Bukalemun--OSSMAN
-#DESCRIPTION Bukalemun--OSSMAN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//b1//p5//b1p5wazvjni_,720,.mp4.urlset//master.m3u8:Canakkale 1915
-#DESCRIPTION Canakkale 1915
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//jl//xj//jlxjfziuqqu_,720,.mp4.urlset//master.m3u8:Cehennem Melekleri
-#DESCRIPTION Cehennem Melekleri
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//fu//9g//fu9g2fu6aec_,720,.mp4.urlset//master.m3u8:Cehennem Telefonu
-#DESCRIPTION Cehennem Telefonu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//jc//k6//jck6zuazwyc_,720,.mp4.urlset//master.m3u8:Cengiz Han Dünyanİn ve Denizlerin Sonu
-#DESCRIPTION Cengiz Han Dünyanİn ve Denizlerin Sonu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv0.yerlifilm.mobi/v/2016/Osman.Pazarlama.2016.mp4:CAMASIRHANE/ OSMAN PAZARLAMA
-#DESCRIPTION CAMASIRHANE/ OSMAN PAZARLAMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//i2//ir//i2iryole7ju_,720,.mp4.urlset//master.m3u8:Cilgin Kardesler
-#DESCRIPTION Cilgin Kardesler
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sa//7w//sa7wasuszfy_,720,.mp4.urlset//master.m3u8:Cain'in Gazabi
-#DESCRIPTION Cain'in Gazabi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//xp//qv//xpqvvkgqdms_,720,.mp4.urlset//master.m3u8:Cagri
-#DESCRIPTION Cagri
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//qy//iu//qyiul64ffto_,720,.mp4.urlset//master.m3u8:Çarikli Milyoner
-#DESCRIPTION Çarikli Milyoner
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//kj//hz//kjhzogjdoos_,720,.mp4.urlset//master.m3u8:Dabbe 4: Cin Çarpmasİ
-#DESCRIPTION Dabbe 4: Cin Çarpmasİ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv0.yerlifilm.mobi/v/2016/Dedemin.Fisi.2016.mp4:Dedemin fisi / OSMAN PAZARLAMA
-#DESCRIPTION Dedemin fisi / OSMAN PAZARLAMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv0.yerlifilm.mobi/v/2016/Kotu.Kedi.Serafettin.2016.mp4:Kötü kedi serafettin/ OSMAN PAZARLAMA
-#DESCRIPTION Kötü kedi serafettin/ OSMAN PAZARLAMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//eb//fp//ebfppzjzjta_,720,.mp4.urlset//master.m3u8:Dokuzuncu Boluk
-#DESCRIPTION Dokuzuncu Boluk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//x6//hj//x6hj0mvtg8k_,720,.mp4.urlset//master.m3u8:Devrimden Sonra
-#DESCRIPTION Devrimden Sonra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//s4//hn//s4hnejkqyay_,720,.mp4.urlset//master.m3u8:Darbe
-#DESCRIPTION Darbe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//if//bu//ifbubfby0ms_,720,.mp4.urlset//master.m3u8:Deli Dumrul: Hop Dedik
-#DESCRIPTION Deli Dumrul: Hop Dedik
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ba//ap//baap5wrzs7i_,720,.mp4.urlset//master.m3u8:Destere
-#DESCRIPTION Destere
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8v//11//8v11dltpziu_,720,.mp4.urlset//master.m3u8:Eski Sevgiliyi Unutmanin 10 Yolu
-#DESCRIPTION Eski Sevgiliyi Unutmanin 10 Yolu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//e2//s2//e2s2ywgfgam_,720,.mp4.urlset//master.m3u8:Evim Sensin
-#DESCRIPTION Evim Sensin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zp//zt//zpztcj7nssa_,720,.mp4.urlset//master.m3u8:Evrenin Ucuna Yolculuk
-#DESCRIPTION Evrenin Ucuna Yolculuk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//2l//ww//2lww0vpety6_,720,.mp4.urlset//master.m3u8:Ejderha Koruyucusu
-#DESCRIPTION Ejderha Koruyucusu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//xd//t8//xdt8ww8scli_,720,.mp4.urlset//master.m3u8:Fedakar
-#DESCRIPTION Fedakar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//bz//do//bzdogf3q4ws_,720,.mp4.urlset//master.m3u8:Golgede
-#DESCRIPTION Golgede
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//iz//fo//izfokd9puhq_,720,.mp4.urlset//master.m3u8:Gizem
-#DESCRIPTION Gizem
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//2z//ra//2zrabvrsuks_,720,.mp4.urlset//master.m3u8:Gulcemal
-#DESCRIPTION Gulcemal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ma//la//malafobuheu_,720,.mp4.urlset//master.m3u8:Gambit
-#DESCRIPTION Gambit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//vs//w2//vsw2z3ge11k_,720,.mp4.urlset//master.m3u8:Harry Brown
-#DESCRIPTION Harry Brown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//nu//fn//nufnbv8nvfq_,720,.mp4.urlset//master.m3u8:HEMSO
-#DESCRIPTION HEMSO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ne//ve//nevevzn1o9w_,720,.mp4.urlset//master.m3u8:Herkes Mi Aldatir
-#DESCRIPTION Herkes Mi Aldatir
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dk//i1//dki1fym4ye6_,720,.mp4.urlset//master.m3u8:Hep Yek
-#DESCRIPTION Hep Yek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4p//at//4patib2xkxg_,720,.mp4.urlset//master.m3u8:Hz. Suleyman'in Kralligi
-#DESCRIPTION Hz. Suleyman'in Kralligi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sa//h7//sah7emswcvq_,720,.mp4.urlset//master.m3u8:Iki Kafadar
-#DESCRIPTION Iki Kafadar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//d8//bq//d8bqd20fyxs_,720,.mp4.urlset//master.m3u8:İki Kafadar
-#DESCRIPTION İki Kafadar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//me//4s//me4s5cxuljk_,720,.mp4.urlset//master.m3u8:Ikizler Firarda
-#DESCRIPTION Ikizler Firarda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//wn//k3//wnk3yywq0ig_,720,.mp4.urlset//master.m3u8:İnsaat 1
-#DESCRIPTION İnsaat 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8x//c5//8xc5rxxszvw_,720,.mp4.urlset//master.m3u8:Insaat 2
-#DESCRIPTION Insaat 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//xq//qd//xqqdnzh1rdw_,720,.mp4.urlset//master.m3u8:Intikam Kilici
-#DESCRIPTION Intikam Kilici
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//nr//or//nrorrcoewlm_,720,.mp4.urlset//master.m3u8:Irlandaliyi Oldur
-#DESCRIPTION Irlandaliyi Oldur
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//aq//il//aqil1fvsjqe_,720,.mp4.urlset//master.m3u8:Kabadayi
-#DESCRIPTION Kabadayi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//kc//ff//kcffhl2cm7w_,720,.mp4.urlset//master.m3u8:Kanada Pastasi
-#DESCRIPTION Kanada Pastasi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//tc//m3//tcm3evmikve_,720,.mp4.urlset//master.m3u8:Kahraman Kopek Jock
-#DESCRIPTION Kahraman Kopek Jock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//gz//jl//gzjllng2izi_,720,.mp4.urlset//master.m3u8:Karamanin Oyunu
-#DESCRIPTION Karamanin Oyunu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//7p//sd//7psd4vzx6aq_,720,.mp4.urlset//master.m3u8:Kent Fedaisi
-#DESCRIPTION Kent Fedaisi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ie//ap//ieapb2czfxd_,720,.mp4.urlset//master.m3u8:Kolpacino
-#DESCRIPTION Kolpacino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ga//cn//gacnsqnqxag_,720,.mp4.urlset//master.m3u8:Kolpacino: Bomba
-#DESCRIPTION Kolpacino: Bomba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//px//hv//pxhveidheou_,360,.mp4.urlset//master.m3u8:Kolpacino 3. Devre
-#DESCRIPTION Kolpacino 3. Devre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//da//y3//day39nqoe4g_,720,.mp4.urlset//master.m3u8:Korkunun 5 Duyusu
-#DESCRIPTION Korkunun 5 Duyusu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dd//zi//ddziv5vhx1q_,720,.mp4.urlset//master.m3u8:Kurban
-#DESCRIPTION Kurban
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8n//db//8ndblmddzoc_,720,.mp4.urlset//master.m3u8:Kutsal Damacana : Itmen
-#DESCRIPTION Kutsal Damacana : Itmen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//yy//pb//yypbdmuleie_,720,.mp4.urlset//master.m3u8:KILIBIK (OSSMAN)
-#DESCRIPTION KILIBIK (OSSMAN)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//iv//ip//ivip7v4f65i_,720,.mp4.urlset//master.m3u8:KACIS PLANI
-#DESCRIPTION KACIS PLANI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//5w//59//5w59n6qapow_,720,.mp4.urlset//master.m3u8:Kan İzi
-#DESCRIPTION Kan İzi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//js//oi//jsoisdoaakm_,720,.mp4.urlset//master.m3u8:Koku: Bir Katilin Hikayesi
-#DESCRIPTION Koku: Bir Katilin Hikayesi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//q2//us//q2us4to9rdq_,720,.mp4.urlset//master.m3u8:Kutuptaki Patlama
-#DESCRIPTION Kutuptaki Patlama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//re//fq//refqq5lghwg_,720,.mp4.urlset//master.m3u8:Kahraman Kopekler
-#DESCRIPTION Kahraman Kopekler
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//7p//s0//7ps0wjcsnwu_,720,.mp4.urlset//master.m3u8:Kendime İyi Bak
-#DESCRIPTION Kendime İyi Bak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//2z//cz//2zczmen3gum_,720,.mp4.urlset//master.m3u8:Limonata
-#DESCRIPTION Limonata
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//rn//1d//rn1dwdctmvc_,720,.mp4.urlset//master.m3u8:Leblebi Tozu
-#DESCRIPTION Leblebi Tozu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//am//tj//amtjoro4hu2_,720,.mp4.urlset//master.m3u8:Mel-un
-#DESCRIPTION Mel-un
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zw//qe//zwqexpvze0m_,720,.mp4.urlset//master.m3u8:Moskovanin Sifresi Temel
-#DESCRIPTION Moskovanin Sifresi Temel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//uq//hx//uqhxegs6gp2_,720,.mp4.urlset//master.m3u8:Muhalif Baskan
-#DESCRIPTION Muhalif Baskan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//1u//nx//1unxj4vkwyw_,720,.mp4.urlset//master.m3u8:Nisan Yagmuru
-#DESCRIPTION Nisan Yagmuru
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//si//io//siiospbb5hw_,720,.mp4.urlset//master.m3u8:Netekim Karakolu
-#DESCRIPTION Netekim Karakolu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ps//va//psvai14g2po_,720,.mp4.urlset//master.m3u8:Nefes: Vatan Sagolsun
-#DESCRIPTION Nefes: Vatan Sagolsun
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//yx//cg//yxcgzzcjdba_,720,.mp4.urlset//master.m3u8:Olumcul Oyuncaklar Kemikler Sehri
-#DESCRIPTION Olumcul Oyuncaklar Kemikler Sehri
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//cl//o2//clo2oh8kuqs_,720,.mp4.urlset//master.m3u8:Olumcul Umut
-#DESCRIPTION Olumcul Umut
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//g3//sd//g3sdywpncdo_,720,.mp4.urlset//master.m3u8:Olur Insallah
-#DESCRIPTION Olur Insallah
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//95//25//9525kndo3qi_,720,.mp4.urlset//master.m3u8:Oz Hakiki Karakol
-#DESCRIPTION Oz Hakiki Karakol
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//a0//ll//a0llgzln3og_,720,.mp4.urlset//master.m3u8:Pars Kiraz Operasyonu
-#DESCRIPTION Pars Kiraz Operasyonu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//l8//3l//l83lqd4bzks_,720,.mp4.urlset//master.m3u8:Polis Akademisi Alaturka
-#DESCRIPTION Polis Akademisi Alaturka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//fc//ss//fcsscwlcaeo_,720,.mp4.urlset//master.m3u8:Plan Degisikligi
-#DESCRIPTION Plan Degisikligi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ux//xp//uxxplo0kzlq_,720,.mp4.urlset//master.m3u8:Pardon
-#DESCRIPTION Pardon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//du//ni//dunimgqxpdu_,720,.mp4.urlset//master.m3u8:Sosyete Saban
-#DESCRIPTION Sosyete Saban
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dm//p6//dmp64snjivc_,720,.mp4.urlset//master.m3u8:Saban Oglu Saban
-#DESCRIPTION Saban Oglu Saban
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4m//9t//4m9tphxnmmi_,720,.mp4.urlset//master.m3u8:Sevkat Yerimdar 2 Bizde Sakat Cok
-#DESCRIPTION Sevkat Yerimdar 2 Bizde Sakat Cok
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4j//eg//4jegrstf8ea_,720,.mp4.urlset//master.m3u8:Sabit Kanca 2
-#DESCRIPTION Sabit Kanca 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4f//zk//4fzkzqbde6g_,720,.mp4.urlset//master.m3u8:Seninki Kac Para
-#DESCRIPTION Seninki Kac Para
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//6o//2s//6o2sh5yagrs_,720,.mp4.urlset//master.m3u8:Sevkat Yerimdar
-#DESCRIPTION Sevkat Yerimdar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sk//fx//skfxjixqkew_,720,.mp4.urlset//master.m3u8:Silah
-#DESCRIPTION Silah
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//jl//we//jlwegfensj2_,720,.mp4.urlset//master.m3u8:Sipsak Anadolu
-#DESCRIPTION Sipsak Anadolu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dg//eu//dgeu3upheak_,720,.mp4.urlset//master.m3u8:Surgun Inek
-#DESCRIPTION Surgun Inek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//cp//tj//cptjaebs2ha_,720,.mp4.urlset//master.m3u8:Tas Mektep
-#DESCRIPTION Tas Mektep
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//tz//qk//tzqkptbux2s_,720,.mp4.urlset//master.m3u8:UYANIK KARDESLER
-#DESCRIPTION UYANIK KARDESLER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//kw//ir//kwirmczx86g_,720,.mp4.urlset//master.m3u8:Veda
-#DESCRIPTION Veda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zv//uv//zvuvlnveeuk_,720,.mp4.urlset//master.m3u8:Vincent Deniz Istiyor
-#DESCRIPTION Vincent Deniz Istiyor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//da//6p//da6povjsjby_,720,.mp4.urlset//master.m3u8:Wuhu Savascisi
-#DESCRIPTION Wuhu Savascisi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//tu//wl//tuwluln8koe_,720,.mp4.urlset//master.m3u8:Yahsi Bati
-#DESCRIPTION Yahsi Bati
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//0q//jj//0qjje8ge0vw_,720,.mp4.urlset//master.m3u8:Yesil Sokak Holiganlar
-#DESCRIPTION Yesil Sokak Holiganlar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//69//yj//69yjjbwac9e_,720,.mp4.urlset//master.m3u8:Zehra
-#DESCRIPTION Zehra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//td//zn//tdznqb5byji_,720,.mp4.urlset//master.m3u8:Zamanda Yolculuk
-#DESCRIPTION Zamanda Yolculuk
 #SERVICE 1:64:C0:0:0:0:0:0:0:0::T U R K I S H___C H A N N E L S
 #DESCRIPTION T U R K I S H___C H A N N E L S
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hometv.iptvserver.online%3a8000/live/gorcum7458/85472123/450.m3u8:VIP LiG TV 1 HD
@@ -14215,6 +14003,594 @@
 #DESCRIPTION TVM 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1700.ts:TVM 2
 #DESCRIPTION TVM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1771.ts:-----------USA-------------
+#DESCRIPTION -----------USA-------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1723.ts:beIN SPORTS US
+#DESCRIPTION beIN SPORTS US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1848.ts:NBA
+#DESCRIPTION NBA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1847.ts:ABC
+#DESCRIPTION ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1789.ts:NFL
+#DESCRIPTION NFL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1791.ts:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1765.ts:TSN 1
+#DESCRIPTION TSN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1764.ts:TSN 2
+#DESCRIPTION TSN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1763.ts:TSN 3
+#DESCRIPTION TSN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1762.ts:TSN 4
+#DESCRIPTION TSN 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1761.ts:TSN 5
+#DESCRIPTION TSN 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1767.ts:FOX SPORT 1 HD
+#DESCRIPTION FOX SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1766.ts:FOX SPORT 2 HD
+#DESCRIPTION FOX SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1769.ts:ASTRO SPORT 1
+#DESCRIPTION ASTRO SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1770.ts:ASTRO SPORT 2
+#DESCRIPTION ASTRO SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1768.ts:ASTRO SPORT 3
+#DESCRIPTION ASTRO SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1790.ts:ASTRO SPORT 4
+#DESCRIPTION ASTRO SPORT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1760.ts:ABC NEWS
+#DESCRIPTION ABC NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1846.ts:fox usa
+#DESCRIPTION fox usa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1864.ts:WWE RAW HD
+#DESCRIPTION WWE RAW HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1861.ts:Hbo Zone
+#DESCRIPTION Hbo Zone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1862.ts:HBO Signature
+#DESCRIPTION HBO Signature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1863.ts:HBO HD
+#DESCRIPTION HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1860.ts:Hallmark
+#DESCRIPTION Hallmark
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2369.ts:*****~~•POLAND•~~*****
+#DESCRIPTION *****~~•POLAND•~~*****
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2370.ts:PL:TVP1
+#DESCRIPTION PL:TVP1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2396.ts:PL: Polonia 1
+#DESCRIPTION PL: Polonia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2395.ts:PL: Polsat
+#DESCRIPTION PL: Polsat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2394.ts:PL: Polsat 2
+#DESCRIPTION PL: Polsat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2388.ts:PL: Polsat Play
+#DESCRIPTION PL: Polsat Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2389.ts:PL: Polsat News
+#DESCRIPTION PL: Polsat News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2390.ts:PL: Polsat Jim Jam
+#DESCRIPTION PL: Polsat Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2387.ts:POL: Polsat Romans
+#DESCRIPTION POL: Polsat Romans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2391.ts:PL: Polsat HD
+#DESCRIPTION PL: Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2392.ts:PL: Polsat Film
+#DESCRIPTION PL: Polsat Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2393.ts:PL: Polsat Cafe
+#DESCRIPTION PL: Polsat Cafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2411.ts:POL: Filmbox Action
+#DESCRIPTION POL: Filmbox Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2409.ts:PL: Filmbox Premium
+#DESCRIPTION PL: Filmbox Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2410.ts:PL: Filmbox Family
+#DESCRIPTION PL: Filmbox Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2412.ts:PL: Filmbox
+#DESCRIPTION PL: Filmbox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2421.ts:POL: CANAL  SERIALE HD
+#DESCRIPTION POL: CANAL  SERIALE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2422.ts:POL: CANAL  FILM HD
+#DESCRIPTION POL: CANAL  FILM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2423.ts:POL: CANAL  FAMILY HD
+#DESCRIPTION POL: CANAL  FAMILY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2425.ts:POL: HBO HD
+#DESCRIPTION POL: HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2420.ts:POL: HBO2 HD
+#DESCRIPTION POL: HBO2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2406.ts:PL: FOX HD
+#DESCRIPTION PL: FOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2407.ts:PL: Fox Comedy HD
+#DESCRIPTION PL: Fox Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2408.ts:POL: Fox Comedy
+#DESCRIPTION POL: Fox Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2415.ts:PL: AXN White
+#DESCRIPTION PL: AXN White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2416.ts:PL: AXN SPIN HD
+#DESCRIPTION PL: AXN SPIN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2417.ts:PL: AXN HD
+#DESCRIPTION PL: AXN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2418.ts:PL: AXN Black
+#DESCRIPTION PL: AXN Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2419.ts:PL: AXN
+#DESCRIPTION PL: AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2385.ts:POL: Polsat Sport News
+#DESCRIPTION POL: Polsat Sport News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2426.ts:POL: Eleven Sport
+#DESCRIPTION POL: Eleven Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2427.ts:POL: Eleven
+#DESCRIPTION POL: Eleven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2373.ts:PL: TVP SPORT
+#DESCRIPTION PL: TVP SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2428.ts:POL: Canal  Sport HD
+#DESCRIPTION POL: Canal  Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2429.ts:POL: Canal  Sport2
+#DESCRIPTION POL: Canal  Sport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2386.ts:PL: Polsat Sport
+#DESCRIPTION PL: Polsat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2398.ts:PL: ORANGE SPORT
+#DESCRIPTION PL: ORANGE SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2399.ts:PL: nSport
+#DESCRIPTION PL: nSport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2424.ts:POL: ANIMAL PLANET HD
+#DESCRIPTION POL: ANIMAL PLANET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2397.ts:PL: Planete
+#DESCRIPTION PL: Planete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2402.ts:PL: NATIONAL GEO
+#DESCRIPTION PL: NATIONAL GEO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2403.ts:PL: Nat Geo Wild
+#DESCRIPTION PL: Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2375.ts:PL: TVN Turbo
+#DESCRIPTION PL: TVN Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2371.ts:PL: VIVA Polska
+#DESCRIPTION PL: VIVA Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2372.ts:PL: VH1
+#DESCRIPTION PL: VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2374.ts:PL: TVP SERIALE
+#DESCRIPTION PL: TVP SERIALE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2376.ts:PL: TVN Style
+#DESCRIPTION PL: TVN Style
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2377.ts:PL: TVN 24
+#DESCRIPTION PL: TVN 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2378.ts:PL: TVN
+#DESCRIPTION PL: TVN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2382.ts:PL: TV 4
+#DESCRIPTION PL: TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2379.ts:PL: TV6
+#DESCRIPTION PL: TV6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2380.ts:PL: TV Trwam
+#DESCRIPTION PL: TV Trwam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2381.ts:PL: TV PULS
+#DESCRIPTION PL: TV PULS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2383.ts:PL: TNT
+#DESCRIPTION PL: TNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2384.ts:PL: TLC
+#DESCRIPTION PL: TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2400.ts:PL: Nickelodeon
+#DESCRIPTION PL: Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2401.ts:PL: Nick Jr Polska
+#DESCRIPTION PL: Nick Jr Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2413.ts:PL: Disney HD
+#DESCRIPTION PL: Disney HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2404.ts:PL: MTV Polska
+#DESCRIPTION PL: MTV Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2405.ts:PL: KINO POLSKA
+#DESCRIPTION PL: KINO POLSKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2414.ts:PL: Comedy Central Polska
+#DESCRIPTION PL: Comedy Central Polska
+#SERVICE 1:64:BE:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__C E N T E R
+#DESCRIPTION E N I G M A__T U R K__T E A M__V O D - F I L M__C E N T E R
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sm//dw//smdwuumnoxs_,720,.mp4.urlset//master.m3u8:10. Koy
+#DESCRIPTION 10. Koy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//57//f0//57f0tuagb1c_,720,.mp4.urlset//master.m3u8:AROG
+#DESCRIPTION AROG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdns.web.tv//xa//2c//xa2ci6xfnfm_,720,.mp4.urlset//master.m3u8:Ali Kundulli 2
+#DESCRIPTION Ali Kundulli 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//rc//32//rc32obokxj2_,720,.mp4.urlset//master.m3u8:Anadolu Kartallari
+#DESCRIPTION Anadolu Kartallari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zc//4t//zc4tebjgmgo_,720,.mp4.urlset//master.m3u8:Arkadasim Max
+#DESCRIPTION Arkadasim Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//nn//y9//nny9wtptm56_,720,.mp4.urlset//master.m3u8:Asabiyim Ben
+#DESCRIPTION Asabiyim Ben
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//vg//jk//vgjkrjr5bqp_,720,.mp4.urlset//master.m3u8:Ask Nerede
+#DESCRIPTION Ask Nerede
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//vm//4o//vm4ovqmni3y_,720,.mp4.urlset//master.m3u8:Avanak Uckagitcilar
+#DESCRIPTION Avanak Uckagitcilar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4f//z3//4fz3dtm9ldm_,720,.mp4.urlset//master.m3u8:Bana Bir Soygun Yaz
+#DESCRIPTION Bana Bir Soygun Yaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//a8//xa//a8xa0ax0erm_,720,.mp4.urlset//master.m3u8:Behzat C. Ankara Yaniyor
+#DESCRIPTION Behzat C. Ankara Yaniyor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8v//v7//8vv7skuuwbw_,720,.mp4.urlset//master.m3u8:BICKIN
+#DESCRIPTION BICKIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//hl//tx//hltxuugrfhw_,720,.mp4.urlset//master.m3u8:Battal Gazinin OGlu
+#DESCRIPTION Battal Gazinin OGlu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8u//4l//8u4lqtg6gya_,360,.mp4.urlset//master.m3u8:Bizans Oyunlari
+#DESCRIPTION Bizans Oyunlari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ik//at//ikat24qsabq_,720,.mp4.urlset//master.m3u8:Bukalemun--OSSMAN
+#DESCRIPTION Bukalemun--OSSMAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//b1//p5//b1p5wazvjni_,720,.mp4.urlset//master.m3u8:Canakkale 1915
+#DESCRIPTION Canakkale 1915
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//jl//xj//jlxjfziuqqu_,720,.mp4.urlset//master.m3u8:Cehennem Melekleri
+#DESCRIPTION Cehennem Melekleri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//fu//9g//fu9g2fu6aec_,720,.mp4.urlset//master.m3u8:Cehennem Telefonu
+#DESCRIPTION Cehennem Telefonu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//jc//k6//jck6zuazwyc_,720,.mp4.urlset//master.m3u8:Cengiz Han Dünyanİn ve Denizlerin Sonu
+#DESCRIPTION Cengiz Han Dünyanİn ve Denizlerin Sonu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv0.yerlifilm.mobi/v/2016/Osman.Pazarlama.2016.mp4:CAMASIRHANE/ OSMAN PAZARLAMA
+#DESCRIPTION CAMASIRHANE/ OSMAN PAZARLAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//i2//ir//i2iryole7ju_,720,.mp4.urlset//master.m3u8:Cilgin Kardesler
+#DESCRIPTION Cilgin Kardesler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sa//7w//sa7wasuszfy_,720,.mp4.urlset//master.m3u8:Cain'in Gazabi
+#DESCRIPTION Cain'in Gazabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//xp//qv//xpqvvkgqdms_,720,.mp4.urlset//master.m3u8:Cagri
+#DESCRIPTION Cagri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//qy//iu//qyiul64ffto_,720,.mp4.urlset//master.m3u8:Çarikli Milyoner
+#DESCRIPTION Çarikli Milyoner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//kj//hz//kjhzogjdoos_,720,.mp4.urlset//master.m3u8:Dabbe 4: Cin Çarpmasİ
+#DESCRIPTION Dabbe 4: Cin Çarpmasİ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv0.yerlifilm.mobi/v/2016/Dedemin.Fisi.2016.mp4:Dedemin fisi / OSMAN PAZARLAMA
+#DESCRIPTION Dedemin fisi / OSMAN PAZARLAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv0.yerlifilm.mobi/v/2016/Kotu.Kedi.Serafettin.2016.mp4:Kötü kedi serafettin/ OSMAN PAZARLAMA
+#DESCRIPTION Kötü kedi serafettin/ OSMAN PAZARLAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//eb//fp//ebfppzjzjta_,720,.mp4.urlset//master.m3u8:Dokuzuncu Boluk
+#DESCRIPTION Dokuzuncu Boluk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//x6//hj//x6hj0mvtg8k_,720,.mp4.urlset//master.m3u8:Devrimden Sonra
+#DESCRIPTION Devrimden Sonra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//s4//hn//s4hnejkqyay_,720,.mp4.urlset//master.m3u8:Darbe
+#DESCRIPTION Darbe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//if//bu//ifbubfby0ms_,720,.mp4.urlset//master.m3u8:Deli Dumrul: Hop Dedik
+#DESCRIPTION Deli Dumrul: Hop Dedik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ba//ap//baap5wrzs7i_,720,.mp4.urlset//master.m3u8:Destere
+#DESCRIPTION Destere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8v//11//8v11dltpziu_,720,.mp4.urlset//master.m3u8:Eski Sevgiliyi Unutmanin 10 Yolu
+#DESCRIPTION Eski Sevgiliyi Unutmanin 10 Yolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//e2//s2//e2s2ywgfgam_,720,.mp4.urlset//master.m3u8:Evim Sensin
+#DESCRIPTION Evim Sensin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zp//zt//zpztcj7nssa_,720,.mp4.urlset//master.m3u8:Evrenin Ucuna Yolculuk
+#DESCRIPTION Evrenin Ucuna Yolculuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//2l//ww//2lww0vpety6_,720,.mp4.urlset//master.m3u8:Ejderha Koruyucusu
+#DESCRIPTION Ejderha Koruyucusu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//xd//t8//xdt8ww8scli_,720,.mp4.urlset//master.m3u8:Fedakar
+#DESCRIPTION Fedakar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//bz//do//bzdogf3q4ws_,720,.mp4.urlset//master.m3u8:Golgede
+#DESCRIPTION Golgede
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//iz//fo//izfokd9puhq_,720,.mp4.urlset//master.m3u8:Gizem
+#DESCRIPTION Gizem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//2z//ra//2zrabvrsuks_,720,.mp4.urlset//master.m3u8:Gulcemal
+#DESCRIPTION Gulcemal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ma//la//malafobuheu_,720,.mp4.urlset//master.m3u8:Gambit
+#DESCRIPTION Gambit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//vs//w2//vsw2z3ge11k_,720,.mp4.urlset//master.m3u8:Harry Brown
+#DESCRIPTION Harry Brown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//nu//fn//nufnbv8nvfq_,720,.mp4.urlset//master.m3u8:HEMSO
+#DESCRIPTION HEMSO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ne//ve//nevevzn1o9w_,720,.mp4.urlset//master.m3u8:Herkes Mi Aldatir
+#DESCRIPTION Herkes Mi Aldatir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dk//i1//dki1fym4ye6_,720,.mp4.urlset//master.m3u8:Hep Yek
+#DESCRIPTION Hep Yek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4p//at//4patib2xkxg_,720,.mp4.urlset//master.m3u8:Hz. Suleyman'in Kralligi
+#DESCRIPTION Hz. Suleyman'in Kralligi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sa//h7//sah7emswcvq_,720,.mp4.urlset//master.m3u8:Iki Kafadar
+#DESCRIPTION Iki Kafadar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//d8//bq//d8bqd20fyxs_,720,.mp4.urlset//master.m3u8:İki Kafadar
+#DESCRIPTION İki Kafadar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//me//4s//me4s5cxuljk_,720,.mp4.urlset//master.m3u8:Ikizler Firarda
+#DESCRIPTION Ikizler Firarda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//wn//k3//wnk3yywq0ig_,720,.mp4.urlset//master.m3u8:İnsaat 1
+#DESCRIPTION İnsaat 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8x//c5//8xc5rxxszvw_,720,.mp4.urlset//master.m3u8:Insaat 2
+#DESCRIPTION Insaat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//xq//qd//xqqdnzh1rdw_,720,.mp4.urlset//master.m3u8:Intikam Kilici
+#DESCRIPTION Intikam Kilici
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//nr//or//nrorrcoewlm_,720,.mp4.urlset//master.m3u8:Irlandaliyi Oldur
+#DESCRIPTION Irlandaliyi Oldur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//aq//il//aqil1fvsjqe_,720,.mp4.urlset//master.m3u8:Kabadayi
+#DESCRIPTION Kabadayi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//kc//ff//kcffhl2cm7w_,720,.mp4.urlset//master.m3u8:Kanada Pastasi
+#DESCRIPTION Kanada Pastasi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//tc//m3//tcm3evmikve_,720,.mp4.urlset//master.m3u8:Kahraman Kopek Jock
+#DESCRIPTION Kahraman Kopek Jock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//gz//jl//gzjllng2izi_,720,.mp4.urlset//master.m3u8:Karamanin Oyunu
+#DESCRIPTION Karamanin Oyunu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//7p//sd//7psd4vzx6aq_,720,.mp4.urlset//master.m3u8:Kent Fedaisi
+#DESCRIPTION Kent Fedaisi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ie//ap//ieapb2czfxd_,720,.mp4.urlset//master.m3u8:Kolpacino
+#DESCRIPTION Kolpacino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ga//cn//gacnsqnqxag_,720,.mp4.urlset//master.m3u8:Kolpacino: Bomba
+#DESCRIPTION Kolpacino: Bomba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//px//hv//pxhveidheou_,360,.mp4.urlset//master.m3u8:Kolpacino 3. Devre
+#DESCRIPTION Kolpacino 3. Devre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//da//y3//day39nqoe4g_,720,.mp4.urlset//master.m3u8:Korkunun 5 Duyusu
+#DESCRIPTION Korkunun 5 Duyusu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dd//zi//ddziv5vhx1q_,720,.mp4.urlset//master.m3u8:Kurban
+#DESCRIPTION Kurban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//8n//db//8ndblmddzoc_,720,.mp4.urlset//master.m3u8:Kutsal Damacana : Itmen
+#DESCRIPTION Kutsal Damacana : Itmen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//yy//pb//yypbdmuleie_,720,.mp4.urlset//master.m3u8:KILIBIK (OSSMAN)
+#DESCRIPTION KILIBIK (OSSMAN)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//iv//ip//ivip7v4f65i_,720,.mp4.urlset//master.m3u8:KACIS PLANI
+#DESCRIPTION KACIS PLANI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//5w//59//5w59n6qapow_,720,.mp4.urlset//master.m3u8:Kan İzi
+#DESCRIPTION Kan İzi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//js//oi//jsoisdoaakm_,720,.mp4.urlset//master.m3u8:Koku: Bir Katilin Hikayesi
+#DESCRIPTION Koku: Bir Katilin Hikayesi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//q2//us//q2us4to9rdq_,720,.mp4.urlset//master.m3u8:Kutuptaki Patlama
+#DESCRIPTION Kutuptaki Patlama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//re//fq//refqq5lghwg_,720,.mp4.urlset//master.m3u8:Kahraman Kopekler
+#DESCRIPTION Kahraman Kopekler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//7p//s0//7ps0wjcsnwu_,720,.mp4.urlset//master.m3u8:Kendime İyi Bak
+#DESCRIPTION Kendime İyi Bak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//2z//cz//2zczmen3gum_,720,.mp4.urlset//master.m3u8:Limonata
+#DESCRIPTION Limonata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//rn//1d//rn1dwdctmvc_,720,.mp4.urlset//master.m3u8:Leblebi Tozu
+#DESCRIPTION Leblebi Tozu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//am//tj//amtjoro4hu2_,720,.mp4.urlset//master.m3u8:Mel-un
+#DESCRIPTION Mel-un
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zw//qe//zwqexpvze0m_,720,.mp4.urlset//master.m3u8:Moskovanin Sifresi Temel
+#DESCRIPTION Moskovanin Sifresi Temel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//uq//hx//uqhxegs6gp2_,720,.mp4.urlset//master.m3u8:Muhalif Baskan
+#DESCRIPTION Muhalif Baskan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//1u//nx//1unxj4vkwyw_,720,.mp4.urlset//master.m3u8:Nisan Yagmuru
+#DESCRIPTION Nisan Yagmuru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//si//io//siiospbb5hw_,720,.mp4.urlset//master.m3u8:Netekim Karakolu
+#DESCRIPTION Netekim Karakolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ps//va//psvai14g2po_,720,.mp4.urlset//master.m3u8:Nefes: Vatan Sagolsun
+#DESCRIPTION Nefes: Vatan Sagolsun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//yx//cg//yxcgzzcjdba_,720,.mp4.urlset//master.m3u8:Olumcul Oyuncaklar Kemikler Sehri
+#DESCRIPTION Olumcul Oyuncaklar Kemikler Sehri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//cl//o2//clo2oh8kuqs_,720,.mp4.urlset//master.m3u8:Olumcul Umut
+#DESCRIPTION Olumcul Umut
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//g3//sd//g3sdywpncdo_,720,.mp4.urlset//master.m3u8:Olur Insallah
+#DESCRIPTION Olur Insallah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//95//25//9525kndo3qi_,720,.mp4.urlset//master.m3u8:Oz Hakiki Karakol
+#DESCRIPTION Oz Hakiki Karakol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//a0//ll//a0llgzln3og_,720,.mp4.urlset//master.m3u8:Pars Kiraz Operasyonu
+#DESCRIPTION Pars Kiraz Operasyonu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//l8//3l//l83lqd4bzks_,720,.mp4.urlset//master.m3u8:Polis Akademisi Alaturka
+#DESCRIPTION Polis Akademisi Alaturka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//fc//ss//fcsscwlcaeo_,720,.mp4.urlset//master.m3u8:Plan Degisikligi
+#DESCRIPTION Plan Degisikligi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//ux//xp//uxxplo0kzlq_,720,.mp4.urlset//master.m3u8:Pardon
+#DESCRIPTION Pardon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//du//ni//dunimgqxpdu_,720,.mp4.urlset//master.m3u8:Sosyete Saban
+#DESCRIPTION Sosyete Saban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dm//p6//dmp64snjivc_,720,.mp4.urlset//master.m3u8:Saban Oglu Saban
+#DESCRIPTION Saban Oglu Saban
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4m//9t//4m9tphxnmmi_,720,.mp4.urlset//master.m3u8:Sevkat Yerimdar 2 Bizde Sakat Cok
+#DESCRIPTION Sevkat Yerimdar 2 Bizde Sakat Cok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4j//eg//4jegrstf8ea_,720,.mp4.urlset//master.m3u8:Sabit Kanca 2
+#DESCRIPTION Sabit Kanca 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//4f//zk//4fzkzqbde6g_,720,.mp4.urlset//master.m3u8:Seninki Kac Para
+#DESCRIPTION Seninki Kac Para
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//6o//2s//6o2sh5yagrs_,720,.mp4.urlset//master.m3u8:Sevkat Yerimdar
+#DESCRIPTION Sevkat Yerimdar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sk//fx//skfxjixqkew_,720,.mp4.urlset//master.m3u8:Silah
+#DESCRIPTION Silah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//jl//we//jlwegfensj2_,720,.mp4.urlset//master.m3u8:Sipsak Anadolu
+#DESCRIPTION Sipsak Anadolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//dg//eu//dgeu3upheak_,720,.mp4.urlset//master.m3u8:Surgun Inek
+#DESCRIPTION Surgun Inek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//cp//tj//cptjaebs2ha_,720,.mp4.urlset//master.m3u8:Tas Mektep
+#DESCRIPTION Tas Mektep
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//tz//qk//tzqkptbux2s_,720,.mp4.urlset//master.m3u8:UYANIK KARDESLER
+#DESCRIPTION UYANIK KARDESLER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//kw//ir//kwirmczx86g_,720,.mp4.urlset//master.m3u8:Veda
+#DESCRIPTION Veda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//zv//uv//zvuvlnveeuk_,720,.mp4.urlset//master.m3u8:Vincent Deniz Istiyor
+#DESCRIPTION Vincent Deniz Istiyor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//da//6p//da6povjsjby_,720,.mp4.urlset//master.m3u8:Wuhu Savascisi
+#DESCRIPTION Wuhu Savascisi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//tu//wl//tuwluln8koe_,720,.mp4.urlset//master.m3u8:Yahsi Bati
+#DESCRIPTION Yahsi Bati
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//0q//jj//0qjje8ge0vw_,720,.mp4.urlset//master.m3u8:Yesil Sokak Holiganlar
+#DESCRIPTION Yesil Sokak Holiganlar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//69//yj//69yjjbwac9e_,720,.mp4.urlset//master.m3u8:Zehra
+#DESCRIPTION Zehra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//td//zn//tdznqb5byji_,720,.mp4.urlset//master.m3u8:Zamanda Yolculuk
+#DESCRIPTION Zamanda Yolculuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2786.mkv:Prémonitions
+#DESCRIPTION Prémonitions
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2781.mkv:Les Huit salopards
+#DESCRIPTION Les Huit salopards
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2782.mkv:Le Pont des Espions
+#DESCRIPTION Le Pont des Espions
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2783.mkv:Divergente
+#DESCRIPTION Divergente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2784.mkv:Divergente 2
+#DESCRIPTION Divergente 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2785.mkv:Divergente 3
+#DESCRIPTION Divergente 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2769.mkv:Batman v Superman: Dawn of Justice
+#DESCRIPTION Batman v Superman: Dawn of Justice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2770.mkv:Hunger Games - La Révolte : Partie 1
+#DESCRIPTION Hunger Games - La Révolte : Partie 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2771.mkv:Hunger Games - La Révolte : Partie 2
+#DESCRIPTION Hunger Games - La Révolte : Partie 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2610.mkv:Deadpool 4K
+#DESCRIPTION Deadpool 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2576.mkv:The Revenant
+#DESCRIPTION The Revenant
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2581.mkv:Stars Wars The Force Awakens
+#DESCRIPTION Stars Wars The Force Awakens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2582.mkv:007 Spectre
+#DESCRIPTION 007 Spectre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2578.mkv:The Runner
+#DESCRIPTION The Runner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2585.mkv:Deadpool
+#DESCRIPTION Deadpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2584.mkv:Triple 9
+#DESCRIPTION Triple 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2591.mkv:Pandemic
+#DESCRIPTION Pandemic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2592.mkv:Skin Trade
+#DESCRIPTION Skin Trade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2593.mkv:David et Goliath
+#DESCRIPTION David et Goliath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2579.mkv:Creed
+#DESCRIPTION Creed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2580.mkv:Gods of egypt 3D
+#DESCRIPTION Gods of egypt 3D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2590.mkv:The Fourth Pyramid
+#DESCRIPTION The Fourth Pyramid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2589.mkv:Precious Cargo
+#DESCRIPTION Precious Cargo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2604.mkv:Ride along 2
+#DESCRIPTION Ride along 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2607.mkv:99 home
+#DESCRIPTION 99 home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2608.mkv:Seul Contre Tous
+#DESCRIPTION Seul Contre Tous
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2606.mkv:13 Hours
+#DESCRIPTION 13 Hours
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2603.mkv:Our Brand is Crisis
+#DESCRIPTION Our Brand is Crisis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2605.mkv:Kung Fu Panda 3 (3D)
+#DESCRIPTION Kung Fu Panda 3 (3D)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2602.mkv:Ip Man 3
+#DESCRIPTION Ip Man 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2588.mkv:Race
+#DESCRIPTION Race
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2609.mkv:Taxi 3
+#DESCRIPTION Taxi 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2599.mkv:Mr Right
+#DESCRIPTION Mr Right
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2600.mkv:Ma Meilleure Amie
+#DESCRIPTION Ma Meilleure Amie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2597.mkv:Eddie The Eagle
+#DESCRIPTION Eddie The Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2598.mkv:I'll See You In My Dreams
+#DESCRIPTION I'll See You In My Dreams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2596.mkv:La Résurrection du Christ
+#DESCRIPTION La Résurrection du Christ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2594.mkv:Bone Tomahawk
+#DESCRIPTION Bone Tomahawk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2791.avi:Le Garçon au pyjama rayé
+#DESCRIPTION Le Garçon au pyjama rayé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2595.mkv:le roi et moi
+#DESCRIPTION le roi et moi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2587.mkv:Legend
+#DESCRIPTION Legend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2802.avi:Requiem for a dream
+#DESCRIPTION Requiem for a dream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2586.mkv:Much Loved
+#DESCRIPTION Much Loved
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2577.mkv:zootopia
+#DESCRIPTION zootopia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2601.mp4:Boruto : Naruto
+#DESCRIPTION Boruto : Naruto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2583.mkv:Le voyage d'arlo
+#DESCRIPTION Le voyage d'arlo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2718.mkv:Game Of Thrones S01E01
+#DESCRIPTION Game Of Thrones S01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2719.mkv:Game Of Thrones S01E02
+#DESCRIPTION Game Of Thrones S01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2720.mkv:Game Of Thrones S01E03
+#DESCRIPTION Game Of Thrones S01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2721.mkv:Game Of Thrones S01E04
+#DESCRIPTION Game Of Thrones S01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2722.mkv:Game Of Thrones S01E05
+#DESCRIPTION Game Of Thrones S01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2723.mkv:Game Of Thrones S01E06
+#DESCRIPTION Game Of Thrones S01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2724.mkv:Game Of Thrones S01E07
+#DESCRIPTION Game Of Thrones S01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2725.mkv:Game Of Thrones S01E08
+#DESCRIPTION Game Of Thrones S01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2726.mkv:Game Of Thrones S01E09
+#DESCRIPTION Game Of Thrones S01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2727.mkv:Game Of Thrones S01E10
+#DESCRIPTION Game Of Thrones S01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2729.mkv:Game Of Thrones S02E01
+#DESCRIPTION Game Of Thrones S02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2730.mkv:Game Of Thrones S02E02
+#DESCRIPTION Game Of Thrones S02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2731.mkv:Game Of Thrones S02E03
+#DESCRIPTION Game Of Thrones S02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2732.mkv:Game Of Thrones S02E04
+#DESCRIPTION Game Of Thrones S02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2733.mkv:Game Of Thrones S02E05
+#DESCRIPTION Game Of Thrones S02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2734.mkv:Game Of Thrones S02E06
+#DESCRIPTION Game Of Thrones S02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2735.mkv:Game Of Thrones S02E07
+#DESCRIPTION Game Of Thrones S02E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2736.mkv:Game Of Thrones S02E08
+#DESCRIPTION Game Of Thrones S02E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2737.mkv:Game Of Thrones S02E09
+#DESCRIPTION Game Of Thrones S02E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2738.mkv:Game Of Thrones S02E10
+#DESCRIPTION Game Of Thrones S02E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2739.mkv:Game Of Thrones S03E01
+#DESCRIPTION Game Of Thrones S03E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2740.mkv:Game Of Thrones S03E02
+#DESCRIPTION Game Of Thrones S03E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2741.mkv:Game Of Thrones S03E03
+#DESCRIPTION Game Of Thrones S03E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2742.mkv:Game Of Thrones S03E04
+#DESCRIPTION Game Of Thrones S03E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2743.mkv:Game Of Thrones S03E05
+#DESCRIPTION Game Of Thrones S03E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2744.mkv:Game Of Thrones S03E06
+#DESCRIPTION Game Of Thrones S03E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2745.mkv:Game Of Thrones S03E07
+#DESCRIPTION Game Of Thrones S03E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2746.mkv:Game Of Thrones S03E08
+#DESCRIPTION Game Of Thrones S03E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2747.mkv:Game Of Thrones S03E09
+#DESCRIPTION Game Of Thrones S03E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2748.mkv:Game Of Thrones S03E10
+#DESCRIPTION Game Of Thrones S03E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2749.mkv:Game Of Thrones S04E01
+#DESCRIPTION Game Of Thrones S04E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2750.mkv:Game Of Thrones S04E02
+#DESCRIPTION Game Of Thrones S04E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2751.mkv:Game Of Thrones S04E03
+#DESCRIPTION Game Of Thrones S04E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2752.mkv:Game Of Thrones S04E04
+#DESCRIPTION Game Of Thrones S04E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2753.mkv:Game Of Thrones S04E05
+#DESCRIPTION Game Of Thrones S04E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2754.mkv:Game Of Thrones S04E06
+#DESCRIPTION Game Of Thrones S04E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2755.mkv:Game Of Thrones S04E07
+#DESCRIPTION Game Of Thrones S04E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2756.mkv:Game Of Thrones S04E08
+#DESCRIPTION Game Of Thrones S04E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2757.mkv:Game Of Thrones S04E09
+#DESCRIPTION Game Of Thrones S04E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2758.mkv:Game Of Thrones S04E10
+#DESCRIPTION Game Of Thrones S04E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2759.mkv:Game Of Thrones S05E01
+#DESCRIPTION Game Of Thrones S05E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2760.mkv:Game Of Thrones S05E02
+#DESCRIPTION Game Of Thrones S05E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2761.mkv:Game Of Thrones S05E03
+#DESCRIPTION Game Of Thrones S05E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2762.mkv:Game Of Thrones S05E04
+#DESCRIPTION Game Of Thrones S05E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2763.mkv:Game Of Thrones S05E05
+#DESCRIPTION Game Of Thrones S05E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2764.mkv:Game Of Thrones S05E06
+#DESCRIPTION Game Of Thrones S05E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2765.mkv:Game Of Thrones S05E07
+#DESCRIPTION Game Of Thrones S05E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2766.mkv:Game Of Thrones S05E08
+#DESCRIPTION Game Of Thrones S05E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2767.mkv:Game Of Thrones S05E09
+#DESCRIPTION Game Of Thrones S05E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2768.mkv:Game Of Thrones S05E10
+#DESCRIPTION Game Of Thrones S05E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2792.mkv:Mr Robot S02E01
+#DESCRIPTION Mr Robot S02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2793.mkv:Mr Robot S02E02
+#DESCRIPTION Mr Robot S02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2794.mkv:Mr Robot S02E03
+#DESCRIPTION Mr Robot S02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2795.mkv:Mr Robot S02E04
+#DESCRIPTION Mr Robot S02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2798.mkv:Mr Robot S02E05
+#DESCRIPTION Mr Robot S02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2799.mkv:Mr Robot S02E06
+#DESCRIPTION Mr Robot S02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2800.mkv:Mr Robot S02E07
+#DESCRIPTION Mr Robot S02E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2801.mkv:Mr Robot S02E08
+#DESCRIPTION Mr Robot S02E08
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/movie/test2/test2/1753.mp4:######VOD#####
 #DESCRIPTION ######VOD#####
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/movie/test2/test2/2543.mp4:--------------------REPORTAGE--------------------
@@ -14517,173 +14893,3 @@
 #DESCRIPTION Egypte vivre avec l'histoire
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/movie/test2/test2/1877.mkv:360°Géo -maroc la face caché du paradis
 #DESCRIPTION 360°Géo -maroc la face caché du paradis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1771.ts:-----------USA-------------
-#DESCRIPTION -----------USA-------------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1723.ts:beIN SPORTS US
-#DESCRIPTION beIN SPORTS US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1848.ts:NBA
-#DESCRIPTION NBA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1847.ts:ABC
-#DESCRIPTION ABC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1789.ts:NFL
-#DESCRIPTION NFL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1791.ts:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1765.ts:TSN 1
-#DESCRIPTION TSN 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1764.ts:TSN 2
-#DESCRIPTION TSN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1763.ts:TSN 3
-#DESCRIPTION TSN 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1762.ts:TSN 4
-#DESCRIPTION TSN 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1761.ts:TSN 5
-#DESCRIPTION TSN 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1767.ts:FOX SPORT 1 HD
-#DESCRIPTION FOX SPORT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1766.ts:FOX SPORT 2 HD
-#DESCRIPTION FOX SPORT 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1769.ts:ASTRO SPORT 1
-#DESCRIPTION ASTRO SPORT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1770.ts:ASTRO SPORT 2
-#DESCRIPTION ASTRO SPORT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1768.ts:ASTRO SPORT 3
-#DESCRIPTION ASTRO SPORT 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1790.ts:ASTRO SPORT 4
-#DESCRIPTION ASTRO SPORT 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1760.ts:ABC NEWS
-#DESCRIPTION ABC NEWS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1846.ts:fox usa
-#DESCRIPTION fox usa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1864.ts:WWE RAW HD
-#DESCRIPTION WWE RAW HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1861.ts:Hbo Zone
-#DESCRIPTION Hbo Zone
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1862.ts:HBO Signature
-#DESCRIPTION HBO Signature
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1863.ts:HBO HD
-#DESCRIPTION HBO HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/1860.ts:Hallmark
-#DESCRIPTION Hallmark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2369.ts:*****~~•POLAND•~~*****
-#DESCRIPTION *****~~•POLAND•~~*****
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2370.ts:PL:TVP1
-#DESCRIPTION PL:TVP1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2396.ts:PL: Polonia 1
-#DESCRIPTION PL: Polonia 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2395.ts:PL: Polsat
-#DESCRIPTION PL: Polsat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2394.ts:PL: Polsat 2
-#DESCRIPTION PL: Polsat 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2388.ts:PL: Polsat Play
-#DESCRIPTION PL: Polsat Play
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2389.ts:PL: Polsat News
-#DESCRIPTION PL: Polsat News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2390.ts:PL: Polsat Jim Jam
-#DESCRIPTION PL: Polsat Jim Jam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2387.ts:POL: Polsat Romans
-#DESCRIPTION POL: Polsat Romans
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2391.ts:PL: Polsat HD
-#DESCRIPTION PL: Polsat HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2392.ts:PL: Polsat Film
-#DESCRIPTION PL: Polsat Film
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2393.ts:PL: Polsat Cafe
-#DESCRIPTION PL: Polsat Cafe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2411.ts:POL: Filmbox Action
-#DESCRIPTION POL: Filmbox Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2409.ts:PL: Filmbox Premium
-#DESCRIPTION PL: Filmbox Premium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2410.ts:PL: Filmbox Family
-#DESCRIPTION PL: Filmbox Family
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2412.ts:PL: Filmbox
-#DESCRIPTION PL: Filmbox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2421.ts:POL: CANAL  SERIALE HD
-#DESCRIPTION POL: CANAL  SERIALE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2422.ts:POL: CANAL  FILM HD
-#DESCRIPTION POL: CANAL  FILM HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2423.ts:POL: CANAL  FAMILY HD
-#DESCRIPTION POL: CANAL  FAMILY HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2425.ts:POL: HBO HD
-#DESCRIPTION POL: HBO HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2420.ts:POL: HBO2 HD
-#DESCRIPTION POL: HBO2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2406.ts:PL: FOX HD
-#DESCRIPTION PL: FOX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2407.ts:PL: Fox Comedy HD
-#DESCRIPTION PL: Fox Comedy HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2408.ts:POL: Fox Comedy
-#DESCRIPTION POL: Fox Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2415.ts:PL: AXN White
-#DESCRIPTION PL: AXN White
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2416.ts:PL: AXN SPIN HD
-#DESCRIPTION PL: AXN SPIN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2417.ts:PL: AXN HD
-#DESCRIPTION PL: AXN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2418.ts:PL: AXN Black
-#DESCRIPTION PL: AXN Black
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2419.ts:PL: AXN
-#DESCRIPTION PL: AXN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2385.ts:POL: Polsat Sport News
-#DESCRIPTION POL: Polsat Sport News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2426.ts:POL: Eleven Sport
-#DESCRIPTION POL: Eleven Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2427.ts:POL: Eleven
-#DESCRIPTION POL: Eleven
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2373.ts:PL: TVP SPORT
-#DESCRIPTION PL: TVP SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2428.ts:POL: Canal  Sport HD
-#DESCRIPTION POL: Canal  Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2429.ts:POL: Canal  Sport2
-#DESCRIPTION POL: Canal  Sport2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2386.ts:PL: Polsat Sport
-#DESCRIPTION PL: Polsat Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2398.ts:PL: ORANGE SPORT
-#DESCRIPTION PL: ORANGE SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2399.ts:PL: nSport
-#DESCRIPTION PL: nSport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2424.ts:POL: ANIMAL PLANET HD
-#DESCRIPTION POL: ANIMAL PLANET HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2397.ts:PL: Planete
-#DESCRIPTION PL: Planete
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2402.ts:PL: NATIONAL GEO
-#DESCRIPTION PL: NATIONAL GEO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2403.ts:PL: Nat Geo Wild
-#DESCRIPTION PL: Nat Geo Wild
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2375.ts:PL: TVN Turbo
-#DESCRIPTION PL: TVN Turbo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2371.ts:PL: VIVA Polska
-#DESCRIPTION PL: VIVA Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2372.ts:PL: VH1
-#DESCRIPTION PL: VH1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2374.ts:PL: TVP SERIALE
-#DESCRIPTION PL: TVP SERIALE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2376.ts:PL: TVN Style
-#DESCRIPTION PL: TVN Style
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2377.ts:PL: TVN 24
-#DESCRIPTION PL: TVN 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2378.ts:PL: TVN
-#DESCRIPTION PL: TVN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2382.ts:PL: TV 4
-#DESCRIPTION PL: TV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2379.ts:PL: TV6
-#DESCRIPTION PL: TV6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2380.ts:PL: TV Trwam
-#DESCRIPTION PL: TV Trwam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2381.ts:PL: TV PULS
-#DESCRIPTION PL: TV PULS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2383.ts:PL: TNT
-#DESCRIPTION PL: TNT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2384.ts:PL: TLC
-#DESCRIPTION PL: TLC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2400.ts:PL: Nickelodeon
-#DESCRIPTION PL: Nickelodeon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2401.ts:PL: Nick Jr Polska
-#DESCRIPTION PL: Nick Jr Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2413.ts:PL: Disney HD
-#DESCRIPTION PL: Disney HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2404.ts:PL: MTV Polska
-#DESCRIPTION PL: MTV Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2405.ts:PL: KINO POLSKA
-#DESCRIPTION PL: KINO POLSKA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2414.ts:PL: Comedy Central Polska
-#DESCRIPTION PL: Comedy Central Polska
