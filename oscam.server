@@ -1,0 +1,300 @@
+*********************REMY_TEAM_SERVER-READER_CONFIG*****************************
+
+[reader]
+label                       = oscam_emu
+protocol                    = emu
+device                      = emulator
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD,092B
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000;092B:000000
+group                       = 1
+emu_auproviders      = 0500:030B00;0604:010200;0E00:000000;4AE1:000011,000014,0000FE,1010,06AD,092B
+blockemm-g               = 1
+
+
+[reader]
+label                       = SoftCam.Key
+protocol                    = constcw
+device                      = /etc/tuxbox/config/SoftCam.Key
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 2
+
+[reader]
+label                       = constant.cw
+protocol                    = constcw
+device                      = /etc/tuxbox/config/constant.cw
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 3
+
+[reader]
+label                       = oscam.keys
+protl                       = constcw
+dce                         = /etc/tuxbox/config/oscam.keys
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 4
+
+[reader]
+label                       = oscam.constant.cw
+protocol                    = constcw
+device                      = /etc/tuxbox/config/oscam.constant.cw
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 5
+
+[reader]
+label                             = constkeys
+enable                          = 1
+protocol                        = constcw
+device                          = /usr/keys/constant.cw
+key                               = 0102030405060708091011121314
+reconnecttimeout         = 0
+group                           = 1
+caid                             = 06ad
+
+[reader]
+label                            = constkeys
+enable                         = 1
+protocol                       = constcw
+device                         = /usr/keys/constant.cw
+key                              = 0102030405060708091011121314
+reconnecttimeout        = 0
+group                          = 1
+caid                            = 0b00
+
+[reader]
+label                          = Newcamd
+description                = Newcamd Example
+protocol                     = newcamd
+device                       = server,port
+key                            = 0102030405060708091011121314
+user                           = username
+password                   = password
+group                         = 1
+
+[reader]
+label      	                = Camd3
+protocol   	                = camd35
+device            	= server,port
+user      	                = user
+password                 = pass
+group      	                = 1
+
+[reader]
+label                        = teledunya
+enable                     = 1
+protocol                   = internal
+device                     = /dev/sci0
+key                          = 0102030405060708091011121314
+caid                         = 0B00
+fix9993                    = 0
+detect                     = cd
+mhz                         = 357
+cardmhz                  = 560
+group		= 1
+emmcache 	= 1,3,2
+lb_weight 	= 100 
+
+[reader]
+label		= teled2
+protocol 		= internal
+device		= /dev/sci1
+caid 		= 0B00
+detect 		= cd
+mhz 		= 600
+cardmhz		= 600
+ident 		= 0B00:000000
+group 		= 1
+emmcache 	= 1,3,15
+
+********************************************SERVERLARINIZI  ALTTAKI GIBI GIRINIZ**********************************************************
+
+[reader]
+label		= test.cloudcccam.com
+description	 = CCcam-Server: test.cloudcccam.com,19000
+enable		= 1
+protocol		= cccam
+device		= test.cloudcccam.com,19000
+user		= cccam15
+password		= cmdmc
+cccversion	 = 2.3.0
+group		= 1
+inactivitytimeout	= 1
+reconnecttimeout	= 30
+lb_weight		= 100
+cccmaxhops	= 10
+ccckeepalive	= 1
+
+
+BELES SERVERLAR
+
+[reader]
+label=ferocam.com
+enable=1
+protocol=cccam
+device=ferocam.com,13500
+user=kamil1
+password=0123541
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=z1.fcnoip.org
+enable=1
+protocol=cccam
+device=z1.fcnoip.org,23001
+user=z1310
+password=2102121
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=v1.fcnoip.org
+enable=1
+protocol=cccam
+device=v1.fcnoip.org,13001
+user=v0862
+password=3302010
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=1.tvzoola.com
+enable=1
+protocol=cccam
+device=1.tvzoola.com,22500
+user=9DRfct
+password=QgRXNz
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=nasonex.ddns.net
+enable=1
+protocol=cccam
+device=nasonex.ddns.net,6666
+user=brandvip45
+password=5HKrOp
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=nasonex.ddns.net
+enable=1
+protocol=cccam
+device=nasonex.ddns.net,6666
+user=brandvip71
+password=5HKrO7
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=bosscccam.homepc.it
+enable=1
+protocol=cccam
+device=bosscccam.homepc.it,21001
+user=bs88704
+password=q1tta
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=213.136.85.248
+enable=1
+protocol=cccam
+device=213.136.85.248,24000
+user=wrn343
+password=sss343
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=nasonex.ddns.net
+enable=1
+protocol=cccam
+device=nasonex.ddns.net,6666
+user=brandvip49
+password=198707
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=sat1.bestsat.eu
+enable=1
+protocol=cccam
+device=sat1.bestsat.eu,12121
+user=sah423
+password=9U0C7DX231
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=star.newdust.net
+enable=1
+protocol=cccam
+device=star.newdust.net,11990
+user=uk1400
+password=sky2007
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
