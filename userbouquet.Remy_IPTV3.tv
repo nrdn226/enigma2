@@ -89,24 +89,6 @@
 #DESCRIPTION PAC-12 Net. (Oregon) 1280*720
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xrxs.net/video/live-p12wash-2328.m3u8:PAC-12 (Washington)
 #DESCRIPTION PAC-12 (Washington)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:===== bein TELEDUNET ============
-#DESCRIPTION ===== bein TELEDUNET ============
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein 2
-#DESCRIPTION bein 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein 3
-#DESCRIPTION bein 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein 4
-#DESCRIPTION bein 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein 5
-#DESCRIPTION bein 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein6
-#DESCRIPTION bein6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein 7
-#DESCRIPTION bein 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein 8
-#DESCRIPTION bein 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//149.202.206.50/myapp/935?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345.m3u8:bein 9
-#DESCRIPTION bein 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:adsport1
 #DESCRIPTION adsport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:adsport2
@@ -7699,7 +7681,7 @@
 #DESCRIPTION Mr Robot S02E07
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2801.mkv:Mr Robot S02E08
 #DESCRIPTION Mr Robot S02E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/movie/test2/test2/1753.mp4:######VOD_SOEU#####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/movie/test2/test2/1753.mp4:######VOD_1SOUE#####
 #DESCRIPTION ######VOD_1SOUE#####
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/154.mp4:Zootropolis PT
 #DESCRIPTION Zootropolis PT
