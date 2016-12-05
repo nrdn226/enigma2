@@ -1,5 +1,5 @@
 #NAME ReMy_PREMIUM
-#SERVICE 1:64:BA:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
 #DESCRIPTION E N I G M A__T U R K__T E A M
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/denizhaber/denizhaber.m3u8:NAT GEO WILD HD -TR
 #DESCRIPTION NAT GEO WILD HD -TR
@@ -101,7 +101,7 @@
 #DESCRIPTION adsport5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8 Sport.m3u8:Rete8 Sport
 #DESCRIPTION Rete8 Sport
-#SERVICE 1:64:BB:0:0:0:0:0:0:0::B E L G E S E L__D O C U M E N T A R Y
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::B E L G E S E L__D O C U M E N T A R Y
 #DESCRIPTION B E L G E S E L__D O C U M E N T A R Y
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.239.200%3a7088/:DOCUMANTARY TR
 #DESCRIPTION DOCUMANTARY TR
@@ -143,7 +143,7 @@
 #DESCRIPTION Travel HD BG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8:NASA TV HD
 #DESCRIPTION NASA TV HD
-#SERVICE 1:64:BC:0:0:0:0:0:0:0::H A B E R__N E W S_W O R L D
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::H A B E R__N E W S_W O R L D
 #DESCRIPTION H A B E R__N E W S_W O R L D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -175,7 +175,7 @@
 #DESCRIPTION WGN News Chicago
 #SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?:WGNPrimary
 #DESCRIPTION WGNPrimary
-#SERVICE 1:64:BD:0:0:0:0:0:0:0::4K_3D_E N T E R T A I N M E N T_T V
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::4K_3D_E N T E R T A I N M E N T_T V
 #DESCRIPTION 4K_3D_E N T E R T A I N M E N T_T V
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.76.26.81%3a8081/hdmedia/hdmedia_3d/playlist.m3u8:HD Media 3D
 #DESCRIPTION HD Media 3D
@@ -833,7 +833,7 @@
 #DESCRIPTION Premium Calcio 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.199.167%3a8000/live/abdel/abdel/1689.ts:Premium Calcio 6
 #DESCRIPTION Premium Calcio 6
-#SERVICE 1:64:BE:0:0:0:0:0:0:0::linux_hosting
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::linux_hosting
 #DESCRIPTION linux_hosting
 #SERVICE 4097:0:1:126:0:0:0:0:0:0:rtmp%3a//streaming.linuxhosting.gen.tr/Kgrt/Kgrt:KGRT
 #DESCRIPTION KGRT
@@ -1167,7 +1167,7 @@
 #DESCRIPTION AR: Berbere TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.re/live/salah/salah/126.ts:AR: Berbere Music
 #DESCRIPTION AR: Berbere Music
-#SERVICE 1:64:BF:0:0:0:0:0:0:0::IPTV -RE-LIVE
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::IPTV -RE-LIVE
 #DESCRIPTION IPTV -RE-LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.re/live/salah/salah/2208.ts:AR: Berbere Jeunesse
 #DESCRIPTION AR: Berbere Jeunesse
@@ -4363,7 +4363,7 @@
 #DESCRIPTION AR : ChoufliHall 2008 Ep 1 a 15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.re/movie/salah/salah/3243.mp4:10 Cloverfield Lane
 #DESCRIPTION 10 Cloverfield Lane
-#SERVICE 1:64:C0:0:0:0:0:0:0:0::TOPIPTV LIVE
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::TOPIPTV LIVE
 #DESCRIPTION TOPIPTV LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2650.ts:beIN BARAEM KIDS
 #DESCRIPTION beIN BARAEM KIDS
@@ -7263,7 +7263,7 @@
 #DESCRIPTION PL: KINO POLSKA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topiptv.net%3a5890/live/test2/test2/2414.ts:PL: Comedy Central Polska
 #DESCRIPTION PL: Comedy Central Polska
-#SERVICE 1:64:C1:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__C
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__C
 #DESCRIPTION E N I G M A__T U R K__T E A M__V O D - F I L M__C
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sm//dw//smdwuumnoxs_,720,.mp4.urlset//master.m3u8:10. Koy
 #DESCRIPTION 10. Koy

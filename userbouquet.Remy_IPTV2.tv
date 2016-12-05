@@ -1,7 +1,7 @@
 #NAME ReMy_BIG_LIST
-#SERVICE 1:64:91:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
+#SERVICE 1:64:7A:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
 #DESCRIPTION E N I G M A__T U R K__T E A M
-#SERVICE 1:64:92:0:0:0:0:0:0:0::U L U S A L
+#SERVICE 1:64:7B:0:0:0:0:0:0:0::U L U S A L
 #DESCRIPTION U L U S A L
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1HD
 #DESCRIPTION TRT1HD
@@ -79,7 +79,7 @@
 #DESCRIPTION Space Tv
 #SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//193.110.252.20%3a1935/live/dobbittv.stream/playlist.m3u8:do it tv(DOBBIT)
 #DESCRIPTION do it tv(DOBBIT)
-#SERVICE 1:64:93:0:0:0:0:0:0:0::SINEMA KANALLARI
+#SERVICE 1:64:7C:0:0:0:0:0:0:0::SINEMA KANALLARI
 #DESCRIPTION SINEMA KANALLARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.223.146.117%3a1935/live/planett/chunklist.m3u8:PLANET TURK
 #DESCRIPTION PLANET TURK
@@ -97,7 +97,7 @@
 #DESCRIPTION SINEMA 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//yayin7.canliyayin.org/sinema6:SINEMA 6
 #DESCRIPTION SINEMA 6
-#SERVICE 1:64:94:0:0:0:0:0:0:0::COCUK KANALLARI
+#SERVICE 1:64:7D:0:0:0:0:0:0:0::COCUK KANALLARI
 #DESCRIPTION COCUK KANALLARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//planet-live.ercdn.net/planetc.m3u8:PLANET COCUK
 #DESCRIPTION PLANET COCUK
@@ -115,7 +115,7 @@
 #DESCRIPTION Smile of a Child
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//208.53.180.218/ctv swfUrl=http%3a//www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http%3a//carolineoliveira.com.br/tvamigos/tomejerry.html playpath=tom:Tom Jerry (Bekle)
 #DESCRIPTION Tom Jerry (Bekle)
-#SERVICE 1:64:95:0:0:0:0:0:0:0::HABER
+#SERVICE 1:64:7E:0:0:0:0:0:0:0::HABER
 #DESCRIPTION HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURKEY
 #DESCRIPTION CNN TURKEY
@@ -137,7 +137,7 @@
 #DESCRIPTION TRT WORLD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//212.64.200.238/livepkgr//livestream?adbe-live-event=livestream:HABERIN MERKEZI
 #DESCRIPTION HABERIN MERKEZI
-#SERVICE 1:64:96:0:0:0:0:0:0:0::TRT KANALLARI
+#SERVICE 1:64:7F:0:0:0:0:0:0:0::TRT KANALLARI
 #DESCRIPTION TRT KANALLARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8:TRT TURK
 #DESCRIPTION TRT TURK
@@ -147,7 +147,7 @@
 #DESCRIPTION TRT KURDÎ
 #SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8:TRT ARAPÇA
 #DESCRIPTION TRT ARAPÇA
-#SERVICE 1:64:97:0:0:0:0:0:0:0::YEREL VE AZERI KANALLAR
+#SERVICE 1:64:80:0:0:0:0:0:0:0::YEREL VE AZERI KANALLAR
 #DESCRIPTION YEREL VE AZERI KANALLAR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/duzcetv/Remy.m3u8:DUZCE TV
 #DESCRIPTION DUZCE TV
@@ -411,7 +411,7 @@
 #DESCRIPTION Yoshlar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs7.cdn.ott.otautv.kz/dtv/id5_KTR_SG--Bilim/03/plst.m3u8:?‘Ñ–?»Ñ–?¼ ?¶Ó™?½?µ ?œÓ™?´?µ
 #DESCRIPTION ?‘Ñ–?»Ñ–?¼ ?¶Ó™?½?µ ?œÓ™?´?µ
-#SERVICE 1:64:98:0:0:0:0:0:0:0::T U R K C E  K U R A N - I  K E R I M  M E A L I
+#SERVICE 1:64:81:0:0:0:0:0:0:0::T U R K C E  K U R A N - I  K E R I M  M E A L I
 #DESCRIPTION T U R K C E  K U R A N - I  K E R I M  M E A L I
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.seslikuran.com/kuran/diller/turkce/diyanetvakfi/cuz/wma/01.wma:Fatiha 1-Bakara 141
 #DESCRIPTION Fatiha 1-Bakara 141
@@ -473,7 +473,7 @@
 #DESCRIPTION Mülk 1 -  Mürselat 50
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.seslikuran.com/kuran/diller/turkce/diyanetvakfi/cuz/wma/30.wma:Nebe 1 - Nas 6
 #DESCRIPTION Nebe 1 - Nas 6
-#SERVICE 1:64:99:0:0:0:0:0:0:0::W O R L D__N E W S
+#SERVICE 1:64:82:0:0:0:0:0:0:0::W O R L D__N E W S
 #DESCRIPTION W O R L D__N E W S
 #SERVICE 4097:0:1:797:0:0:0:0:0:0:http%3a//iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8:24 HRS SPAIN
 #DESCRIPTION 24 HRS SPAIN
@@ -537,7 +537,7 @@
 #DESCRIPTION Euronews PT
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/etv_direto/livestream.m3u8:ECONOMICO TV
 #DESCRIPTION ECONOMICO TV
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::REMY WORLD IPTV
+#SERVICE 1:64:83:0:0:0:0:0:0:0::REMY WORLD IPTV
 #DESCRIPTION REMY WORLD IPTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ios.cdn.bg%3a2006/fls/bonair.stream/playlist.m3u8:Bulgaria On Air
 #DESCRIPTION Bulgaria On Air
@@ -1733,7 +1733,7 @@
 #DESCRIPTION ?šÑƒÑ€?°?¹
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.205.49.83%3a1935/live/live.stream:?›ÑZ?±?¸?¼Ñ‹?¹ ?³?¾Ñ€?¾?´ KG
 #DESCRIPTION ?›ÑZ?±?¸?¼Ñ‹?¹ ?³?¾Ñ€?¾?´ KG
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::ITALY IPTV
+#SERVICE 1:64:84:0:0:0:0:0:0:0::ITALY IPTV
 #DESCRIPTION ITALY IPTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.72.196.214%3a8554/live/mp4%3aAltoAdigeTV/chunklist.m3u8?time=1465231804284:Alto Adige (216p)
 #DESCRIPTION Alto Adige (216p)
@@ -1875,7 +1875,7 @@
 #DESCRIPTION Video Brescia
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//livestream.goinfo.it/V33Live/v33ros/playlist.m3u8:Video 33 Trentino Alto Adige
 #DESCRIPTION Video 33 Trentino Alto Adige
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::__R U S S I A N__
+#SERVICE 1:64:85:0:0:0:0:0:0:0::__R U S S I A N__
 #DESCRIPTION __R U S S I A N__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.65.18.213/playlist_bonus_tv_region.m3u8:8 region
 #DESCRIPTION 8 region
@@ -2343,7 +2343,7 @@
 #DESCRIPTION Terra
 #SERVICE 4097:0:1:238:0:0:0:0:0:0:http%3a//195.42.126.12%3a8888/278:MATCH! PLANET
 #DESCRIPTION MATCH! PLANET
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::GREECE CHANNELS
+#SERVICE 1:64:86:0:0:0:0:0:0:0::GREECE CHANNELS
 #DESCRIPTION GREECE CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3u8:AKRITES TV
 #DESCRIPTION AKRITES TV
@@ -2417,7 +2417,7 @@
 #DESCRIPTION VOULI
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8:ZOUGLA TV
 #DESCRIPTION ZOUGLA TV
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::GERMAN CHANNELS
+#SERVICE 1:64:87:0:0:0:0:0:0:0::GERMAN CHANNELS
 #DESCRIPTION GERMAN CHANNELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&amp;rebase=on:1 HD
 #DESCRIPTION 1 HD
@@ -2537,7 +2537,7 @@
 #DESCRIPTION WDR HD (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvsaga.com/play/tv3/0123.m3u8:Welt der Wunder (480p)
 #DESCRIPTION Welt der Wunder (480p)
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::AUSTRIA CHANNELS
+#SERVICE 1:64:88:0:0:0:0:0:0:0::AUSTRIA CHANNELS
 #DESCRIPTION AUSTRIA CHANNELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.austria24.tv/live/stream_720p:Austria 1
 #DESCRIPTION Austria 1
@@ -2567,7 +2567,7 @@
 #DESCRIPTION Mühlviertel TV (432p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.237.191.228%3a1935/live/_definst_/Melodie/chunklist_w1575760825.m3u8:Melodie Express (468p)
 #DESCRIPTION Melodie Express (468p)
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::NEWS CHANNELS
+#SERVICE 1:64:89:0:0:0:0:0:0:0::NEWS CHANNELS
 #DESCRIPTION NEWS CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/master.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -2585,7 +2585,7 @@
 #DESCRIPTION RT RUSSIA
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8:WGN News Chicago
 #DESCRIPTION WGN News Chicago
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::ENGLISH CHANNELS
+#SERVICE 1:64:8A:0:0:0:0:0:0:0::ENGLISH CHANNELS
 #DESCRIPTION ENGLISH CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8:AMG TV
 #DESCRIPTION AMG TV
@@ -2745,7 +2745,7 @@
 #DESCRIPTION TV3
 #SERVICE 4097:0:1:142:0:0:0:0:0:0:http%3a//185.9.0.229%3a4022/udp/239.209.0.92%3a3301:TV3 Sport HD
 #DESCRIPTION TV3 Sport HD
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::CANADA CHANNELS
+#SERVICE 1:64:8B:0:0:0:0:0:0:0::CANADA CHANNELS
 #DESCRIPTION CANADA CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8:Canal9 Canada
 #DESCRIPTION Canal9 Canada
@@ -2759,7 +2759,7 @@
 #DESCRIPTION TVA MONTREAL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8:WZRA Canada - Italia
 #DESCRIPTION WZRA Canada - Italia
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::NORDIC CHANNELS
+#SERVICE 1:64:8C:0:0:0:0:0:0:0::NORDIC CHANNELS
 #DESCRIPTION NORDIC CHANNELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tv2bornholm.dk/stream/live/playlist.m3u8:TV2 BORNHOLM
 #DESCRIPTION TV2 BORNHOLM
@@ -2771,7 +2771,7 @@
 #DESCRIPTION TV ØST
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnapi.kaltura.com/p/1956351/sp/195635100/playManifest/entryId/0_e9slj9wh/format/applehttp/protocol/http/uiConfId/33315471/a.m3u8:tvs+
 #DESCRIPTION tvs+
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::DUTCH CHANNELS
+#SERVICE 1:64:8D:0:0:0:0:0:0:0::DUTCH CHANNELS
 #DESCRIPTION DUTCH CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8:Omroep Brabant
 #DESCRIPTION Omroep Brabant
@@ -2779,11 +2779,11 @@
 #DESCRIPTION Omroep Zeeland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8:RTV Drenthe
 #DESCRIPTION RTV Drenthe
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::LUXEMBOURG CHANNELS
+#SERVICE 1:64:8E:0:0:0:0:0:0:0::LUXEMBOURG CHANNELS
 #DESCRIPTION LUXEMBOURG CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//192.99.101.129%3a1935/tvmcj/tvmcj/playlist.m3u8:TVMCJ
 #DESCRIPTION TVMCJ
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::FRENCH CHANNELS
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::FRENCH CHANNELS
 #DESCRIPTION FRENCH CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_540.m3u8:Arte 540 (FR)
 #DESCRIPTION Arte 540 (FR)
@@ -2839,13 +2839,13 @@
 #DESCRIPTION RMC Decouverte
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ftviflivehdz-f.akamaihd.net/i/zouzous_live@88958/master.m3u8:Zouzou TV
 #DESCRIPTION Zouzou TV
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::BELGIUM CHANNELS
+#SERVICE 1:64:90:0:0:0:0:0:0:0::BELGIUM CHANNELS
 #DESCRIPTION BELGIUM CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//media.rtc.be/vod/mp4%3a166597.mp4/master.m3u8:PTC
 #DESCRIPTION PTC
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//media.webtvlive.eu/rtc/smil%3alive.smil/playlist.m3u8:RTC
 #DESCRIPTION RTC
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::SWITZERLAND CHANNELS
+#SERVICE 1:64:91:0:0:0:0:0:0:0::SWITZERLAND CHANNELS
 #DESCRIPTION SWITZERLAND CHANNELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.infomaniak.ch/livecast/livesd2/chunklist_w798831857.m3u8:Kanal9 (720p)
 #DESCRIPTION Kanal9 (720p)
@@ -2873,11 +2873,11 @@
 #DESCRIPTION TVM3 Suisse
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8:TVM 3
 #DESCRIPTION TVM 3
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::HUNGARY CHANNELS
+#SERVICE 1:64:92:0:0:0:0:0:0:0::HUNGARY CHANNELS
 #DESCRIPTION HUNGARY CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video.fixhd.tv%3a1935/fix/hd.stream/playlist.m3u8:FMX HD
 #DESCRIPTION FMX HD
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::ROMANIA MOLDAVIA CHANNELS
+#SERVICE 1:64:93:0:0:0:0:0:0:0::ROMANIA MOLDAVIA CHANNELS
 #DESCRIPTION ROMANIA MOLDAVIA CHANNELS
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//37.187.159.132%3a6500/play/a001:TVR1 RO
 #DESCRIPTION TVR1 RO
@@ -3029,13 +3029,13 @@
 #DESCRIPTION TVR
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//87.248.160.8/edge/smil%3aset/playlist.m3u8:STV
 #DESCRIPTION STV
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::EUROPE EBS CHANNELS
+#SERVICE 1:64:94:0:0:0:0:0:0:0::EUROPE EBS CHANNELS
 #DESCRIPTION EUROPE EBS CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8:EBS
 #DESCRIPTION EBS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8:EBS PLUS
 #DESCRIPTION EBS PLUS
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::ARABIC NEWS
+#SERVICE 1:64:95:0:0:0:0:0:0:0::ARABIC NEWS
 #DESCRIPTION ARABIC NEWS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8:BBC Arabic
 #DESCRIPTION BBC Arabic
@@ -3043,7 +3043,7 @@
 #DESCRIPTION DW Arabia (Germany)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_ar.m3u8:Euronews Arabic
 #DESCRIPTION Euronews Arabic
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::ARABIC CHANNELS
+#SERVICE 1:64:96:0:0:0:0:0:0:0::ARABIC CHANNELS
 #DESCRIPTION ARABIC CHANNELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xsuryoyosatwebtvx.api.channel.livestream.com/3.0/playlist.m3u8:SURYOYO TV SURIAN--ReMy Team
 #DESCRIPTION SURYOYO TV SURIAN--ReMy Team
@@ -3191,7 +3191,7 @@
 #DESCRIPTION Talaqie
 #SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//82.137.248.21%3a1935/Ugarit/UgaritLive/playlist.m3u8:UGARIT
 #DESCRIPTION UGARIT
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::PORTUGAL IPTV
+#SERVICE 1:64:97:0:0:0:0:0:0:0::PORTUGAL IPTV
 #DESCRIPTION PORTUGAL IPTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.41%3a1935/live/etv_direto/playlist.m3u8:E SPESCIAL SAUDE Portugal
 #DESCRIPTION E SPESCIAL SAUDE Portugal
@@ -3203,7 +3203,7 @@
 #DESCRIPTION Portugal 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-live.iol.pt%3a1935/live_tvi/smil%3aLIVE_TVI/playlist.m3u8:Portugal 10
 #DESCRIPTION Portugal 10
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::SPAIN CHANNELS
+#SERVICE 1:64:98:0:0:0:0:0:0:0::SPAIN CHANNELS
 #DESCRIPTION SPAIN CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//hlslive.rtve.es%3a80/24H_LV3_IPH/24H_LV3_IPH.m3u8:24 HORAS
 #DESCRIPTION 24 HORAS
@@ -3411,7 +3411,7 @@
 #DESCRIPTION VEM E VE TV 3 SP
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//wowza2.netpoint.com.br%3a1935/viamorena/live/livestream.m3u8:VIA MORENA TV MS
 #DESCRIPTION VIA MORENA TV MS
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::AFRICA CHANNELS
+#SERVICE 1:64:99:0:0:0:0:0:0:0::AFRICA CHANNELS
 #DESCRIPTION AFRICA CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//77.92.76.135%3a1935/tvce/livestream/playlist.m3u8:NIGERIA CONTI 24
 #DESCRIPTION NIGERIA CONTI 24
@@ -3423,13 +3423,13 @@
 #DESCRIPTION Africa 3
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//symphony.live-s.cdn.bitgravity.com/cdn-live/_definst_/symphony/live/feed04/playlist.m3u8:Chalermkrung
 #DESCRIPTION Chalermkrung
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::PAKISTAN CHANNELS
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::PAKISTAN CHANNELS
 #DESCRIPTION PAKISTAN CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//38.96.148.99%3a1935/samaalive/samaalive/master.m3u8:KTN News
 #DESCRIPTION KTN News
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//38.96.148.99%3a1935/samaalive//samaalive/master.m3u8:Samaa Live
 #DESCRIPTION Samaa Live
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::KURD CHANNELS
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::KURD CHANNELS
 #DESCRIPTION KURD CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//84.244.187.12%3a1935/live/livestream/playlist.m3u8:Kurdistan Tv
 #DESCRIPTION Kurdistan Tv
@@ -3441,7 +3441,7 @@
 #DESCRIPTION KurdMax HD (2)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//nrttv.iptv-playoutcenter.de%3a1935/nrt2/nrt2.stream_1/playlist.m3u8:NRT2
 #DESCRIPTION NRT2
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::ISRAEL CHANNEL
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::ISRAEL CHANNEL
 #DESCRIPTION ISRAEL CHANNEL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8:Channel 2 Reshet
 #DESCRIPTION Channel 2 Reshet
@@ -3451,7 +3451,7 @@
 #DESCRIPTION 9(RUS)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8:Israel 2
 #DESCRIPTION Israel 2
-#SERVICE 1:64:B4:0:0:0:0:0:0:0::AMERICA
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::AMERICA
 #DESCRIPTION AMERICA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&amp;rebase=on:NASA TV
 #DESCRIPTION NASA TV
@@ -3473,7 +3473,7 @@
 #DESCRIPTION News Brooklyn(Weather)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000:News Brooklyn(Stream 1)
 #DESCRIPTION News Brooklyn(Stream 1)
-#SERVICE 1:64:B5:0:0:0:0:0:0:0::L A T I N _A M E R I C A
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::L A T I N _A M E R I C A
 #DESCRIPTION L A T I N _A M E R I C A
 #SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil%3alive.smil/playlist.m3u8:13tv
 #DESCRIPTION 13tv
@@ -3593,7 +3593,7 @@
 #DESCRIPTION WOS TV
 #SERVICE 4097:0:1:240:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:Zoetermeer FM
 #DESCRIPTION Zoetermeer FM
-#SERVICE 1:64:B6:0:0:0:0:0:0:0::LATINO Y SOUTH AMERICA CHANNEL
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::LATINO Y SOUTH AMERICA CHANNEL
 #DESCRIPTION LATINO Y SOUTH AMERICA CHANNEL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8:360TV
 #DESCRIPTION 360TV
@@ -3891,7 +3891,7 @@
 #DESCRIPTION remararg
 #SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8:amgtv2
 #DESCRIPTION amgtv2
-#SERVICE 1:64:B7:0:0:0:0:0:0:0::KOREAN CHANNELS
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::KOREAN CHANNELS
 #DESCRIPTION KOREAN CHANNELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//origin.onworldtv.com%3a1935/liveorigin/sgn/playlist.m3u8:Little Saigon Channel
 #DESCRIPTION Little Saigon Channel
@@ -4049,7 +4049,7 @@
 #DESCRIPTION 韩-新唐人TND
 #SERVICE 4097:0:1:130:0:0:0:0:0:0:rtmp%3a//111.118.21.79/etv1/phd752:韩-UPTV
 #DESCRIPTION 韩-UPTV
-#SERVICE 1:64:B8:0:0:0:0:0:0:0::_ASIAN_CHINESS_JAPON
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::_ASIAN_CHINESS_JAPON
 #DESCRIPTION _ASIAN_CHINESS_JAPON
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mobile.ccdntech.com/live/_definst_/vod62_Live/live1/Remy.m3u8:TAIWAN MOVIE
 #DESCRIPTION TAIWAN MOVIE
@@ -4093,7 +4093,7 @@
 #DESCRIPTION sinovision
 #SERVICE 4097:0:1:16:0:0:0:0:0:0:http%3a//58.99.33.1%3a1935/liveedge/live_999.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf:anime tv
 #DESCRIPTION anime tv
-#SERVICE 1:64:B9:0:0:0:0:0:0:0::JAMAICA-BARBADOS-BAHAMAS CHANNELS
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::JAMAICA-BARBADOS-BAHAMAS CHANNELS
 #DESCRIPTION JAMAICA-BARBADOS-BAHAMAS CHANNELS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mek4.mekstream.com/teleantillas/smil%3ateleantillas.smil/chunklist_w1013007223_b764000.m3u8:TELEANTILLAS
 #DESCRIPTION TELEANTILLAS
