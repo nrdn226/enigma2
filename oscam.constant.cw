@@ -1,12 +1,10 @@
 ###########################################
-#      oscam.constant ( oscam ymod )      #
+#                oscam.constant           #
 ###########################################   
-#     ***FilBox (42.0°E)***
 
-06AD:000000:3EE6:01C4:1966::9D1B8A42CEACC9439D1B8A42CEACC943 ;Fightbox HD (42.0°E)
-#
-Davinci
-06AD:000000:3EEA:01C8:196A::9AB14B969494A5CD9AB14B969494A5CD ;DaVinci Learning (42.0°E)
+06AD:000000:3EE6:01C4:1966::E840436BC49381D8E840436BC49381D8 ;Fightbox HD (42.0°E)
+
+06AD:000000:3EEA:01C8:196A::D2B1EF72E8C8F8A8D2B1EF72E8C8F8A8 ;DaVinci Learning (42.0°E)
 
 2600:000000:000A:0104:1FFF::A1 B2 C3 16 D4 E5 F8 B1 A1 B2 C3 16 D4 E5 F8 B1 ;ERT 1 (3.1°E)
 
