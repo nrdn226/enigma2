@@ -23,8 +23,14 @@
 #DESCRIPTION TV2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//149.255.152.69/hls-live/livepkgr/startv/startv/startv.m3u8:EuroStar
 #DESCRIPTION EuroStar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv8-tb-live.ercdn.net/tv8/tv8hd.m3u8?st=cyCXpw-VsqGd7m58Nkslbg&e=1481016594:TV8
+#DESCRIPTION TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/playlist.m3u8:TGRT HABER
+#DESCRIPTION TGRT HABER
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//149.255.152.69/hls-live/livepkgr/kanal24/kanal24/kanal24.m3u8:Kanal24
 #DESCRIPTION Kanal24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nocvp-usd.noccdn.net/asset/7xJC9Qt5/chunklist.m3u8:KANAL A
+#DESCRIPTION KANAL A
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//184.173.181.2%3a1935/8158/8158/chunklist_w984156436.m3u8:FLASH TV
 #DESCRIPTION FLASH TV
 #SERVICE 4097:0:1:76:0:0:0:0:0:0:http%3a//kurd-live.com%3a1935/live/cihan/playlist.m3u8:Cihan TV
@@ -539,6 +545,14 @@
 #DESCRIPTION ECONOMICO TV
 #SERVICE 1:64:83:0:0:0:0:0:0:0::REMY WORLD IPTV
 #DESCRIPTION REMY WORLD IPTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//b1.dnsdojo.com%3a1935/live/sys3.stream:Surf webcam
+#DESCRIPTION Surf webcam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bglive-a.bitgravity.com/twit/live/high:twit Live USA
+#DESCRIPTION twit Live USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sw.gostreaming.tv%3a1935/live/smil%3amyStream.smil/playlist.m3u8:Israel9
+#DESCRIPTION Israel9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//testlivestream.rfn.ru/live/smil%3am24.smil/playlist.m3u8?auth=vh&cast_id=1661:Москва 24
+#DESCRIPTION Москва 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ios.cdn.bg%3a2006/fls/bonair.stream/playlist.m3u8:Bulgaria On Air
 #DESCRIPTION Bulgaria On Air
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.255.12.5%3a8000/7:Spiesel TV
