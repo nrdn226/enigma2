@@ -101,6 +101,8 @@
 #DESCRIPTION adsport5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8 Sport.m3u8:Rete8 Sport
 #DESCRIPTION Rete8 Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.236.10.10%3a1935/dgrau/dgrau/live.m3u8:TV ALL SPORT (720p)
+#DESCRIPTION TV ALL SPORT (720p)
 #SERVICE 1:64:A4:0:0:0:0:0:0:0::B E L G E S E L__D O C U M E N T A R Y
 #DESCRIPTION B E L G E S E L__D O C U M E N T A R Y
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.239.200%3a7088/:DOCUMANTARY TR
@@ -287,6 +289,58 @@
 #DESCRIPTION CANAL 26 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_tv/index.m3u8:Brabant TV HD (Hol)
 #DESCRIPTION Brabant TV HD (Hol)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2.stream14.rai.it/italy/rai1_1200/chunklist.m3u8:Rai 1 (352p)
+#DESCRIPTION Rai 1 (352p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//originstream13.rai.it%3a1935/italy/rai2.smil/chunklist_b1200000.m3u8:Rai 2 (352p)
+#DESCRIPTION Rai 2 (352p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2.stream14.rai.it/italy/rai3_1200/chunklist.m3u8:Rai 3 (352p)
+#DESCRIPTION Rai 3 (352p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//originstream12.rai.it/italy/rai4.smil/chunklist_b1200000.m3u8:Rai 4 (352p)
+#DESCRIPTION Rai 4 (352p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2.stream12.rai.it/live/rai5.smil/chunklist_b1200000.m3u8:Rai 5 (352p)
+#DESCRIPTION Rai 5 (352p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8?sd=10&rebase=on:Rai Movie (576p)
+#DESCRIPTION Rai Movie (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on:Rai Premium (352p)
+#DESCRIPTION Rai Premium (352p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8?sd=10&rebase=on:Rai Gulp (404p)
+#DESCRIPTION Rai Gulp (404p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8?sd=10&rebase=on:Rai YoYo (404p)
+#DESCRIPTION Rai YoYo (404p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//originstream6.rai.it/italy/smil%3araiscuola.smil/chunklist_b900000.m3u8:Rai Scuola (360p)
+#DESCRIPTION Rai Scuola (360p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8?sd=10&rebase=on:Rai News 24 (352p)
+#DESCRIPTION Rai News 24 (352p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.life.ru/lifetv/720p/index.m3u8:Live 1 HD (720p)
+#DESCRIPTION Live 1 HD (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b2600000.m3u8:News 24 HD (720p)
+#DESCRIPTION News 24 HD (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_800/playlist.m3u8:Mir TV (540p)
+#DESCRIPTION Mir TV (540p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_800/playlist.m3u8:Mir TV +3 (540p)
+#DESCRIPTION Mir TV +3 (540p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_800/playlist.m3u8:Mir TV 24 (540p)
+#DESCRIPTION Mir TV 24 (540p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/43Kanal.stream/playlist.m3u8:Kanal 43 HD (720p)
+#DESCRIPTION Kanal 43 HD (720p)
+#SERVICE 1:0:1:6F78:457:1:C00000:0:0:0:http%3a//wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/index_3776_av-b.m3u8:WDR (720p)
+#DESCRIPTION WDR (720p)
+#SERVICE 1:0:1:6E41:431:1:C00000:0:0:0:http%3a//ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-b.m3u8?sd=10&rebase=on:NDR Fernsehen (720p)
+#DESCRIPTION NDR Fernsehen (720p)
+#SERVICE 1:0:1:6DCC:44D:1:C00000:0:0:0:http%3a//live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8:Hessischer Rundfunk (720p)
+#DESCRIPTION Hessischer Rundfunk (720p)
+#SERVICE 1:0:1:32C9:45D:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orf1_cache/q8c.sdp/chunklist.m3u8:ORF eins HD (540p)
+#DESCRIPTION ORF eins HD (540p)
+#SERVICE 1:0:1:32CA:45D:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orf2_cache/q8c.sdp/chunklist.m3u8:ORF 2 HD (720p)
+#DESCRIPTION ORF 2 HD (720p)
+#SERVICE 1:0:1:332D:45B:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orf3_cache/q8c.sdp/chunklist.m3u8:ORF 3 HD (720p)
+#DESCRIPTION ORF 3 HD (720p)
+#SERVICE 1:0:1:33A5:3EB:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orfs_cache/q8c.sdp/chunklist.m3u8:ORF Sport+ HD (720p)
+#DESCRIPTION ORF Sport+ HD (720p)
+#SERVICE 1:0:1:3337:45B:1:C00000:0:0:0:http%3a//hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on:SERVUS TV HD AT (720p)
+#DESCRIPTION SERVUS TV HD AT (720p)
+#SERVICE 1:0:1:6DCA:44D:1:C00000:0:0:0:http%3a//daserste_live-lh.akamaihd.net/i/daserste_de@91204/index_2692_av-b.m3u8?sd=10&rebase=on:Das Erste (540p)
+#DESCRIPTION Das Erste (540p)
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//fra1.ddns.net%3a97/live/test/test/764.m3u8:----ARABIA OSN PAKETI------
 #DESCRIPTION ----ARABIA OSN PAKETI------
 #SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8:Hawacom TV
@@ -615,7 +669,7 @@
 #DESCRIPTION ABC NEWS
 #SERVICE 4097:0:1:526:0:0:0:0:0:0:http%3a//nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8:NASA TV
 #DESCRIPTION NASA TV
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__
 #DESCRIPTION E N I G M A__T U R K__T E A M__V O D - F I L M__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod2.cdn.web.tv//sm//dw//smdwuumnoxs_,720,.mp4.urlset//master.m3u8:10. Koy
 #DESCRIPTION 10. Koy

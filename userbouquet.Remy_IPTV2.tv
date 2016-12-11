@@ -4119,3 +4119,5 @@
 #DESCRIPTION TvJ
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8:ZNS TV Bahamas
 #DESCRIPTION ZNS TV Bahamas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.gostream.nl/kanal7hq/kanal7hq.m3u8:Kanal 7 HD (400p)
+#DESCRIPTION Kanal 7 HD (400p)
