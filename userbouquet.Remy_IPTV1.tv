@@ -1,7 +1,7 @@
 #NAME ReMy_MUSIC_LIVE
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
 #DESCRIPTION E N I G M A__T U R K__T E A M
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::ReMy_MuSiC_KiNG
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::ReMy_MuSiC_KiNG
 #DESCRIPTION ReMy_MuSiC_KiNG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.78.6%3a1935/live/muztv.stream/index.m3u8:MUZ TV (AZ)
 #DESCRIPTION MUZ TV (AZ)
@@ -29,7 +29,7 @@
 #DESCRIPTION KRAL 90 LAR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8:TRT MUZIK
 #DESCRIPTION TRT MUZIK
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::__M  U  S  i  C _C H A N N E L S__
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::__M  U  S  i  C _C H A N N E L S__
 #DESCRIPTION __M  U  S  i  C _C H A N N E L S__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1400:One.by 4K_UHD MUSIC TV
 #DESCRIPTION One.by 4K_UHD MUSIC TV
@@ -331,7 +331,7 @@
 #DESCRIPTION QMusic NL (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8:538 (720p)
 #DESCRIPTION 538 (720p)
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::__K R A L_R A D I O__
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::__K R A L_R A D I O__
 #DESCRIPTION __K R A L_R A D I O__
 #SERVICE 4097:0:1:28:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/arabeskstar.stream/playlist.m3u8:KRAL ARABESK STAR
 #DESCRIPTION KRAL ARABESK STAR
@@ -401,7 +401,7 @@
 #DESCRIPTION KRAL GREECE
 #SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/krelax.stream/playlist.m3u8:KRAL RELAX
 #DESCRIPTION KRAL RELAX
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::tunein.com/radio
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::tunein.com/radio
 #DESCRIPTION tunein.com/radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7469.live.streamtheworld.com/JOY_FMAAC_SC:JOY_FM
 #DESCRIPTION JOY_FM
