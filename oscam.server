@@ -1,0 +1,669 @@
+_______________________REMY_TR_OSCAM_READER_CONFIG_______________________
+
+[reader]
+label                      = oscam_emu
+protocol                   = emu
+device                     = emulator
+caid                       = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                     = cd
+ident                      = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                      = 1
+emu_auproviders            = 0500:030B00;0604:010200;0E00:000000;4AE1:000011,000014,0000FE,1010,196A,1966
+blockemm-g                 = 1
+
+[reader]
+label                       = SoftCam.Key
+protocol                    = constcw
+device                      = /etc/tuxbox/config/SoftCam.Key
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 1
+
+[reader]
+label                       = constant.cw
+protocol                    = constcw
+device                      = /etc/tuxbox/config/constant.cw
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 1
+
+[reader]
+label                       = oscam.keys
+protl                       = constcw
+dce                         = /etc/tuxbox/config/oscam.keys
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 1
+
+[reader]
+label                       = oscam.constant.cw
+protocol                    = constcw
+device                      = /etc/tuxbox/config/oscam.constant.cw
+caid                        = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010,06AD
+detect                      = cd
+ident                       = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,007301,001101,002111;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000,000011,000014,0000FE;1010:000000;06AD:000000
+group                       = 1
+
+[reader]
+label                       = constkeys
+enable                      = 1
+protocol                    = constcw
+device                      = /usr/keys/constant.cw
+key                         = 0102030405060708091011121314
+reconnecttimeout            = 0
+group                       = 1
+caid                        = 06ad
+
+[reader]
+label                       = constkeys
+enable                      = 1 1
+protocol                    = constcw
+device                      = /usr/keys/constant.cw
+key                         = 0102030405060708091011121314
+reconnecttimeout            = 0
+group                       = 1
+caid                        = 0b00
+
+[reader]
+label                      = Newcamd
+description                = Newcamd Example
+protocol                   = newcamd.server
+device                     = server,port
+key                        = 0102030405060708091011121314
+user                       = username
+password                   = password
+group                      = 1
+
+[reader]
+label      	               = Camd3
+protocol   	               = camd35
+device                     = server,port
+user      	               = user
+password                   = pass
+group      	               = 1
+
+[reader]
+label                      = teledunya
+enable                     = 1
+protocol                   = internal
+device                     = /dev/sci0
+key                        = 0102030405060708091011121314
+caid                       = 0B00
+fix9993                    = 0
+detect                     = cd
+mhz                        = 357
+cardmhz                    = 560
+group                      = 1
+emmcache 	               = 1,3,2
+lb_weight 	               = 100 
+
+[reader]
+label                      = teled2
+protocol 	               = internal
+device                     = /dev/sci1
+caid 		               = 0B00
+detect 		               = cd
+mhz 		               = 600
+cardmhz		               = 600
+ident 		               = 0B00:000000
+group 		               = 1
+emmcache 	               = 1,3,15
+
+[reader]
+label=pro2.cccamgood.com
+enable=1
+protocol=cccam
+device=pro2.cccamgood.com,11002
+user=ccc414
+password=9h8u4e
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+cccwantemu=0
+ 
+[reader]
+label=pro2.cccamgood.com
+enable=1
+protocol=cccam
+device=pro2.cccamgood.com,11002
+user=ccc424
+password=9h8u45
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro2.cccamgood.com
+enable=1
+protocol=cccam
+device=pro2.cccamgood.com,11002
+user=ccc431
+password=9h8u43
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro1.cccamgood.com
+enable=1
+protocol=cccam
+device=pro1.cccamgood.com,11002
+user=ccc414
+password=9h8u4e
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro1.cccamgood.com
+enable=1
+protocol=cccam
+device=pro1.cccamgood.com,11002
+user=ccc424
+password=9h8u45
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro1.cccamgood.com
+enable=1
+protocol=cccam
+device=pro1.cccamgood.com,11002
+user=ccc431
+password=9h8u43
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro3.cccamgood.com
+enable=1
+protocol=cccam
+device=pro3.cccamgood.com,11002
+user=ccc414
+password=9h8u4e
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro3.cccamgood.com
+enable=1
+protocol=cccam
+device=pro3.cccamgood.com,11002
+user=ccc424
+password=9h8u45
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro3.cccamgood.com
+enable=1
+protocol=cccam
+device=pro3.cccamgood.com,11002
+user=ccc431
+password=9h8u43
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro4.cccamgood.com
+enable=1
+protocol=cccam
+device=pro4.cccamgood.com,11002
+user=ccc414
+password=9h8u4e
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro4.cccamgood.com
+enable=1
+protocol=cccam
+device=pro4.cccamgood.com,11002
+user=ccc424
+password=9h8u45
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=pro4.cccamgood.com
+enable=1
+protocol=cccam
+device=pro4.cccamgood.com,11002
+user=ccc431
+password=9h8u43
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=omar.bouhria.com
+enable=1
+protocol=cccam
+device=omar.bouhria.com,33333
+user=sofian202
+password=8Ot03
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=omar.bouhria.com
+enable=1
+protocol=cccam
+device=omar.bouhria.com,33333
+user=sofian203
+password=8Ot0w
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=omar.bouhria.com
+enable=1
+protocol=cccam
+device=omar.bouhria.com,33333
+user=sofian208
+password=8Ot0k
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=de2.euro2.in
+enable=1
+protocol=cccam
+device=de2.euro2.in,37005
+user=5htbd101
+password=1987!
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=de2.euro2.in
+enable=1
+protocol=cccam
+device=de2.euro2.in,37005
+user=5htbd106
+password=19872
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=de2.euro2.in
+enable=1
+protocol=cccam
+device=de2.euro2.in,37005
+user=5htbd104
+password=19870
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=firmadaten.ath.cx
+enable=1
+protocol=cccam
+device=firmadaten.ath.cx,2380
+user=heiko2012
+password=katze
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=blueline.ns0.it
+enable=1
+protocol=cccam
+device=blueline.ns0.it,13000
+user=zem1302
+password=a61k(
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=blueline.ns0.it
+enable=1
+protocol=cccam
+device=blueline.ns0.it,13000
+user=zem1306
+password=a61kx
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=blueline.ns0.it
+enable=1
+protocol=cccam
+device=blueline.ns0.it,13000
+user=zem1308
+password=a61kw
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=flyorbit.ccmproo.com
+enable=1
+protocol=cccam
+device=flyorbit.ccmproo.com,12000
+user=mmtsphd1501
+password=dfgrgq
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=flyorbit.ccmproo.com
+enable=1
+protocol=cccam
+device=flyorbit.ccmproo.com,12000
+user=mmtsphd1506
+password=dfgrg(
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=flyorbit.ccmproo.com
+enable=1
+protocol=cccam
+device=flyorbit.ccmproo.com,12000
+user=mmtsphd1507
+password=dfgrg8
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=bosscccam.homepc.it
+enable=1
+protocol=cccam
+device=bosscccam.homepc.it,21001
+user=bs99401
+password=yk1aj
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=bosscccam.homepc.it
+enable=1
+protocol=cccam
+device=bosscccam.homepc.it,21001
+user=bs99402
+password=yk1ag
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=bosscccam.homepc.it
+enable=1
+protocol=cccam
+device=bosscccam.homepc.it,21001
+user=bs99403
+password=yk1at
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=best1111.info
+enable=1
+protocol=cccam
+device=best1111.info,28047
+user=47best100
+password=198700
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=best1111.info
+enable=1
+protocol=cccam
+device=best1111.info,28047
+user=47best101
+password=198708
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=best1111.info
+enable=1
+protocol=cccam
+device=best1111.info,28047
+user=47best102
+password=198704
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=wal1.no-ip.org
+enable=1
+protocol=cccam
+device=wal1.no-ip.org,18000
+user=tiken191
+password=ierdvl
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=wal2.no-ip.org
+enable=1
+protocol=cccam
+device=wal2.no-ip.org,18000
+user=tiken191
+password=ierdvl
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=wal2.no-ip.org
+enable=1
+protocol=cccam
+device=wal2.no-ip.org,18000
+user=tiken193
+password=ierdve
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=wal1.no-ip.org
+enable=1
+protocol=cccam
+device=wal1.no-ip.org,18000
+user=tiken193
+password=ierdve
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=wal2.no-ip.org
+enable=1
+protocol=cccam
+device=wal2.no-ip.org,18000
+user=tiken194
+password=ierdva
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
+ 
+[reader]
+label=wal1.no-ip.org
+enable=1
+protocol=cccam
+device=wal1.no-ip.org,18000
+user=tiken194
+password=ierdva
+cccversion=2.1.2
+group=1
+inactivitytimeout=1
+reconnecttimeout=30
+lb_weight=100
+cccmaxhops=10
+ccckeepalive=1
