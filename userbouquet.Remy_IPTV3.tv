@@ -619,6 +619,32 @@
 #DESCRIPTION ABC NEWS
 #SERVICE 4097:0:1:526:0:0:0:0:0:0:http%3a//nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8:NASA TV
 #DESCRIPTION NASA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gourl.su/1dv?mp4:КаNAL 0
+#DESCRIPTION КаNAL 0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.api.rt.com/hls/rtdru360.m3u8:КаNAL 5
+#DESCRIPTION КаNAL 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.57.234.164/V0/4/2.m3u8:КаNAL 6
+#DESCRIPTION КаNAL 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u:КаNAL 8
+#DESCRIPTION КаNAL 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8:КаNAL 11
+#DESCRIPTION КаNAL 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8:КаNAL 12
+#DESCRIPTION КаNAL 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8:КаNAL 14
+#DESCRIPTION КаNAL 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.217.53%3a8000/live/5grandiptv915/67863345/619.ts:КаNAL 15
+#DESCRIPTION КаNAL 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8:КаNAL 19
+#DESCRIPTION КаNAL 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mob3-ntv.cdnvideo.ru/ntv/smil%3antvair003.smil/playlist.m3u8?e=1482130234&amp;md5=Ewb0SddDubVhDyoSpQ6SGw:КаNAL 20
+#DESCRIPTION КаNAL 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gourl.su/10e?russia.today:КаNAL 21
+#DESCRIPTION КаNAL 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ts%3a//vlc.eu.pn@gourl.su/1di?m3u8:КаNAL 23
+#DESCRIPTION КаNAL 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ts%3a//vlc.eu.pn@gourl.su/1di?m3u8:КаNAL 24
+#DESCRIPTION КаNAL 24
 #SERVICE 1:64:A7:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__
 #DESCRIPTION E N I G M A__T U R K__T E A M__V O D - F I L M__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2786.mkv:Prémonitions
