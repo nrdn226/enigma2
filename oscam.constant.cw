@@ -2,7 +2,7 @@
 #                oscam.constant           #
 ###########################################   
 
-06AD:000000:3EE6:01C4:1966::84 DF 1B 7E ED BD 05 AF 84 DF 1B 7E ED BD 05 AF ;Fightbox HD (42.0°E)
+06AD:000000:3EE6:01C4:1966::5FB0C2D1723B00AD5FB0C2D1723B00AD ;Fightbox HD (42.0°E)
 
 06AD:000000:3EEA:01C8:196A::88 CC EA 3E 5D 67 4D 11 88 CC EA 3E 5D 67 4D 11 ;DaVinci Learning (42.0°E)
 
