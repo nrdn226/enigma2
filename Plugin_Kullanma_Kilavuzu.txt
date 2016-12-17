@@ -1,3 +1,6 @@
+KONUYU BURDANDA TAKIP EDEBILIRSINIZ
+https://gist.github.com/remytr/252c0715ca35d1568bb88a9853d077c4
+
 1-Remy_IPTV_Ekle_x: Kendi Listenize iptvleri ekler.
 
 2-Remy_IPTV_Guncelle: Eklediginiz iptvleri buradan guncelleyin.
