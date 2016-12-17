@@ -291,6 +291,560 @@
 #DESCRIPTION Mir TV 24 (540p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/43Kanal.stream/playlist.m3u8:Kanal 43 HD (720p)
 #DESCRIPTION Kanal 43 HD (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/714.ts:LRT
+#DESCRIPTION LRT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/715.ts:LNK
+#DESCRIPTION LNK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/716.ts:TV3 Lithuania
+#DESCRIPTION TV3 Lithuania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/717.ts:BTV
+#DESCRIPTION BTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/718.ts:Lietuvos Rytas
+#DESCRIPTION Lietuvos Rytas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/719.ts:TV1 Lithuania
+#DESCRIPTION TV1 Lithuania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/720.ts:TV6 Lithuania
+#DESCRIPTION TV6 Lithuania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/722.ts:Kidzone
+#DESCRIPTION Kidzone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/723.ts:TLC HD
+#DESCRIPTION TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/724.ts:Первый HD
+#DESCRIPTION Первый HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/725.ts:TV1000 Premium lt
+#DESCRIPTION TV1000 Premium lt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/727.ts:TV 1000 Megahit HD
+#DESCRIPTION TV 1000 Megahit HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/728.ts:TV 1000 Premium HD
+#DESCRIPTION TV 1000 Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/726.ts:TV 1000 Comedy HD
+#DESCRIPTION TV 1000 Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/733.ts:TV 1000 Action
+#DESCRIPTION TV 1000 Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/734.ts:TV 1000 East
+#DESCRIPTION TV 1000 East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/729.ts:Кинопоказ 1 HD
+#DESCRIPTION Кинопоказ 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/730.ts:Кинопоказ 2 HD
+#DESCRIPTION Кинопоказ 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/732.ts:Кинопремьера HD
+#DESCRIPTION Кинопремьера HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/731.ts:КиноПремиум HD
+#DESCRIPTION КиноПремиум HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/735.ts:Остросюжетное HD
+#DESCRIPTION Остросюжетное HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/740.ts:Кинохит
+#DESCRIPTION Кинохит
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/739.ts:Киносемья
+#DESCRIPTION Киносемья
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/738.ts:Киносвидание
+#DESCRIPTION Киносвидание
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/737.ts:Киномикс
+#DESCRIPTION Киномикс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/742.ts:Мужское кино
+#DESCRIPTION Мужское кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/736.ts:Кино ТВ
+#DESCRIPTION Кино ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/744.ts:Fox Life
+#DESCRIPTION Fox Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/743.ts:FOX
+#DESCRIPTION FOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/745.ts:Sony Sci-Fi
+#DESCRIPTION Sony Sci-Fi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/751.ts:National Geographic HD
+#DESCRIPTION National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/762.ts:National Geographic
+#DESCRIPTION National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/750.ts:Nat Geo Wild HD
+#DESCRIPTION Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/749.ts:Eureka HD
+#DESCRIPTION Eureka HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/747.ts:Animal Family HD
+#DESCRIPTION Animal Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/748.ts:Discovery HD
+#DESCRIPTION Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/757.ts:Discovery Science
+#DESCRIPTION Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/756.ts:Discovery
+#DESCRIPTION Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/761.ts:Nat Geo Wild
+#DESCRIPTION Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/773.ts:Viasat Sport
+#DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/754.ts:Viasat History
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/753.ts:Viasat Explore
+#DESCRIPTION Viasat Explore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/764.ts:Animal Planet
+#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/760.ts:Investigation Discovery
+#DESCRIPTION Investigation Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/759.ts:History
+#DESCRIPTION History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/763.ts:Ocean TV
+#DESCRIPTION Ocean TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/767.ts:Матч! Арена HD
+#DESCRIPTION Матч! Арена HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/766.ts:Матч! HD
+#DESCRIPTION Матч! HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/770.ts:Eurosport
+#DESCRIPTION Eurosport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/771.ts:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/772.ts:Motors TV
+#DESCRIPTION Motors TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/769.ts:Матч! Футбол 2 HD
+#DESCRIPTION Матч! Футбол 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/768.ts:Матч! Футбол 1 HD
+#DESCRIPTION Матч! Футбол 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/765.ts:КХЛ ТВ HD
+#DESCRIPTION КХЛ ТВ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/774.ts:Tiji TV
+#DESCRIPTION Tiji TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/777.ts:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/776.ts:Nick Jr
+#DESCRIPTION Nick Jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/780.ts:Jim Jam
+#DESCRIPTION Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/775.ts:Gulli
+#DESCRIPTION Gulli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/779.ts:Детский мир
+#DESCRIPTION Детский мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/758.ts:DTX
+#DESCRIPTION DTX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/778.ts:Disney
+#DESCRIPTION Disney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/781.ts:Cartoon Network
+#DESCRIPTION Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/782.ts:Euronews
+#DESCRIPTION Euronews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.42.123%3a5468/live/televizija/1c3gdf5r/783.ts:CNN International
+#DESCRIPTION CNN International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6390.ts:UK*:bbcfour
+#DESCRIPTION UK*:bbcfour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6357.ts:UK*:bbcnews
+#DESCRIPTION UK*:bbcnews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6349.ts:UK*:bbcone
+#DESCRIPTION UK*:bbcone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6362.ts:UK*:bbcparliament
+#DESCRIPTION UK*:bbcparliament
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6378.ts:UK*:bbcredbutton
+#DESCRIPTION UK*:bbcredbutton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6374.ts:UK*:bbctwo
+#DESCRIPTION UK*:bbctwo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6382.ts:UK*:bloomberg
+#DESCRIPTION UK*:bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6388.ts:UK*:capitaltv
+#DESCRIPTION UK*:capitaltv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6406.ts:UK*:channelaka
+#DESCRIPTION UK*:channelaka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6400.ts:UK*:channels24
+#DESCRIPTION UK*:channels24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6381.ts:UK*:chilled
+#DESCRIPTION UK*:chilled
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6356.ts:UK*:clubland
+#DESCRIPTION UK*:clubland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6365.ts:UK*:cnninternationaleurope
+#DESCRIPTION UK*:cnninternationaleurope
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6398.ts:UK*:colors
+#DESCRIPTION UK*:colors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6389.ts:UK*:communitychannel
+#DESCRIPTION UK*:communitychannel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6399.ts:UK*:dave
+#DESCRIPTION UK*:dave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6352.ts:UK*:davejavu
+#DESCRIPTION UK*:davejavu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6361.ts:UK*:drama
+#DESCRIPTION UK*:drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6368.ts:UK*:euronews
+#DESCRIPTION UK*:euronews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6403.ts:UK*:fashiontv
+#DESCRIPTION UK*:fashiontv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6404.ts:UK*:foodnetwork
+#DESCRIPTION UK*:foodnetwork
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6370.ts:UK*:foodnetworkplus1
+#DESCRIPTION UK*:foodnetworkplus1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6385.ts:UK*:forcestv
+#DESCRIPTION UK*:forcestv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6350.ts:UK*:france24
+#DESCRIPTION UK*:france24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6363.ts:UK*:heart
+#DESCRIPTION UK*:heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6376.ts:UK*:heat
+#DESCRIPTION UK*:heat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6386.ts:UK*:home
+#DESCRIPTION UK*:home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6383.ts:UK*:keepitcountry
+#DESCRIPTION UK*:keepitcountry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6369.ts:UK*:kiss
+#DESCRIPTION UK*:kiss
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6395.ts:UK*:magic
+#DESCRIPTION UK*:magic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6384.ts:UK*:news18india
+#DESCRIPTION UK*:news18india
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6375.ts:UK*:nhkworld
+#DESCRIPTION UK*:nhkworld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6373.ts:UK*:nowthatswhaticallmusic
+#DESCRIPTION UK*:nowthatswhaticallmusic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6379.ts:UK*:quest
+#DESCRIPTION UK*:quest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6402.ts:UK*:questplus1
+#DESCRIPTION UK*:questplus1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6358.ts:UK*:qvc
+#DESCRIPTION UK*:qvc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6387.ts:UK*:qvcbeauty
+#DESCRIPTION UK*:qvcbeauty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6380.ts:UK*:qvcextra
+#DESCRIPTION UK*:qvcextra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6360.ts:UK*:qvcplus
+#DESCRIPTION UK*:qvcplus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6355.ts:UK*:qvcstyle
+#DESCRIPTION UK*:qvcstyle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6367.ts:UK*:really
+#DESCRIPTION UK*:really
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6371.ts:UK*:revelationtv
+#DESCRIPTION UK*:revelationtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6366.ts:UK*:rishtey
+#DESCRIPTION UK*:rishtey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6394.ts:UK*:russiatoday
+#DESCRIPTION UK*:russiatoday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6396.ts:UK*:s4c
+#DESCRIPTION UK*:s4c
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6353.ts:UK*:sino
+#DESCRIPTION UK*:sino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6401.ts:UK*:smashhits
+#DESCRIPTION UK*:smashhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6359.ts:UK*:sonysab
+#DESCRIPTION UK*:sonysab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6351.ts:UK*:thebox
+#DESCRIPTION UK*:thebox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6372.ts:UK*:travelchannel
+#DESCRIPTION UK*:travelchannel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6392.ts:UK*:travelchannelplus1
+#DESCRIPTION UK*:travelchannelplus1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6397.ts:UK*:trutv
+#DESCRIPTION UK*:trutv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6405.ts:UK*:wellbeing
+#DESCRIPTION UK*:wellbeing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6393.ts:UK*:yesterday
+#DESCRIPTION UK*:yesterday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6377.ts:UK*:yesterdayplus1
+#DESCRIPTION UK*:yesterdayplus1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/6391.ts:UK*:zing
+#DESCRIPTION UK*:zing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/449.ts:UK:Sky_Movies_Select
+#DESCRIPTION UK:Sky_Movies_Select
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/451.ts:UK:NATIONAL-GEO-WILD
+#DESCRIPTION UK:NATIONAL-GEO-WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/450.ts:UK:DISNEY-CHANNEL
+#DESCRIPTION UK:DISNEY-CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/452.ts:UK:DISCOVERY-SCIENCE
+#DESCRIPTION UK:DISCOVERY-SCIENCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/453.ts:UK:ANIMAL-PLANET
+#DESCRIPTION UK:ANIMAL-PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4789.ts:UUK:Yesterday
+#DESCRIPTION UUK:Yesterday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4790.ts:UUK:Eleven-103-HD
+#DESCRIPTION UUK:Eleven-103-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4799.ts:UUK:SKYMOVIES-MODERN-HD
+#DESCRIPTION UUK:SKYMOVIES-MODERN-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4800.ts:UUK:SKYMOVIES-DRAMA
+#DESCRIPTION UUK:SKYMOVIES-DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4801.ts:UUK:SKYMOVIES-DISNEY
+#DESCRIPTION UUK:SKYMOVIES-DISNEY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4802.ts:UUK:SKYMOVIES-COMEDY-HD
+#DESCRIPTION UUK:SKYMOVIES-COMEDY-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4803.ts:UUK:SKYMOVIES-ACTION
+#DESCRIPTION UUK:SKYMOVIES-ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4806.ts:UUK:Sky-Sport-F1
+#DESCRIPTION UUK:Sky-Sport-F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4796.ts:UUK:SKY-MOVIES-THRILLER
+#DESCRIPTION UUK:SKY-MOVIES-THRILLER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4797.ts:UUK:SKY-MOVIES-SCI-FI&amp;HORROR
+#DESCRIPTION UUK:SKY-MOVIES-SCI-FI&amp;HORROR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4798.ts:UUK:SKY-MOVIES-PREMIERE-UK
+#DESCRIPTION UUK:SKY-MOVIES-PREMIERE-UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4793.ts:UUK:Sky-Movies-Premiere
+#DESCRIPTION UUK:Sky-Movies-Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4792.ts:UUK:Sky-Movies-Family
+#DESCRIPTION UUK:Sky-Movies-Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4794.ts:UUK:SKY-Thriller
+#DESCRIPTION UUK:SKY-Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4795.ts:UUK:Sky-Action
+#DESCRIPTION UUK:Sky-Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4804.ts:UUK:NATIONAL-GEOGRAPHIC
+#DESCRIPTION UUK:NATIONAL-GEOGRAPHIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4791.ts:UUK:Tiny-Pop
+#DESCRIPTION UUK:Tiny-Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4807.ts:UUK:Eurosport-1-ENG
+#DESCRIPTION UUK:Eurosport-1-ENG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4815.ts:UUK:BBC-4HD
+#DESCRIPTION UUK:BBC-4HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4814.ts:UUK:BBC-3HD
+#DESCRIPTION UUK:BBC-3HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4813.ts:UUK:BBC-2HD
+#DESCRIPTION UUK:BBC-2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4812.ts:UUK:BBC-1HD
+#DESCRIPTION UUK:BBC-1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4805.ts:UUK:ANIMAL-PLANET
+#DESCRIPTION UUK:ANIMAL-PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4811.ts:USKYUK-SPORTS-4-HQ/HD
+#DESCRIPTION USKYUK-SPORTS-4-HQ/HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4810.ts:USKYUK-SPORTS-3-HQ/HD
+#DESCRIPTION USKYUK-SPORTS-3-HQ/HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4809.ts:USKYUK-SPORTS-2-HQ/HD
+#DESCRIPTION USKYUK-SPORTS-2-HQ/HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4314.ts:TR-LiG-3HD
+#DESCRIPTION TR-LiG-3HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4313.ts:TR-LiG-2HD
+#DESCRIPTION TR-LiG-2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4312.ts:TR-LiG-1HD
+#DESCRIPTION TR-LiG-1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4316.ts:TR-GSTV
+#DESCRIPTION TR-GSTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/4315.ts:TR-BJKTV
+#DESCRIPTION TR-BJKTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3837.ts:TR:TV8-INT
+#DESCRIPTION TR:TV8-INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3825.ts:TR:TV8-HD
+#DESCRIPTION TR:TV8-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3827.ts:TR:TRT-SPOR
+#DESCRIPTION TR:TRT-SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3828.ts:TR:TRT-MUZIK
+#DESCRIPTION TR:TRT-MUZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3829.ts:TR:TRT-HABER*
+#DESCRIPTION TR:TRT-HABER*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3844.ts:TR:TRT-COCUK
+#DESCRIPTION TR:TRT-COCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3826.ts:TR:TRT1*
+#DESCRIPTION TR:TRT1*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3845.ts:TR:TGRT-HABER*
+#DESCRIPTION TR:TGRT-HABER*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3846.ts:TR:TGRT-BELGESEL
+#DESCRIPTION TR:TGRT-BELGESEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3823.ts:TR:STAR-TV-HD*
+#DESCRIPTION TR:STAR-TV-HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3820.ts:TR:SHOW-TV-HD*
+#DESCRIPTION TR:SHOW-TV-HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3833.ts:TR:SHOW-TURK
+#DESCRIPTION TR:SHOW-TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3842.ts:TR:NTVSPOR
+#DESCRIPTION TR:NTVSPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3843.ts:TR:NTV-HABER
+#DESCRIPTION TR:NTV-HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3847.ts:TR:NTV-AVRUPA
+#DESCRIPTION TR:NTV-AVRUPA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3848.ts:TR:KRAL-TV
+#DESCRIPTION TR:KRAL-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3821.ts:TR:KANAL-D-HD
+#DESCRIPTION TR:KANAL-D-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3840.ts:TR:KANAL-A
+#DESCRIPTION TR:KANAL-A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3839.ts:TR:KANAL-7-INT
+#DESCRIPTION TR:KANAL-7-INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3830.ts:TR:KANAL-7
+#DESCRIPTION TR:KANAL-7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3841.ts:TR:HISTORY-HD
+#DESCRIPTION TR:HISTORY-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3849.ts:TR:HABERTURK*
+#DESCRIPTION TR:HABERTURK*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3824.ts:TR:FOX-TV-HD
+#DESCRIPTION TR:FOX-TV-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3838.ts:TR:FLASH-TV*
+#DESCRIPTION TR:FLASH-TV*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3836.ts:TR: EURO STAR
+#DESCRIPTION TR: EURO STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3834.ts:TR:EURO-D
+#DESCRIPTION TR:EURO-D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3850.ts:TR:DISNEY-CHANNEL
+#DESCRIPTION TR:DISNEY-CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3851.ts:TR:CNNTURK*
+#DESCRIPTION TR:CNNTURK*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3852.ts:TR:CEM-TV
+#DESCRIPTION TR:CEM-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3853.ts:TR:BEYAZ-TV*
+#DESCRIPTION TR:BEYAZ-TV*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3854.ts:TR:BENGUTURK
+#DESCRIPTION TR:BENGUTURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3835.ts:TR:ATV-AVRUPA
+#DESCRIPTION TR:ATV-AVRUPA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3831.ts:TR:ASPOR-HD
+#DESCRIPTION TR:ASPOR-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3822.ts:TR:A-TV-HD
+#DESCRIPTION TR:A-TV-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/3832.ts:TR:A-HABER
+#DESCRIPTION TR:A-HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/661.ts:TR  DISCOVERY SCIENCE
+#DESCRIPTION TR  DISCOVERY SCIENCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/663.ts:TR  CNNTURK
+#DESCRIPTION TR  CNNTURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1397.ts:TR:TV8-HD*
+#DESCRIPTION TR:TV8-HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1401.ts:TR:TRT1-HD
+#DESCRIPTION TR:TRT1-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1391.ts:TR:  STAR TV HD
+#DESCRIPTION TR:  STAR TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1394.ts:TR:KANAL-D*
+#DESCRIPTION TR:KANAL-D*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1396.ts:TR:KANAL-7-HD
+#DESCRIPTION TR:KANAL-7-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1392.ts:TR:FOX*
+#DESCRIPTION TR:FOX*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1393.ts:TR:ATV*
+#DESCRIPTION TR:ATV*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipc.proipciptv.com%3a8000/live/adel/adel/1404.ts:TR:A-HABER-HD
+#DESCRIPTION TR:A-HABER-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/17.ts:TR | FILM TV HD
+#DESCRIPTION TR | FILM TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/19.ts:TR | VIP CHANNEL 2 HD
+#DESCRIPTION TR | VIP CHANNEL 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/20.ts:TR | ANIMASYON HD
+#DESCRIPTION TR | ANIMASYON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2359.ts:TR | MOVİEMAX PREMİER 2
+#DESCRIPTION TR | MOVİEMAX PREMİER 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/143.ts:TR | Moviemax Türk HD
+#DESCRIPTION TR | Moviemax Türk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2123.ts:TR | MovieMax Oscar HD
+#DESCRIPTION TR | MovieMax Oscar HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2122.ts:TR | MGM HD
+#DESCRIPTION TR | MGM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/25.ts:TR | SHOW TV HD
+#DESCRIPTION TR | SHOW TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/97.ts:TR | SHOW TV
+#DESCRIPTION TR | SHOW TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/26.ts:TR | KANAL D HD
+#DESCRIPTION TR | KANAL D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/96.ts:TR | KANAL D
+#DESCRIPTION TR | KANAL D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/1.ts:TR | ATV HD
+#DESCRIPTION TR | ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/95.ts:TR | ATV
+#DESCRIPTION TR | ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/28.ts:TR | STAR HD
+#DESCRIPTION TR | STAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/98.ts:TR | STAR TV
+#DESCRIPTION TR | STAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/57.ts:TR | TV 8 HD
+#DESCRIPTION TR | TV 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/93.ts:TR | TV 8
+#DESCRIPTION TR | TV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2358.ts:TR | TV8.5
+#DESCRIPTION TR | TV8.5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/27.ts:TR | FOX TV HD
+#DESCRIPTION TR | FOX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/209.ts:TR | FOX TV
+#DESCRIPTION TR | FOX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/35.ts:TR | BEYAZ TV HD
+#DESCRIPTION TR | BEYAZ TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/208.ts:TR | BEYAZ TV
+#DESCRIPTION TR | BEYAZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/31.ts:TR | TRT 1 HD
+#DESCRIPTION TR | TRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/783.ts:TR | TRT 1
+#DESCRIPTION TR | TRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2354.ts:TR | TRT 1 SD
+#DESCRIPTION TR | TRT 1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2365.ts:TR I TBMM TV
+#DESCRIPTION TR I TBMM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2362.ts:TR I SKY 360
+#DESCRIPTION TR I SKY 360
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/58.ts:TR | TRT SPOR HD
+#DESCRIPTION TR | TRT SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/215.ts:TR | TRT SPOR
+#DESCRIPTION TR | TRT SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/280.ts:TR | TRT 3 SPOR HD
+#DESCRIPTION TR | TRT 3 SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/39.ts:TR | A SPOR HD
+#DESCRIPTION TR | A SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/75.ts:TR | A SPOR
+#DESCRIPTION TR | A SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2363.ts:TR I A2 HD
+#DESCRIPTION TR I A2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/59.ts:TR | NTV SPOR
+#DESCRIPTION TR | NTV SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/79.ts:TR | NTV SPOR HD
+#DESCRIPTION TR | NTV SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/33.ts:TR | NTV
+#DESCRIPTION TR | NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/30.ts:TR | KANAL 7 HD
+#DESCRIPTION TR | KANAL 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/52.ts:TR | FLASH TV
+#DESCRIPTION TR | FLASH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2353.ts:TR | MELTEM TV
+#DESCRIPTION TR | MELTEM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2352.ts:TR I CEM TV
+#DESCRIPTION TR I CEM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/1948.ts:TR | EGE-TV
+#DESCRIPTION TR | EGE-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/1947.ts:TR | KANAL CAY RIZE
+#DESCRIPTION TR | KANAL CAY RIZE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/1946.ts:TR | NUMBER-ONE
+#DESCRIPTION TR | NUMBER-ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/41.ts:TR | HALK  TV
+#DESCRIPTION TR | HALK  TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/32.ts:TR | CNNTURK HABER
+#DESCRIPTION TR | CNNTURK HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/34.ts:TR | HABER TURK
+#DESCRIPTION TR | HABER TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/2356.ts:TR | ULUSAL TV
+#DESCRIPTION TR | ULUSAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/43.ts:TR | A HABER  HD
+#DESCRIPTION TR | A HABER  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/40.ts:TR | TRT HABER HD
+#DESCRIPTION TR | TRT HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/45.ts:TR | ULKE TV
+#DESCRIPTION TR | ULKE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/1963.ts:TR | PLANET TURK
+#DESCRIPTION TR | PLANET TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/89.ts:TR | IMC TV
+#DESCRIPTION TR | IMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/86.ts:TR | SPORTS TV HD
+#DESCRIPTION TR | SPORTS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/295.ts:TR | GS TV
+#DESCRIPTION TR | GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/294.ts:TR | BJK TV
+#DESCRIPTION TR | BJK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/84.ts:TR | FENERBAHCE  TV
+#DESCRIPTION TR | FENERBAHCE  TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/91.ts:TR | BURSASPOR  TV
+#DESCRIPTION TR | BURSASPOR  TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/110.ts:TR | KANAL  24
+#DESCRIPTION TR | KANAL  24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/48.ts:TR | KRAL  TV
+#DESCRIPTION TR | KRAL  TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/47.ts:TR | DREAM TURK
+#DESCRIPTION TR | DREAM TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/49.ts:TR | POWER TURK HD
+#DESCRIPTION TR | POWER TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/50.ts:TR | TRT  MUZIK
+#DESCRIPTION TR | TRT  MUZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/82.ts:TR | TRT HD
+#DESCRIPTION TR | TRT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/83.ts:TR | TV2
+#DESCRIPTION TR | TV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/216.ts:TR | PLANET MUTFAK
+#DESCRIPTION TR | PLANET MUTFAK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/218.ts:TR | NUMBER ONE TURK
+#DESCRIPTION TR | NUMBER ONE TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/217.ts:TR | BLOOMBERG TV
+#DESCRIPTION TR | BLOOMBERG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/87.ts:TR | SEMERKAND HD
+#DESCRIPTION TR | SEMERKAND HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/85.ts:TR | PLANET  COCUK
+#DESCRIPTION TR | PLANET  COCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/219.ts:TR | PLANET PEMBE
+#DESCRIPTION TR | PLANET PEMBE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/174.ts:TR | TRT COCUK
+#DESCRIPTION TR | TRT COCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/80.ts:TR | CARTOON NETWORK
+#DESCRIPTION TR | CARTOON NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/46.ts:TR | MINIKA GO
+#DESCRIPTION TR | MINIKA GO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/44.ts:TR | YUMURCAK TV
+#DESCRIPTION TR | YUMURCAK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tech343.com%3a8000/live/KMLCTNL/11111111/223.ts:TR | MINIKA COCUK
+#DESCRIPTION TR | MINIKA COCUK
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//fra1.ddns.net%3a97/live/test/test/764.m3u8:----ARABIA OSN PAKETI------
 #DESCRIPTION ----ARABIA OSN PAKETI------
 #SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8:Hawacom TV
