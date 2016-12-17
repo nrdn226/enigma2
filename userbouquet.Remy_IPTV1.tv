@@ -401,66 +401,104 @@
 #DESCRIPTION KRAL GREECE
 #SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/krelax.stream/playlist.m3u8:KRAL RELAX
 #DESCRIPTION KRAL RELAX
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::tunein.com/radio
-#DESCRIPTION tunein.com/radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7469.live.streamtheworld.com/JOY_FMAAC_SC:JOY_FM
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::ReMy/tunein/Radio
+#DESCRIPTION ReMy/tunein/Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
+#DESCRIPTION iTunes Top 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-uktop40_128k.mp3?noPreRoll=true:181.FM UK Top 40
+#DESCRIPTION 181.FM UK Top 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17773.live.streamtheworld.com%3a3690/JOY_FM_SC:JOY_FM
 #DESCRIPTION JOY_FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7469.live.streamtheworld.com/JOY_TURKAAC_SC:JOY_TURK
-#DESCRIPTION JOY_TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com%3a443/METRO_FM_SC:METRO_FM_SC
+#DESCRIPTION METRO_FM_SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.28.3.4/power/FenomenClubbin_mpeg_128_tunein/icecast.audio?:FenomenClubbin
+#DESCRIPTION FenomenClubbin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/fenomen/fenomenweb_mpeg_256_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPTVEZGlIbHRMYlpvNUg1bWtyMTIzeFE9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzI=:Radyo Fenomen
+#DESCRIPTION Radyo Fenomen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.28.3.4/fenomen/fenomenpop_mpeg_128_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPWFhSG0wQUxDL3VxemNQMFBCVldOWnc9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzI=:Fenomen Pop
+#DESCRIPTION Fenomen Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/fenomen/fenomenyaz_mpeg_128_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPURNOExpTmx6OEtqSmo1cG9jWkRKelE9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzI=:Fenomen Dans
+#DESCRIPTION Fenomen Dans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.35/fenomen/fenomenrap_mpeg_64_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPXUzbDJYVkFZbVZxbnVLam5VcFJsN1E9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzE=:Fenomen Rap
+#DESCRIPTION Fenomen Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/fenomen/FenomenAkustik_mpeg_128_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPWwzM1o5ejhrM0o0ODcwd09tby9zS2c9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzY=:Fenomen Akustik
+#DESCRIPTION Fenomen Akustik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/fenomen/fenomenrap_mpeg_64_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPXUzbDJYVkFZbVZxbnVLam5VcFJsN1E9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzE=:Fenomen Oriental
+#DESCRIPTION Fenomen Oriental
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.84/fenomen/fenomenturk_mpeg_128_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPVZDWlp1RThiWlViaFRKWnZETGQzYmc9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzM=:fenomenturk
+#DESCRIPTION fenomenturk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.84/power/PowerXL_mpeg_128_tunein/icecast.audio?:PowerXL
+#DESCRIPTION PowerXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gitassi.radyolarburada.com%3a3090/;:Radyo 45'lik
+#DESCRIPTION Radyo 45'lik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17753.live.streamtheworld.com%3a443/VIRGIN_RADIO_SC:VIRGIN_RADIO_SC
+#DESCRIPTION VIRGIN_RADIO_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.172.182.14%3a8888:www.isimsizfm.com  - HQ 192 kb/s
 #DESCRIPTION www.isimsizfm.com  - HQ 192 kb/s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.83.133.126%3a9968:Arabesk FM
-#DESCRIPTION Arabesk FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tunein.com/radio/Number-One-FM-1024-s9216/:Number-One-FM
-#DESCRIPTION Number-One-FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.117.155%3a8888:Birfm.com - Turkish WebRadio
 #DESCRIPTION Birfm.com - Turkish WebRadio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.217.63%3a12582:Arabesk fm2
 #DESCRIPTION Arabesk fm2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.4.5%3a6500:Efsane Radyo 96.4 7/24 Arabesk
-#DESCRIPTION Efsane Radyo 96.4 7/24 Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.93.122%3a9986:Damar Turk Fm
 #DESCRIPTION Damar Turk Fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.23.70%3a9916:Damar Fm Turkiye
 #DESCRIPTION Damar Fm Turkiye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.93.122%3a8010:DamarFmRadyo Studyo
 #DESCRIPTION DamarFmRadyo Studyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.162.32%3a8008:TaksimFM - Arabesk
+#DESCRIPTION TaksimFM - Arabesk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.120%3a9986/;:Arabeskin Kralı Radyo 38
+#DESCRIPTION Arabeskin Kralı Radyo 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
+#DESCRIPTION Kral Türk FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin1.canliyayin.org%3a8200/;*.mp3:Karadenizin Sesi FM
+#DESCRIPTION Karadenizin Sesi FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
+#DESCRIPTION Slow Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.52%3a17732:BesteFM
 #DESCRIPTION BesteFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.201%3a80:KRAL POP
 #DESCRIPTION KRAL POP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.35.101%3a9330:MEGA FM 106.5 KOCAELI/TURKEY
-#DESCRIPTION MEGA FM 106.5 KOCAELI/TURKEY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.163.225.185%3a8000:MAMAS FM CANLI YAYIN KANALI
-#DESCRIPTION MAMAS FM CANLI YAYIN KANALI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.163.225.185%3a5000:CD KALITESINDE TURK KLASIK SANAT MUZIGI - WWW.MAMA
-#DESCRIPTION CD KALITESINDE TURK KLASIK SANAT MUZIGI - WWW.MAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.35/power/PowerTurk_mpeg_128_home/icecast.audio?:PowerTurk
+#DESCRIPTION PowerTurk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/power/PowerTurkRock_mpeg_128_home/icecast.audio?:PowerTurkRock
+#DESCRIPTION PowerTurkRock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.84/power/PowerTurkTaptaze_mpeg_128_home/icecast.audio?:PowerTurkTaptaze
+#DESCRIPTION PowerTurkTaptaze
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.35/power/PowerTurkAkustik_mpeg_128_home/icecast.audio?:PowerTurkAkustik
+#DESCRIPTION PowerTurkAkustik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.85/power/PowerTurkEfsane_mpeg_128_home/icecast.audio?:PowerTurkEfsane
+#DESCRIPTION PowerTurkEfsane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.35/power/PowerTurkAlbum_mpeg_128_home/icecast.audio?:PowerTurkAlbum
+#DESCRIPTION PowerTurkAlbum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.28.3.4/power/PowerTurkCover_mpeg_128_home/icecast.audio?:PowerTurkCover
+#DESCRIPTION PowerTurkCover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/power/PowerTurkEnIyiler_mpeg_128_home/icecast.audio?:PowerTurkEnIyiler
+#DESCRIPTION PowerTurkEnIyiler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/power/PowerFM_mpeg_128_home/icecast.audio?:PowerFM
+#DESCRIPTION PowerFM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.35/power/PowerTurkRemiks_mpeg_128_home/icecast.audio?:PowerTurkRemiks
+#DESCRIPTION PowerTurkRemiks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hr-mp3-s-youfm.akacast.akamaistream.net/7/454/142136/v1/gnl.akacast.akamaistream.net/hr-mp3-s-youfm:youfm-young music
+#DESCRIPTION youfm-young music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.165.233.175%3a4062:OZLEM FM
 #DESCRIPTION OZLEM FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.183%3a10108/stream:S4 Radio | TR
 #DESCRIPTION S4 Radio | TR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.162.32%3a8008:TaksimFM - Arabesk
-#DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.229%3a80:SHOW RADYO
 #DESCRIPTION SHOW RADYO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/ABC-Lounge:ABC-Lounge
-#DESCRIPTION ABC-Lounge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.63.62.145%3a8080/wide01:Wide Radio - wideradio.net
 #DESCRIPTION Wide Radio - wideradio.net
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.dancewave.online%3a8080/dance.mp3:Dance Wave!
 #DESCRIPTION Dance Wave!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//208.53.164.179%3a80:idobi Radio: New. Music. Unfiltered. idobi.com
-#DESCRIPTION idobi Radio: New. Music. Unfiltered. idobi.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.232.200.156%3a8000:Hitradio OE3
 #DESCRIPTION Hitradio OE3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.222.38.225%3a2012:Radio Klass Romania .:: www.RadioKlass.eu ::.
 #DESCRIPTION Radio Klass Romania .:: www.RadioKlass.eu ::.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.104.250%3a80/stream:ANTENA1 - 94 7 FM
 #DESCRIPTION ANTENA1 - 94 7 FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.86.106.136%3a80:KissFM Romania - www.kissfm.ro
-#DESCRIPTION KissFM Romania - www.kissfm.ro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.192.137.34%3a9498:Narodni radio
 #DESCRIPTION Narodni radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.jewishmusicstream.com%3a8000/stream:JewishMusic Stream
@@ -473,16 +511,12 @@
 #DESCRIPTION Classical WETA 90.9 FM - Washington D.C.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.232.200.152%3a8000:OE 1
 #DESCRIPTION OE 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//108.61.73.119%3a14000:181.fm - Awesome 80's
-#DESCRIPTION 181.fm - Awesome 80's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3channels.webradio.antenne.de%3a80/antenne:ANTENNE BAYERN
 #DESCRIPTION ANTENNE BAYERN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies Webstream
 #DESCRIPTION Schlagerparadies Webstream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.172.194.189%3a11540/live.mp3:Enjoy Hits!
 #DESCRIPTION Enjoy Hits!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.68.149%3a80:idobi Anthm
-#DESCRIPTION idobi Anthm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ledjamradio.ice.infomaniak.ch/ledjamradio.mp3:Djam Radio
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:: Ibiza Global Radio :
