@@ -1,0 +1,541 @@
+#  FastCCcam Prio File
+#  Related Page : http://www.fastcccam.biz/tutorial/cccam-prio-file
+#  Updated : November 19th, 2016
+
+########################
+#  Prioritized CAID`s  #
+########################
+
+P: 0963:000000 # Sky UK
+P: 098C:000000 # Sky DE
+P: 09CD:000000 # Sky IT
+P: 1805:000000 # Mediaset Premium
+P: 1810:000000 # D+ Spain
+P: 1803:000000 # Polsat
+P: 0D96:000000 # Sky Link CZ
+P: 1830:000000 # HD+
+P: 1802:000000,004801,004901 # ZonTV Cabo
+P: 0100:005211,005221,005225 # Meo
+
+###################
+# Canalsat France #
+###################
+
+P: 0500:032830:2009    #"Canalsat - BeIN Sport Max 4 HD"
+P: 0500:032830:200A    #"Canalsat - BeIN Sport Max 5 HD"
+P: 0500:032830:200B    #"Canalsat - BeIN Sport Max 6 HD"
+P: 0500:032830:2071    #"Canalsat - BeIN Sport Max 7 HD"
+P: 0500:032830:2072    #"Canalsat - BeIN Sport Max 8 HD"
+P: 0500:032830:2073    #"Canalsat - BeIN Sport Max 9 HD"
+P: 0500:032830:2074    #"Canalsat - BeIN Sport Max 10 HD"
+
+I: 0500:030B00:2009    #"Canalsat - BeIN Sport Max 4 HD"
+I: 0500:030B00:200A    #"Canalsat - BeIN Sport Max 5 HD"
+I: 0500:030B00:200B    #"Canalsat - BeIN Sport Max 6 HD"
+I: 0500:030B00:2071    #"Canalsat - BeIN Sport Max 7 HD"
+I: 0500:030B00:2072    #"Canalsat - BeIN Sport Max 8 HD"
+I: 0500:030B00:2073    #"Canalsat - BeIN Sport Max 9 HD"
+I: 0500:030B00:2074    #"Canalsat - BeIN Sport Max 10 HD"
+
+####IGNORED FRENCH CAIDS###
+I: 0100:003311
+I: 0100:003315
+I: 0100:003317
+I: 1863:003342
+I: 1863:003343
+I: 1811:003311
+I: 1811:003315
+I: 1811:003317
+I: 0500:032920
+I: 0500:043330
+I: 0500:051900
+I: 0500:042820
+I: 0500:040F40
+I: 0500:032920
+I: 0500:032940
+
+####PRIORIZED CAIDS####
+P: 0500:032830
+P: 0100:00006D
+P: 0500:030B00
+P: 0500:042800
+P: 0500:042820
+
+###CANALSAT VIACESS 042820####
+P: 0500:042820:428C #CHASSE ET PECHE HD
+P: 0500:042820:427C #AB MOTEURS HD
+I: 0500:032830:428C #CHASSE ET PECHE HD
+I: 0500:032830:427C #AB MOTEURS HD
+
+### CANALSAT VIACESS 032830####
+
+P: 0500:032830:189D	#"Canalsat - BeIN Sport 1 HD"
+P: 0500:032830:189E	#"Canalsat - beIN Sport 2 HD"
+P: 0500:032830:18A0	#"Canalsat - beIN Sports 3 HD France"
+P: 0500:032830:18B1	#"Canalsat - beIN SPORTS 1 HD"
+P: 0500:032830:18B2	#"Canalsat - beIN SPORTS 2 HD"
+P: 0500:032830:18B4	#"Canalsat - beIN SPORTS 3 HD"
+P: 0500:032830:2582	#"Canalsat - BeIN Sport Max 4"
+P: 0500:032830:2583	#"Canalsat - BeIN Sport Max 5"
+P: 0500:032830:2584	#"Canalsat - BeIN Sport Max 6"
+P: 0500:032830:2585	#"Canalsat - BeIN Sport Max 7"
+P: 0500:032830:2586	#"Canalsat - BeIN Sport Max 8"
+P: 0500:032830:2587	#"Canalsat - BeIN Sport Max 9"
+P: 0500:032830:2588	#"Canalsat - BeIN Sport Max 10"
+P: 0500:032830:251E	#"Canalsat - Multisports HD"
+P: 0500:032830:251F	#"Canalsat - Multisports HD"
+P: 0500:032830:2520	#"Canalsat - Multisports HD"
+P: 0500:032830:2521	#"Canalsat - Multisports HD"
+P: 0500:032830:2522	#"Canalsat - Multisports HD"
+P: 0500:032830:2523	#"Canalsat - Multisports HD"
+P: 0500:032830:2332	#"Canalsat - Infosport+ HD"
+P: 0500:032830:1F47	#"Canalsat - OCS City HD"
+P: 0500:032830:24BC	#"Canalsat - OCS Choc HD"
+P: 0500:032830:24BE	#"Canalsat - Eurosport 2 HD"
+P: 0500:032830:2261	#"Canalsat - Canal+ HD"
+P: 0500:032830:2262	#"Canalsat - Canal+ Décalé HD"
+P: 0500:032830:2263	#"Canalsat - Canal+ Cinéma HD"
+P: 0500:032830:2264	#"Canalsat - Canal+ Sport HD"
+P: 0500:032830:2265	#"Canalsat - Canal+ Family HD"
+P: 0500:032830:2266	#"Canalsat - Canal+ Séries HD"
+P: 0500:032830:2267	#"Canalsat - Cine+ Frisson HD"
+P: 0500:032830:2269	#"Canalsat - Cine+ Classic HD"
+P: 0500:032830:2456	#"Canalsat - Cine+ Premier HD"
+P: 0500:032830:24C1	#"Canalsat - Planete+ C.I: HD"
+P: 0500:032830:24BF	#"Canalsat - Discovery Science HD France"
+P: 0500:032830:24C2 #"Canalsat - Campagnes TV
+P: 0500:032830:19C9	#"Canalsat - 13eme Rue HD"
+P: 0500:032830:1969	#"Canalsat - SERIE CLUB HD"
+P: 0500:032830:19CD	#"Canalsat - Voyage HD"
+P: 0500:032830:19D2	#"Canalsat - SEASONS HD"
+P: 0500:032830:19CE	#"Canalsat - Paramount Channel HD France"
+P: 0500:032830:1967	#"Canalsat - M6 Music Hits HD"
+P: 0500:032830:196A	#"Canalsat - OCS Max HD"
+P: 0500:032830:26AD	#"Canalsat - Discovery HD Showcase"
+P: 0500:032830:26B1	#"Canalsat - Téva HD"
+P: 0500:032830:26B2	#"Canalsat - J-ONE HD"
+P: 0500:032830:22C5	#"Canalsat - E! HD France"
+P: 0500:032830:22C6	#"Canalsat - LA CHAINE METEO"
+P: 0500:032830:22C9	#"Canalsat - GAME ONE"
+P: 0500:032830:22CB	#"Canalsat - TRACE URBAN HD"
+P: 0500:032830:24BA	#"Canalsat - Disney Cinema HD"
+P: 0500:032830:2333	#"Canalsat - Planete+ A&E HD"
+P: 0500:032830:1970	#"Canalsat - Nickelodeon 4Teen HD"
+P: 0500:032830:22D0	#"Canalsat - Nick Jr HD France"
+P: 0500:032830:2010 #"Canalsat - Nickelodeon +1 HD
+P: 0500:032830:200D #"Canalsat - SUNDANCE TV
+P: 0500:032830:200C #"Canalsat - NRJ HITS
+P: 0500:032830:2076 #"Canalsat - MCS BIEN ETRE HD"
+P: 0500:032830:26B5 #"Canalsat - ONZEO"
+P: 0500:032830:2526 #"Canalsat - OM TV"
+P: 0500:032830:2525 #"Canalsat - OL TV"
+P: 0500:032830:22C8 #"Canalsat - GIRONDINS TV"
+P: 0500:032830:196D #"Canalsat - EXTREME SPORTS HD"
+P: 0500:032830:19D4 #"Canalsat - EQUIDIA LIVE
+P: 0500:032830:19D3 #"Canalsat - EQUIDIA LIFE
+P: 0500:032830:24C4	#"Canalsat - TELETOON+1 HD"
+P: 0500:032830:2206 #"CANALSAT - MELODY"
+I: 0500:030B00:2206 #"CANALSAT - MELODY"
+P: 0500:032830:2207 #"CANALSAT - Nollywood TV"
+I: 0500:030B00:2207 #"CANALSAT - Nollywood TV"
+P: 0500:032830:1F4C #"CANALSAT - Trace Africa
+I: 0500:030B00:1F4C #"CANALSAT - Trace Africa
+P: 0500:032830:1F42 #"CANALSAT - A+
+I: 0500:030B00:1F42 #"CANALSAT - A+
+I: 0500:030B00:24C2 #"Canalsat - Campagnes TV
+I: 0500:030B00:19D2	#"Canalsat - SEASONS HD"
+I: 0500:030B00:1969	#"Canalsat - SERIE CLUB HD"
+I: 0500:030B00:189D	#"Canalsat - BeIN Sport 1 HD"
+I: 0500:030B00:189E	#"Canalsat - beIN Sport 2 HD"
+I: 0500:030B00:18A0	#"Canalsat - beIN Sports 3 HD France"
+I: 0500:030B00:18B1	#"Canalsat - beIN SPORTS 1 HD"
+I: 0500:030B00:18B2	#"Canalsat - beIN SPORTS 2 HD"
+I: 0500:030B00:18B4	#"Canalsat - beIN SPORTS 3 HD"
+I: 0500:030B00:2582	#"Canalsat - BeIN Sport Max 4"
+I: 0500:030B00:2583	#"Canalsat - BeIN Sport Max 5"
+I: 0500:030B00:2584	#"Canalsat - BeIN Sport Max 6"
+I: 0500:030B00:2585	#"Canalsat - BeIN Sport Max 7"
+I: 0500:030B00:2586	#"Canalsat - BeIN Sport Max 8"
+I: 0500:030B00:2587	#"Canalsat - BeIN Sport Max 9"
+I: 0500:030B00:2588	#"Canalsat - BeIN Sport Max 10"
+I: 0500:030B00:251E	#"Canalsat - Multisports HD"
+I: 0500:030B00:251F	#"Canalsat - Multisports HD"
+I: 0500:030B00:2520	#"Canalsat - Multisports HD"
+I: 0500:030B00:2521	#"Canalsat - Multisports HD"
+I: 0500:030B00:2522	#"Canalsat - Multisports HD"
+I: 0500:030B00:2523	#"Canalsat - Multisports HD"
+I: 0500:030B00:2332	#"Canalsat - Infosport+ HD"
+I: 0500:030B00:26B2	#"Canalsat - J-ONE HD"
+I: 0500:030B00:1F47	#"Canalsat - OCS City HD"
+I: 0500:030B00:24BC	#"Canalsat - OCS Choc HD"
+I: 0500:030B00:24BE	#"Canalsat - Eurosport 2 HD"
+I: 0500:030B00:2261	#"Canalsat - Canal+ HD"
+I: 0500:030B00:2262	#"Canalsat - Canal+ Decale HD"
+I: 0500:030B00:2263	#"Canalsat - Canal+ Cinema HD"
+I: 0500:030B00:2264	#"Canalsat - Canal+ Sport HD"
+I: 0500:030B00:2265	#"Canalsat - Canal+ Family HD"
+I: 0500:030B00:2266	#"Canalsat - Canal+ Series HD"
+I: 0500:030B00:2267	#"Canalsat - Cine+ Frisson HD"
+I: 0500:030B00:2269	#"Canalsat - Cine+ Classic HD"
+I: 0500:030B00:2456	#"Canalsat - Cine+ Premier HD"
+I: 0500:030B00:24C1	#"Canalsat - Planete+ C.I: HD"
+I: 0500:030B00:24BF	#"Canalsat - Discovery Science HD France"
+I: 0500:030B00:19C9	#"Canalsat - 13Eme Rue HD"
+I: 0500:030B00:19CD	#"Canalsat - Voyage HD"
+I: 0500:030B00:19CE	#"Canalsat - Paramount Channel HD France"
+I: 0500:030B00:1967	#"Canalsat - M6 Music Hits HD"
+I: 0500:030B00:196A	#"Canalsat - OCS Max HD"
+I: 0500:030B00:26AD	#"Canalsat - Discovery HD Showcase"
+I: 0500:030B00:26B1	#"Canalsat - Teva HD"
+I: 0500:030B00:22C5	#"Canalsat - E! HD France"
+I: 0500:030B00:22C6	#"Canalsat - LA CHAINE METEO"
+I: 0500:030B00:22C9	#"Canalsat - GAME ONE"
+I: 0500:030B00:22CB	#"Canalsat - TRACE URBAN HD"
+I: 0500:030B00:24BA	#"Canalsat - Disney Cinema HD"
+I: 0500:030B00:2333	#"Canalsat - Planete+ A&E HD"
+I: 0500:030B00:1970	#"Canalsat - Nickelodeon 4Teen HD"
+I: 0500:030B00:22D0	#"Canalsat - Nick Jr HD France"
+I: 0500:030B00:2010 #"Canalsat - Nickelodeon +1 HD
+I: 0500:030B00:200D #"Canalsat - SUNDANCE TV
+I: 0500:030B00:200C #"Canalsat - NRJ HITS
+I: 0500:030B00:2076 #"Canalsat - MCS BIEN ETRE HD"
+I: 0500:030B00:26B5 #"Canalsat - ONZEO"
+I: 0500:030B00:2526 #"Canalsat - OM TV"
+I: 0500:030B00:2525 #"Canalsat - OL TV"
+I: 0500:030B00:22C8 #"Canalsat - GIRONDINS TV"
+I: 0500:030B00:196D #"Canalsat - EXTREME SPORTS HD"
+I: 0500:030B00:19D4 #"Canalsat - EQUIDIA LIVE
+I: 0500:030B00:19D3 #"Canalsat - EQUIDIA LIFE
+I: 0500:030B00:2009	#"TNTSAT - Canal+"
+I: 0500:030B00:200C	#"TNTSAT - CANAL+ SPORT"
+I: 0500:030B00:201D	#"TNTSAT - CANAL+"
+I: 0500:030B00:2020	#"TNTSAT - Canal+ Sport"
+I: 0500:030B00:2031	#"TNTSAT - CANAL+"
+
+###CANALSAT-TELESAT Seca####
+P: 0100:00006D:427E	#"TELESAT - Animaux HD" 
+P: 0100:00006D:22CE	#"TELESAT - Motors TV HD"
+P: 0100:00006D:1F46	#"TELESAT - Histoire HD"
+P: 0100:00006D:1F44	#"TELESAT - MTV HD France"
+P: 0100:00006D:1F41	#"TELESAT - BET HD France"
+P: 0100:00006D:1F48	#"TELESAT - Nickelodeon HD France"
+P: 0100:00006D:1F4A	#"Canalsat - MEZZO"
+P: 0100:00006D:24B9	#"Canalsat - Disney XD HD France"
+P: 0100:00006D:24C0	#"Canalsat - Disney Channel France +1 HD"
+P: 0100:00006D:232A	#"Canalsat - National Geographic HD France"
+P: 0100:00006D:232E	#"Canalsat - Planete+ HD"
+P: 0100:00006D:232F	#"Canalsat - Disney Channel HD France"
+P: 0100:00006D:2459	#"Canalsat - Ushua•a TV HD"
+P: 0100:00006D:19CA	#"Canalsat - Disney Junior HD France"
+P: 0100:00006D:1965	#"Canalsat - NatGeo Wild HD France"
+P: 0100:00006D:196C	#"Canalsat - Comédie+ HD"
+P: 0100:00006D:196E	#"Canalsat - Piwi+ HD"
+P: 0100:00006D:2136	#"Canalsat - Numéro 23"
+P: 0100:00006D:206E	#"Canalsat - MCM Top HD"
+P: 0100:00006D:26AE	#"Canalsat - TCM HD France"
+P: 0100:00006D:26B4	#"Canalsat - Cartoon Network HD France"
+P: 0100:00006D:2201	#"Canalsat - TV Breizh HD"
+P: 0100:00006D:2202	#"Canalsat - RFM TV HD"
+P: 0100:00006D:2203	#"Canalsat - TiJi HD"
+P: 0100:00006D:232D	#"Canalsat - Eurosport 1 HD"
+P: 0100:00006D:196F	#"Canalsat - Canal J HD"
+P: 0100:00006D:22CC	#"Canalsat - Boomerang France HD"
+P: 0100:00006D:24C3	#"Canalsat - TELETOON+ HD"
+I: 0500:032830:24C3	#"Canalsat - TELETOON+ HD"
+I: 0500:032830,030B00:427E	#"TELESAT - Animaux HD" 
+I: 0500:032830,030B00:22CE	#"TELESAT - Motors TV HD"
+I: 0500:032830,030B00:1F46	#"TELESAT - Histoire HD"
+I: 0500:032830,030B00:1F44	#"TELESAT - MTV HD France"
+I: 0500:032830,030B00:1F41	#"TELESAT - BET HD France"
+I: 0500:032830,030B00:1F48	#"TELESAT - Nickelodeon HD France"
+I: 0500:032830,030B00:1F4A	#"Canalsat - MEZZO"
+I: 0500:032830,030B00:24B9	#"Canalsat - Disney XD HD France"
+I: 0500:032830,030B00:24C0	#"Canalsat - Disney Channel France +1 HD"
+I: 0500:032830,030B00:232A	#"Canalsat - National Geographic HD France"
+I: 0500:032830,030B00:232E	#"Canalsat - Planete+ HD"
+I: 0500:032830,030B00:232F	#"Canalsat - Disney Channel HD France"
+I: 0500:032830,030B00:2459	#"Canalsat - Ushua•a TV HD"
+I: 0500:032830,030B00:19CA	#"Canalsat - Disney Junior HD France"
+I: 0500:032830,030B00:1965	#"Canalsat - NatGeo Wild HD France"
+I: 0500:032830,030B00:196C	#"Canalsat - Comédie+ HD"
+I: 0500:032830,030B00:196E	#"Canalsat - Piwi+ HD"
+I: 0500:032830,030B00:2136	#"Canalsat - Numéro 23"
+I: 0500:032830,030B00:206E	#"Canalsat - MCM Top HD"
+I: 0500:032830,030B00:26AE	#"Canalsat - TCM HD France"
+I: 0500:032830,030B00:26B4	#"Canalsat - Cartoon Network HD France"
+I: 0500:032830,030B00:2201	#"Canalsat - TV Breizh HD"
+I: 0500:032830,030B00:2202	#"Canalsat - RFM TV HD"
+I: 0500:032830,030B00:2203	#"Canalsat - TiJi HD"
+I: 0500:032830,030B00:232D	#"Canalsat - Eurosport 1 HD"
+I: 0500:032830,030B00:196F	#"Canalsat - Canal J HD"
+I: 0500:032830,030B00:22CC	#"Canalsat - Boomerang France HD"
+
+####TNT SAT####
+
+P: 0500:030B00:7A4D	#"TNTSAT - L EQUIPE 21" 
+P: 0500:030B00:7AB1	#"TNTSAT - L Equipe 21" 
+P: 0500:030B00:2136	#"TNTSAT - Numéro 23"
+P: 0500:030B00:275F	#"TNTSAT - RMC Découverte"
+P: 0500:030B00:2761	#"TNTSAT - RMC Découverte"
+P: 0500:030B00:6F73	#"TNTSAT - Cherie 25"
+P: 0500:030B00:6F86	#"TNTSAT - Cherie 25"
+P: 0500:030B00:6F87	#"TNTSAT - Cherie 25"
+P: 0500:030B00:1F45	#"TNTSAT - FRANCE INFO"
+P: 0500:030B00:1F49	#"TNTSAT - D8 HD" 
+P: 0500:030B00:1F4B	#"TNTSAT - 6ter"
+P: 0500:030B00:2455	#"TNTSAT - Arte HD" 
+P: 0500:030B00:2457	#"TNTSAT - M6 HD" 
+P: 0500:030B00:2458	#"TNTSAT - W9 HD" 
+P: 0500:030B00:245A	#"TNTSAT - France 2 HD" 
+P: 0500:030B00:245C	#"TNTSAT - D17 HD" 
+P: 0500:030B00:245D	#"TNTSAT - France 3 Sat HD" 
+P: 0500:030B00:232C #"TNTSAT - PARIS PREMIERE HD" 
+P: 0500:030B00:2329	#"TNTSAT - TF 1" 
+P: 0500:030B00:232B	#"TNTSAT - HD1" 
+P: 0500:030B00:2330	#"TNTSAT - France 5 HD" 
+P: 0500:030B00:19D0	#"TNTSAT - France ï HD" 
+P: 0500:030B00:19D1	#"TNTSAT - Gulli HD"
+P: 0500:030B00:21FD	#"TNTSAT - France 4 HD" 
+P: 0500:030B00:21FE	#"TNTSAT - NT 1 HD"
+P: 0500:030B00:21FF	#"TNTSAT - TMC HD"
+P: 0500:030B00:2200	#"TNTSAT - NRJ 12 HD"
+P: 0500:030B00:2F6C	#"TNTSAT - Cherie 25"
+P: 0500:030B00:2F6D	#"TNTSAT - Cherie 25" 
+P: 0500:030B00:2649	#"TNTSAT - France 3 Caen"
+P: 0500:030B00:264A	#"TNTSAT - France 3 Nantes"
+P: 0500:030B00:264B	#"TNTSAT - France 3 Nice"
+P: 0500:030B00:264C	#"TNTSAT - France 3 Orléans"
+P: 0500:030B00:264D	#"TNTSAT - France 3 Dijon"
+P: 0500:030B00:264E	#"TNTSAT - France 3 Poitiers"
+P: 0500:030B00:264F	#"TNTSAT - France 3 Reims"
+P: 0500:030B00:2650	#"TNTSAT - France 3 Grenoble"
+P: 0500:030B00:2651	#"TNTSAT - France 3 Lille"
+P: 0500:030B00:2652	#"TNTSAT - France 3 Strasbourg"
+P: 0500:030B00:2653	#"TNTSAT - France 3 Montpellier"
+P: 0500:030B00:2654	#"TNTSAT - France 3 CorseViaStella"
+P: 0500:030B00:2655	#"TNTSAT - France 3 Nice"
+P: 0500:030B00:2656	#"TNTSAT - France 3 Rouen"
+P: 0500:030B00:2657	#"TNTSAT - France 3 Bordeaux"
+P: 0500:030B00:2658	#"TNTSAT - France 3 Clermont Ferrand"
+P: 0500:030B00:2659	#"TNTSAT - France 3 Rennes"
+P: 0500:030B00:265A	#"TNTSAT - France 3 Limoges"
+P: 0500:030B00:265B	#"TNTSAT - France 3 Nancy"
+P: 0500:030B00:265C	#"TNTSAT - France 3 Montpellier"
+P: 0500:030B00:265D	#"TNTSAT - France 3 Paris Ile-de-France"
+P: 0500:030B00:265E	#"TNTSAT - France 3 Amiens"
+P: 0500:030B00:265F	#"TNTSAT - France 3 Lyon"
+P: 0500:030B00:2660	#"TNTSAT - France 3 Besancon"
+I: 0500:032830:7A4D	#"TNTSAT - L EQUIPE 21" 
+I: 0500:032830:7AB1	#"TNTSAT - L«Equipe 21" 
+I: 0500:032830:232C #"TNTSAT - PARIS PREMIERE HD" 
+I: 0500:032830:2136	#"TNTSAT - Numéro 23"
+I: 0500:032830:275F	#"TNTSAT - RMC Découverte" 
+I: 0500:032830:2761	#"TNTSAT - RMC Découverte"
+I: 0500:032830:6F73	#"TNTSAT - Cherie 25"
+I: 0500:032830:6F86	#"TNTSAT - Cherie 25"
+I: 0500:032830:6F87	#"TNTSAT - Cherie 25"
+I: 0500:032830:1F45	#"TNTSAT - FRANCE INFO"
+I: 0500:032830:1F49	#"TNTSAT - D8 HD" 
+I: 0500:032830:1F4B	#"TNTSAT - 6ter"
+I: 0500:032830:2455	#"TNTSAT - Arte HD" 
+I: 0500:032830:2457	#"TNTSAT - M6 HD" 
+I: 0500:032830:2458	#"TNTSAT - W9 HD" 
+I: 0500:032830:245A	#"TNTSAT - France 2 HD" 
+I: 0500:032830:245C	#"TNTSAT - D17 HD" 
+I: 0500:032830:245D	#"TNTSAT - France 3 Sat HD" 
+I: 0500:032830:2329	#"TNTSAT - TF 1" 
+I: 0500:032830:232B	#"TNTSAT - HD1" 
+I: 0500:032830:2330	#"TNTSAT - France 5 HD" 
+I: 0500:032830:19D0	#"TNTSAT - France ï HD" 
+I: 0500:032830:19D1	#"TNTSAT - Gulli HD"
+I: 0500:032830:21FD	#"TNTSAT - France 4 HD" 
+I: 0500:032830:21FE	#"TNTSAT - NT 1 HD"
+I: 0500:032830:21FF	#"TNTSAT - TMC HD"	
+I: 0500:032830:2200	#"TNTSAT - NRJ 12 HD"
+I: 0500:032830:2F6C	#"TNTSAT - Cherie 25" 
+I: 0500:032830:2F6D	#"TNTSAT - Cherie 25"
+I: 0500:032830:2649	#"TNTSAT - France 3 Caen"
+I: 0500:032830:264A	#"TNTSAT - France 3 Nantes"
+I: 0500:032830:264B	#"TNTSAT - France 3 Nice"
+I: 0500:032830:264C	#"TNTSAT - France 3 Orléans"
+I: 0500:032830:264D	#"TNTSAT - France 3 Dijon"
+I: 0500:032830:264E	#"TNTSAT - France 3 Poitiers"
+I: 0500:032830:264F	#"TNTSAT - France 3 Reims"
+I: 0500:032830:2650	#"TNTSAT - France 3 Grenoble"
+I: 0500:032830:2651	#"TNTSAT - France 3 Lille"
+I: 0500:032830:2652	#"TNTSAT - France 3 Strasbourg"
+I: 0500:032830:2653	#"TNTSAT - France 3 Montpellier"
+I: 0500:032830:2654	#"TNTSAT - France 3 CorseViaStella"
+I: 0500:032830:2655	#"TNTSAT - France 3 Nice"
+I: 0500:032830:2656	#"TNTSAT - France 3 Rouen"
+I: 0500:032830:2657	#"TNTSAT - France 3 Bordeaux"
+I: 0500:032830:2658	#"TNTSAT - France 3 Clermont Ferrand"
+I: 0500:032830:2659	#"TNTSAT - France 3 Rennes"
+I: 0500:032830:265A	#"TNTSAT - France 3 Limoges"
+I: 0500:032830:265B	#"TNTSAT - France 3 Nancy"
+I: 0500:032830:265C	#"TNTSAT - France 3 Montpellier"
+I: 0500:032830:265D	#"TNTSAT - France 3 Paris Ile-de-France"
+I: 0500:032830:265E	#"TNTSAT - France 3 Amiens"
+I: 0500:032830:265F	#"TNTSAT - France 3 Lyon"
+I: 0500:032830:2660	#"TNTSAT - France 3 Besancon"
+
+##########BIS-ORANGE France 13 EAST###########
+
+P: 0500:042800:019A	#"Bis - BeIN Sport 1 HD"
+P: 0500:042800:019B	#"Bis - beIN Sport 2 HD"
+P: 0500:042800:012D	#"Bis - TF 1"	
+P: 0500:042800:012E	#"Bis - France 2 HD"	
+P: 0500:042800:012F	#"Bis - France 3 Sat"	
+P: 0500:042800:0131	#"Bis - France 5"	
+P: 0500:042800:0132	#"Bis - M6 HD"
+P: 0500:042800:0134	#"Bis - C8"
+P: 0500:042800:0135	#"Bis - W9"
+P: 0500:042800:0136	#"Bis - TMC (Télé Monte Carlo)" 
+P: 0500:042800:0137	#"Bis - NT 1"	
+P: 0500:042800:0138	#"Bis - NRJ 12"	
+P: 0500:042800:0139	#"Bis - LCP - La Cha”ne Parlementaire"
+P: 0500:042800:013A	#"Bis - France 4"	
+P: 0500:042800:445D	#"Bis - 6ter"
+P: 0500:042800:4460	#"Bis - Game One"
+P: 0500:042800:4461	#"Bis - HD1"
+P: 0500:042800:4463	#"Bis - Numéro 23"
+P: 0500:042800:4464	#"Bis - RMC Découverte"
+P: 0500:042800:4465	#"Bis - Cherie 25"
+P: 0500:042800:446A	#"Bis - Equidia Live"
+P: 0500:042800:1FB8	#"Bis - L Equipe 21"
+P: 0500:042800:01A1	#"Bis - D17" 
+P: 0500:042800:01A2	#"Bis - Gulli" 
+P: 0500:042800:01A3	#"Bis - France O"	
+P: 0500:042800:01C3	#"Bis - RTL 9 HD" 
+P: 0500:042800:01C4	#"Bis - AB 1" 
+P: 0500:042800:01C5	#"Bis - AB Moteurs"	
+P: 0500:042800:01C6	#"Bis - Animaux"	
+P: 0500:042800:01C7	#"Bis - Chasse et Peche" 
+P: 0500:042800:01C8	#"Bis - Ciné FX"	
+P: 0500:042800:01C9	#"Bis - Ciné Polar"	
+P: 0500:042800:01CA	#"Bis - Trek"	
+P: 0500:042800:01CB	#"Bis - Toute l Histoire"	
+P: 0500:042800:01CD	#"Bis - Action HD"	
+P: 0500:042800:01CE	#"Bis - Mangas"	
+P: 0500:042800:01CF	#"Bis - Science et Vie"	
+P: 0500:042800:01D2	#"Bis - Téva"
+P: 0500:042800:01D4	#"Bis - XXL"
+P: 0500:042800:01D5	#"Bis - XXL PL"
+P: 0500:042800:01D6	#"Bis - Golf Channel France"
+P: 0500:042800:427E	#"Bis - Animaux HD"
+P: 0500:042800:4286	#"Bis - Action HD"
+P: 0500:042800:0259	#"Bis - TV 5 Monde (France Belgique Suisse)" 
+
+#########
+#  ORF  #
+#########
+
+P: 0D95:000004:32D4 # ATV (Austria)
+P: 0D95:000004:33A7 # ATV 2 Austria
+P: 0D95:000004:33AC # ATV HD (Austria)
+P: 0D95:000004:32C9 # ORF 1
+P: 0D95:000004:132F # ORF 1 HD
+P: 0D95:000004:32CA # ORF 2
+P: 0D95:000004:32CD # ORF 2 Burgenland
+P: 0D95:000004:1330 # ORF 2 HD
+P: 0D95:000004:32D3 # ORF 2 K‰rnten
+P: 0D95:000004:32CC # ORF 2 Nieder÷sterreich
+P: 0D95:000004:32CE # ORF 2 Ober÷sterreich
+P: 0D95:000004:32CF # ORF 2 Salzburg
+P: 0D95:000004:32D2 # ORF 2 Steiermark
+P: 0D95:000004:32D0 # ORF 2 Tirol
+P: 0D95:000004:32D1 # ORF 2 Vorarlberg
+P: 0D95:000004:32CB # ORF 2 Wien
+P: 0D95:000004:332D # ORF III
+P: 0D95:000004:33FC # ORF III HD
+P: 0D95:000004:33A5 # ORF Sport Plus
+P: 0D95:000004:33FD # ORF Sport+ HD
+P: 0D95:000004:33F7 # ORF2B HD
+P: 0D95:000004:33F6 # ORF2K HD
+P: 0D95:000004:1334 # ORF2N HD
+P: 0D95:000004:33F8 # ORF2O HD
+P: 0D95:000004:33F9 # ORF2S HD
+P: 0D95:000004:33F5 # ORF2St HD
+P: 0D95:000004:33FA # ORF2T HD
+P: 0D95:000004:33FB # ORF2V HD
+P: 0D95:000004:4E27 # Puls 4 Austria
+
+###################
+#  TV Vlaanderen  #
+###################
+
+P: 0100:00006C:5221 # TV Vlaanderen - ÈÈn HD
+P: 0100:00006C:5226 # TV Vlaanderen - Canvas HD
+P: 0100:00006C:1B76 # TV Vlaanderen - VTM HD
+P: 0100:00006C:1B90 # TV Vlaanderen - 2BE HD
+P: 0100:00006C:1B91 # TV Vlaanderen - Vier HD
+P: 0100:00006C:5286 # TV Vlaanderen - VIJF TV
+P: 0100:00006C:5280 # TV Vlaanderen - Vitaya
+P: 0100:00006C:5282 # TV Vlaanderen - Acht
+P: 0100:00006C:5276 # TV Vlaanderen - Jim
+P: 0100:00006C:527C # TV Vlaanderen - Kanaal Z
+P: 0100:00006C:527C # TV Vlaanderen - VTM Kzoom
+
+###################
+#  Adults CAID`s  #
+###################
+
+P: 0500:032500:1d25 # BrazzersTV Europe
+P: 0500:043800:35C1 # Exotica
+P: 0500:043800:35C3 # SCT
+P: 0500:043800:35C6 # CentoxCento
+P: 0500:043800:35C7 # SestosensoTV
+P: 0500:043800:000A # Satisfaction HD
+P: 0500:043800:35C8 # Passion XXX
+P: 0500:043800:35C0 # Tgirls TV
+P: 0100:000068:4225 # Hustler HD
+P: 0100:000068:1360 # Private TV
+P: 0100:000068:4224 # Redlight HD
+
+
+####################
+#  Ignored CAID`s  #
+####################
+
+I: 0919:000000 # Sky IT
+I: 093B:000000 # Sky IT
+I: 1833:000000 # Sky DE
+I: 1834:000000 # Sky DE
+I: 1722:000000 # Sky DE
+I: 09C4:000000 # Sky DE
+I: 1702:000000 # Sky DE
+I: 0624:000000 # Sky Link CZ
+I: 0B01:000000 # NC+
+I: 1861:000000 # Polsat
+I: 1804:000000 # Mediaset Premium
+I: 0500:032A00 # Polsat
+
+I: 098C:000000:32D4 # ATV (Austria)
+I: 098C:000000:33A7 # ATV 2 Austria
+I: 098C:000000:33AC # ATV HD (Austria)
+I: 098C:000000:32C9 # ORF 1
+I: 098C:000000:132F # ORF 1 HD
+I: 098C:000000:32CA # ORF 2
+I: 098C:000000:32CD # ORF 2 Burgenland
+I: 098C:000000:1330 # ORF 2 HD
+I: 098C:000000:32D3 # ORF 2 K‰rnten
+I: 098C:000000:32CC # ORF 2 Nieder÷sterreich
+I: 098C:000000:32CE # ORF 2 Ober÷sterreich
+I: 098C:000000:32CF # ORF 2 Salzburg
+I: 098C:000000:32D2 # ORF 2 Steiermark
+I: 098C:000000:32D0 # ORF 2 Tirol
+I: 098C:000000:32D1 # ORF 2 Vorarlberg
+I: 098C:000000:32CB # ORF 2 Wien
+I: 098C:000000:332D # ORF III
+I: 098C:000000:33FC # ORF III HD
+I: 098C:000000:33A5 # ORF Sport Plus
+I: 098C:000000:33FD # ORF Sport+ HD
+I: 098C:000000:33F7 # ORF2B HD
+I: 098C:000000:33F6 # ORF2K HD
+I: 098C:000000:1334 # ORF2N HD
+I: 098C:000000:33F8 # ORF2O HD
+I: 098C:000000:33F9 # ORF2S HD
+I: 098C:000000:33F5 # ORF2St HD
+I: 098C:000000:33FA # ORF2T HD
+I: 098C:000000:33FB # ORF2V HD
+I: 098C:000000:4E27 # Puls 4 Austria
