@@ -401,8 +401,8 @@
 #DESCRIPTION KRAL GREECE
 #SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/krelax.stream/playlist.m3u8:KRAL RELAX
 #DESCRIPTION KRAL RELAX
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::ReMy/tunein/Radio
-#DESCRIPTION ReMy/tunein/Radio
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::ReMy-Clubbin/Tunein/iTunes_Radio_List
+#DESCRIPTION ReMy-Clubbin/Tunein/iTunes_Radio_List
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-uktop40_128k.mp3?noPreRoll=true:181.FM UK Top 40
