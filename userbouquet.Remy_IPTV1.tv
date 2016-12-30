@@ -29,6 +29,8 @@
 #DESCRIPTION KRAL 90 LAR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8:TRT MUZIK
 #DESCRIPTION TRT MUZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp:Nr HD
+#DESCRIPTION Nr HD
 #SERVICE 1:64:AA:0:0:0:0:0:0:0::__M  U  S  i  C _C H A N N E L S__
 #DESCRIPTION __M  U  S  i  C _C H A N N E L S__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1400:One.by 4K_UHD MUSIC TV
@@ -411,6 +413,8 @@
 #DESCRIPTION JOY_FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com%3a443/METRO_FM_SC:METRO_FM_SC
 #DESCRIPTION METRO_FM_SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.174.75%3a9998/stream:Deep Dark Progressive House
+#DESCRIPTION Deep Dark Progressive House
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.28.3.4/power/FenomenClubbin_mpeg_128_tunein/icecast.audio?:FenomenClubbin
 #DESCRIPTION FenomenClubbin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.82/fenomen/fenomenweb_mpeg_256_home/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNiAxMTozNDowNSBBTSZoYXNoX3ZhbHVlPTVEZGlIbHRMYlpvNUg1bWtyMTIzeFE9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MzI=:Radyo Fenomen
@@ -431,6 +435,8 @@
 #DESCRIPTION PowerXL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gitassi.radyolarburada.com%3a3090/;:Radyo 45'lik
 #DESCRIPTION Radyo 45'lik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com%3a443/VIRGIN_RADIO_SC:Virgin Radio Türkiye
+#DESCRIPTION Virgin Radio Türkiye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17753.live.streamtheworld.com%3a443/VIRGIN_RADIO_SC:VIRGIN_RADIO_SC
 #DESCRIPTION VIRGIN_RADIO_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.172.182.14%3a8888:www.isimsizfm.com  - HQ 192 kb/s
@@ -439,6 +445,12 @@
 #DESCRIPTION Birfm.com - Turkish WebRadio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.217.63%3a12582:Arabesk fm2
 #DESCRIPTION Arabesk fm2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.120%3a9986/;:Arabeskin Kralı Radyo
+#DESCRIPTION Arabeskin Kralı Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.120%3a9986/;:Arabeskin Kralı Radyo 38
+#DESCRIPTION Arabeskin Kralı Radyo 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/best//babaradyo.stream:Baba Radyo
+#DESCRIPTION Baba Radyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.93.122%3a9986:Damar Turk Fm
 #DESCRIPTION Damar Turk Fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.23.70%3a9916:Damar Fm Turkiye
@@ -447,12 +459,12 @@
 #DESCRIPTION DamarFmRadyo Studyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.162.32%3a8008:TaksimFM - Arabesk
 #DESCRIPTION TaksimFM - Arabesk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.7.120%3a9986/;:Arabeskin Kralı Radyo 38
-#DESCRIPTION Arabeskin Kralı Radyo 38
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin1.canliyayin.org%3a8200/;*.mp3:Karadenizin Sesi FM
 #DESCRIPTION Karadenizin Sesi FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/shoutcast//karadenizfm.stream:Karadeniz FM
+#DESCRIPTION Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
 #DESCRIPTION Slow Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.52%3a17732:BesteFM
@@ -479,6 +491,10 @@
 #DESCRIPTION PowerFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.142.3.35/power/PowerTurkRemiks_mpeg_128_home/icecast.audio?:PowerTurkRemiks
 #DESCRIPTION PowerTurkRemiks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioturku.com%3a9400/;:Radyo Türkü-izmir
+#DESCRIPTION Radyo Türkü-izmir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ahmetkaya.canliyayinda.com%3a9999/;:Radyo Ahmet Kaya
+#DESCRIPTION Radyo Ahmet Kaya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hr-mp3-s-youfm.akacast.akamaistream.net/7/454/142136/v1/gnl.akacast.akamaistream.net/hr-mp3-s-youfm:youfm-young music
 #DESCRIPTION youfm-young music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.165.233.175%3a4062:OZLEM FM
@@ -523,3 +539,5 @@
 #DESCRIPTION : Ibiza Global Radio :
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//subpsyair.tk%3a9008/stream.mp3:Teleport_Station-psytrance
 #DESCRIPTION Teleport_Station-psytrance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//yadi.sk/d/LKWuEYWG35ASpG:jumping my
+#DESCRIPTION jumping my
