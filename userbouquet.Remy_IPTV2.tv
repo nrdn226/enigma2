@@ -1281,6 +1281,16 @@
 #DESCRIPTION Rouge TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8:Russia Today Doc HD (English)
 #DESCRIPTION Russia Today Doc HD (English)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.sgr.globo.com%3a1935/VideoCBN/cbnrj1.sdp/live.m3u8:RÃDIO CBN RJ
+#DESCRIPTION RÃDIO CBN RJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.sgr.globo.com%3a1935/VideoCBN/cbnsp1.sdp/live.m3u8:RÃDIO CBN SP
+#DESCRIPTION RÃDIO CBN SP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.sgr.globo.com%3a1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8:RÃDIO GLOBO 1100 AM SP
+#DESCRIPTION RÃDIO GLOBO 1100 AM SP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.sgr.globo.com%3a1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8:RÃDIO GLOBO 98.1 FM RJ
+#DESCRIPTION RÃDIO GLOBO 98.1 FM RJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv6.zoeweb.tv%3a1935/z376-live/stream/livestream.m3u8:RÃDIO RURAL DE GUARABIRA
+#DESCRIPTION RÃDIO RURAL DE GUARABIRA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.32.101.11%3a1935/sardegna1/live1.stream/livestream.m3u8:SARDEGNA UNO
 #DESCRIPTION SARDEGNA UNO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//msh0193.stream.seeweb.it%3a1935/live/stream00.sdp/livestream.m3u8:SARONNO TV
@@ -1713,6 +1723,8 @@
 #DESCRIPTION noa4 Norderstedt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls1.wtnet.de/noa4/apple/wifi6500.m3u8:noa4 Norderstedt FHD
 #DESCRIPTION noa4 Norderstedt FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8:1Music (Mold)
+#DESCRIPTION 1Music (Mold)
 #SERVICE 1:64:83:0:0:0:0:0:0:0::ITALY IPTV
 #DESCRIPTION ITALY IPTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.72.196.214%3a8554/live/mp4%3aAltoAdigeTV/chunklist.m3u8?time=1465231804284:Alto Adige (216p)
