@@ -1,3 +1,6 @@
+﻿           *** ReMyTeaM DEPO ***
+https://github.com/remytr/enigma2
+
 1-Remy_IPTV_Ekle_x: Kendi Listenize iptvleri ekler.
 
 2-Remy_IPTV_Guncelle: Eklediginiz iptvleri buradan guncelleyin.
@@ -22,10 +25,10 @@ Remy_MaTRiX_MoD_Backup_ALL_IMAGES secenegini secin,cihaz yeniden
 baslayinca openatvde mavi tus basip sagdaki restore settingi okeyleyin.
 
 9-ruDream_Crack_Fullbackup: cihaziniza uygun ham rudream imageyi
-kurun ve Remy TeaMi kurun,cihaza usb veya hdd takili olsun,sonra
-pluginden ruDream_Cracki calistirin, cihaz yeniden baslayinca
-exit tusuna basip yazilima girin ve restore setting Yapin,
-son olarak usr/lib/enigma2/python/plugins/extensions icindeki
+kurun ve Remy TeaMi kurun,cihaza usb veya hdd takili olsun,
+ruDream_Cracki calistirin, cihaz yeniden baslayinca exit tusuna
+basip yazilima girin,restore settingi secin,
+son olarak usr/lib/enigma2/python/plugins/extensionsun icindeki
 StorageDevicesWizard dosyasini silin.
 
 10-Remy_Cammanager:oscampowevu ve ccam kurup yonetmenizi saglar,
@@ -38,11 +41,5 @@ oscampvu11232 secip yesiltusla calistirin, serveri oscame eklemek
 icin CCcam to Oscam Converter programini pcye indirip c-satirinizi
 oscame cevirin ve etc/tuxbox/config/ icinde oscam.servera ekleyin.
 
-
      ***T A M A M I N I__O K U M A K__I C I N***
-______________________________________________________
-*****Y U K A R I__O K__T U S U N A__B A S I N I Z*****
-
-***KULLANMA KILAVUZU CIHAZINIZIN TMP KLASORUNE KAYDEDILMISTIR***
-
-***ORADAN PC NIZE KAYDEDIP DAHA DETAYLI OKUYABILIRSINIZ***
+***CIHAZIN TMP KLASORUNE KULLANMA KILAVUZU KAYDEDILMISTIR***
