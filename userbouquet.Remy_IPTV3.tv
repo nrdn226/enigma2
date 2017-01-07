@@ -1,5 +1,5 @@
 #NAME ReMy_PREMIUM
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
+#SERVICE 1:64:96:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
 #DESCRIPTION E N I G M A__T U R K__T E A M
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/denizhaber/denizhaber.m3u8:NAT GEO WILD HD -TR
 #DESCRIPTION NAT GEO WILD HD -TR
@@ -13,12 +13,16 @@
 #DESCRIPTION TRT Spor HD tr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv_576p.m3u8:TJK TV
 #DESCRIPTION TJK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8:CBC SPORT HD
+#DESCRIPTION CBC SPORT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//AgendaStreamerx1.qna.org.qa/kas//kas:ALKASS TV
 #DESCRIPTION ALKASS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs7.cdn.ott.otautv.kz%3a80/dtv/id14_KTR_SG--KazSport/03/plst.m3u8:KAZSPORT
 #DESCRIPTION KAZSPORT
 #SERVICE 1:0:1:120:0:0:0:0:0:0:http%3a//motorsport.hopto.org%3a8080/:FoX Sports 506HD
 #DESCRIPTION FoX Sports 506HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//fms1.tacitus.com.br%3a1935/tvgeral/tvgeral/live.m3u8:FIGHT TV/TV GERAL BA
+#DESCRIPTION FIGHT TV/TV GERAL BA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//178.22.187.253%3a1935/streaming-tv/mp4%3amyStream3:Automoto
 #DESCRIPTION Automoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//100automoto.tv/100gaz:Auto Moto TV Gaz
@@ -109,7 +113,7 @@
 #DESCRIPTION Rete8 Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.236.10.10%3a1935/dgrau/dgrau/live.m3u8:TV ALL SPORT (720p)
 #DESCRIPTION TV ALL SPORT (720p)
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::B E L G E S E L__D O C U M E N T A R Y
+#SERVICE 1:64:97:0:0:0:0:0:0:0::B E L G E S E L__D O C U M E N T A R Y
 #DESCRIPTION B E L G E S E L__D O C U M E N T A R Y
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.239.200%3a7088/:DOCUMANTARY TR
 #DESCRIPTION DOCUMANTARY TR
@@ -151,7 +155,7 @@
 #DESCRIPTION Travel HD BG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8:NASA TV HD
 #DESCRIPTION NASA TV HD
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::H A B E R__N E W S_W O R L D
+#SERVICE 1:64:98:0:0:0:0:0:0:0::H A B E R__N E W S_W O R L D
 #DESCRIPTION H A B E R__N E W S_W O R L D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -183,7 +187,7 @@
 #DESCRIPTION WGN News Chicago
 #SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?:WGNPrimary
 #DESCRIPTION WGNPrimary
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::4K_3D_E N T E R T A I N M E N T_T V
+#SERVICE 1:64:99:0:0:0:0:0:0:0::4K_3D_E N T E R T A I N M E N T_T V
 #DESCRIPTION 4K_3D_E N T E R T A I N M E N T_T V
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.76.26.81%3a8081/hdmedia/hdmedia_3d/playlist.m3u8:HD Media 3D
 #DESCRIPTION HD Media 3D
@@ -229,6 +233,8 @@
 #DESCRIPTION NHK World Japan
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//lcdn.une.net.co%3a80/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8:LIFE DESIGN TV
 #DESCRIPTION LIFE DESIGN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/ldtv/ldtv/chunklist_w600022314.m3u8:Miami Colombia-Life Desing
+#DESCRIPTION Miami Colombia-Life Desing
 #SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8:ANTENA3
 #DESCRIPTION ANTENA3
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8:Antena 3
@@ -341,7 +347,7 @@
 #DESCRIPTION Al Rai TV
 #SERVICE 4097:0:1:100:0:0:0:0:0:0:http%3a//185.27.116.54%3a1935/live/amn/chunklist_w1521888123.m3u8:Jorden TV
 #DESCRIPTION Jorden TV
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::linux_hosting
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::linux_hosting
 #DESCRIPTION linux_hosting
 #SERVICE 4097:0:1:126:0:0:0:0:0:0:rtmp%3a//streaming.linuxhosting.gen.tr/Kgrt/Kgrt:KGRT
 #DESCRIPTION KGRT
@@ -627,7 +633,7 @@
 #DESCRIPTION КаNAL 23
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ts%3a//vlc.eu.pn@gourl.su/1di?m3u8:КаNAL 24
 #DESCRIPTION КаNAL 24
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M__V O D - F I L M__
 #DESCRIPTION E N I G M A__T U R K__T E A M__V O D - F I L M__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.4.21.70%3a8000/movie/vod/vod/2786.mkv:Prémonitions
 #DESCRIPTION Prémonitions
