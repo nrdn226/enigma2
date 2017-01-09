@@ -1,7 +1,7 @@
-#NAME ReMy_MUSIC_LIVE
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
+#NAME ReMy_MUSIC_LIVE_IPTV
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::E N I G M A__T U R K__T E A M
 #DESCRIPTION E N I G M A__T U R K__T E A M
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::ReMy_MuSiC_KiNG
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::ReMy_MuSiC_KiNG
 #DESCRIPTION ReMy_MuSiC_KiNG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.78.6%3a1935/live/muztv.stream/index.m3u8:MUZ TV (AZ)
 #DESCRIPTION MUZ TV (AZ)
@@ -31,7 +31,7 @@
 #DESCRIPTION TRT MUZIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp:Nr HD
 #DESCRIPTION Nr HD
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::__M  U  S  i  C _C H A N N E L S__
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::__M  U  S  i  C _C H A N N E L S__
 #DESCRIPTION __M  U  S  i  C _C H A N N E L S__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1400:One.by 4K_UHD MUSIC TV
 #DESCRIPTION One.by 4K_UHD MUSIC TV
@@ -305,6 +305,8 @@
 #DESCRIPTION TV 538
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.221.210.206%3a8081/tvd1p_live/hd/playlist.m3u8:TVD1 HU (720p)
 #DESCRIPTION TVD1 HU (720p)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//195.22.19.189%3a1935/tvbr/tvbrasil1/live.m3u8:TV MANA
+#DESCRIPTION TV MANA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:XITE NL (1080p)
 #DESCRIPTION XITE NL (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott2.odessa.tv%3a7321/index.php?channel=193&key_ott=5f7690fd0bd330afafb91f331adc46dd:VH1(578p)
@@ -333,7 +335,7 @@
 #DESCRIPTION QMusic NL (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8:538 (720p)
 #DESCRIPTION 538 (720p)
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::__K R A L_R A D I O__
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::__K R A L_R A D I O__
 #DESCRIPTION __K R A L_R A D I O__
 #SERVICE 4097:0:1:28:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/arabeskstar.stream/playlist.m3u8:KRAL ARABESK STAR
 #DESCRIPTION KRAL ARABESK STAR
@@ -403,7 +405,7 @@
 #DESCRIPTION KRAL GREECE
 #SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//dygwebradios.radyotvonline.com%3a80/dyg/krelax.stream/playlist.m3u8:KRAL RELAX
 #DESCRIPTION KRAL RELAX
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::ReMy-Clubbin/Tunein/iTunes_Radio_List
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::ReMy-Clubbin/Tunein/iTunes_Radio_List
 #DESCRIPTION ReMy-Clubbin/Tunein/iTunes_Radio_List
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
